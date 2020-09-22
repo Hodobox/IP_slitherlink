@@ -26,7 +26,7 @@ public class Runner {
 		    if (args[i].equals("-trace")) trace = true;
 		}
 		
-		Slitherlink slitherlink = new NaiveModel(fname);
+		Slitherlink slitherlink = new SetNeighborModel(fname);
 		slitherlink.verbose = !brief;
 		if (timeLimit > 0) slitherlink.solver.limitTime(timeLimit);
 		if (trace) slitherlink.solver.showDecisions();

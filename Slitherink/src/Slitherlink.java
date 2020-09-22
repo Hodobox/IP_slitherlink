@@ -1,13 +1,10 @@
 import java.io.*;
 import java.util.HashSet;
-import java.util.Map;
-import java.util.Map.Entry;
 import java.util.Scanner;
 import java.util.Set;
 
 import org.chocosolver.solver.Model;
 import org.chocosolver.solver.Solver;
-import org.chocosolver.solver.search.strategy.Search;
 import org.chocosolver.solver.variables.*;
 import org.jgrapht.alg.util.Pair;
 
@@ -20,7 +17,20 @@ public abstract class Slitherlink {
 	IntVar[] solution;
 	boolean verbose;
 	
-	boolean solve()
+	public Slitherlink(String fname)
+	{
+		try {
+			this.read(fname);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+    	
+		model  = new Model();
+		solver = model.getSolver();
+	}
+	
+ 	boolean solve()
 	{ 
 		return solver.solve(); 
 	}

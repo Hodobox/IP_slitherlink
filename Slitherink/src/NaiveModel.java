@@ -22,18 +22,9 @@ public class NaiveModel extends Slitherlink
     
     public NaiveModel(String fname)
     {
-    	try {
-			this.read(fname);
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	    // save all the parameters I need
-    	
+    	super(fname);
+   	
 	    nodeN = n * n;
-	
-		model  = new Model();
-		solver = model.getSolver();
 	
 	    nIntVar = model.intVar("nodeN", n);
 	
