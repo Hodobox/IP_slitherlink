@@ -1,5 +1,3 @@
-import java.io.IOException;
-
 import org.chocosolver.solver.search.strategy.Search;
 import org.chocosolver.solver.variables.*;
 

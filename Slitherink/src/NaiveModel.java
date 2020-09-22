@@ -1,7 +1,3 @@
-import java.io.IOException;
-
-import org.chocosolver.solver.Model;
-import org.chocosolver.solver.search.strategy.Search;
 import org.chocosolver.solver.variables.*;
 
 public class NaiveModel extends Slitherlink
