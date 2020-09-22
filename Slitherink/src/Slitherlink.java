@@ -22,20 +22,16 @@ public abstract class Slitherlink {
 	
 	boolean solve()
 	{ 
-		//solver.setSearch(Search.minDomLBSearch(solution));
 		return solver.solve(); 
 	}
 	
-	void stats() {solver.printShortStatistics();}
-	void show() 
+	Set<Pair<Integer, Integer>> getEdges()
 	{
 		Set<Pair<Integer, Integer>> edges = new HashSet<>();
 
-        boolean found = false;
         for(int i=0;i<n*n;++i)
             if(solution[i].getValue() != i)
             {
-                found = true;
                 int idx = i;
                 while(solution[idx].getValue() != i)
                 {
@@ -48,7 +44,7 @@ public abstract class Slitherlink {
                         b = -(b - a);
                         a = a - b;
                     }
-                    if(verbose) System.out.println(a+" "+b);
+                    //if(verbose) System.out.println(a+" "+b);
                     edges.add( Pair.of(a,b));
                     idx = solution[idx].getValue();
                 }
@@ -61,15 +57,20 @@ public abstract class Slitherlink {
                     b = -(b - a);
                     a = a - b;
                 }
-                if(verbose) System.out.println(a+" "+b);
+                //if(verbose) System.out.println(a+" "+b);
                 edges.add(Pair.of(a,b));
 
                 break;
             }
 
-        if(found == false)
-            System.out.println("No circuit");
-
+        return edges;
+	}
+	
+	void stats() {solver.printShortStatistics();}
+	void show() 
+	{
+		
+		Set<Pair<Integer, Integer>> edges = getEdges();
         for(int r=0;r<n;++r)
         {
             for(int c=0;c<n;++c)
