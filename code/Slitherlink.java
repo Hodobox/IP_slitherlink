@@ -28,12 +28,15 @@ public class Slitherlink {
     IntVar[] indices, iQuotients, iModulos;
     IntVar[] solQuotients, solModulos;
     IntVar[] diffQuotients, diffModulos;
+    IntVar[] diff;
     IntVar[] solution; // a subcircuit of this will be the solution
 
     IntVar circuitSize; // size of the subcircuit
     IntVar[][] squares;
 
     BoolVar[][] edgeMatrix;
+
+    SetVar neiLeft, neiRight, neiInner, neiUp, neiDown;
 
     boolean verbose;
     
@@ -55,7 +58,12 @@ public class Slitherlink {
     for(int i=0;i<nodeN;++i)
         model.arithm(indices[i],"=",i).post();
 
-    iQuotients = model.intVarArray("iQuotients", nodeN, 0, puzzleSize-1);
+    diff = model.intVarArray("diff",nodeN,-puzzleSize,puzzleSize);
+
+    for(int i=0;i<nodeN;++i)
+        model.arithm(solution[i],"-",indices[i],"=",diff[i]).post();
+
+    /*iQuotients = model.intVarArray("iQuotients", nodeN, 0, puzzleSize-1);
     for(int i=0;i<nodeN;++i)
         model.arithm(iQuotients[i],"=",indices[i],"/",puzzleSize).post();
     iModulos = model.intVarArray("iModulos", nodeN, 0, puzzleSize-1);
@@ -79,11 +87,31 @@ public class Slitherlink {
 
     for(int i=0;i<nodeN;++i)
         model.arithm(diffModulos[i],"+",diffQuotients[i],"<",2).post();
+    */
 
     circuitSize = model.intVar("circuitSize", 4, nodeN);
     model.subCircuit(solution, 0, circuitSize).post();
 
-    squares = model.intVarMatrix("squares", puzzleSize-1, puzzleSize-1, 0, 4);
+    neiLeft = model.setVar("neiLeft", new int[]{0,1,puzzleSize,-puzzleSize});
+    neiRight = model.setVar("neiRight", new int[]{0,-1,puzzleSize,-puzzleSize});
+    neiInner = model.setVar("neiInner", new int[]{0,-1,1,puzzleSize,-puzzleSize});
+    neiUp = model.setVar("neiUp", new int[]{0,-1,1,puzzleSize});
+    neiDown = model.setVar("neiDown", new int[]{0,-1,1,-puzzleSize});
+
+    for(int i=0;i<nodeN;++i)
+        if(i%puzzleSize==0)
+            model.member(diff[i],neiLeft).post();
+        else if (i%puzzleSize == puzzleSize-1)
+            model.member(diff[i],neiRight).post();
+        else if (i<puzzleSize)
+            model.member(diff[i],neiUp).post();
+        else if (i>=nodeN-puzzleSize)
+            model.member(diff[i],neiDown).post();
+        else
+            model.member(diff[i],neiInner).post();
+        
+
+    squares = model.intVarMatrix("squares", puzzleSize-1, puzzleSize-1, 0, 3);
 
     for(int i=0;i<puzzleSize-1;++i)
     for(int k=0;k<puzzleSize-1;++k)
@@ -100,6 +128,7 @@ public class Slitherlink {
     for(int k=0;k<puzzleSize-1;++k)
     {
         int ulcorner = i*puzzleSize + k;
+        if(board[i][k] != -1)
         model.sum(new BoolVar[] {edgeMatrix[ulcorner][ulcorner+1],edgeMatrix[ulcorner][ulcorner+puzzleSize],edgeMatrix[ulcorner+1][ulcorner+puzzleSize+1],edgeMatrix[ulcorner+puzzleSize][ulcorner+puzzleSize+1]},"=",squares[i][k]).post();
     }
 
@@ -125,6 +154,7 @@ public class Slitherlink {
     
 
     void solve(){
+    solver.setSearch(Search.minDomLBSearch(solution));
 	solver.solve();
     //for(int i=0;i<name.length;i++)
     //    this.period[i] = this.assigned[i].getValue();

@@ -52,12 +52,13 @@ public class Go {
 	}
 	readSlitherlink(fname);
 	Slitherlink slitherlink = new Slitherlink(puzzleSize, board);
-	slitherlink.verbose = !brief;
+	//slitherlink.verbose = !brief;
 	if (timeLimit > 0) slitherlink.solver.limitTime(timeLimit);
 	if (trace) slitherlink.solver.showDecisions();
-	if (optimize) slitherlink.optimize();
+	//if (optimize) slitherlink.optimize();
 	else if (solve) slitherlink.solve();
 	slitherlink.show();
+    //slitherlink.stats();
     }
 }
 	
