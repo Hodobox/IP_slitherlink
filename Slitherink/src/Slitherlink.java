@@ -124,11 +124,26 @@ public abstract class Slitherlink {
 		sc.close();
 	}
 	
-	int[] getResult()
+	void save(String fname)
 	{
-		int[] result = new int[n*n];
-	    for (int i=0;i<n*n;i++)
-	        result[i] = solution[i].getValue();
-	    return result;
+		Set<Pair<Integer, Integer>> edges = getEdges();
+		try {
+		      File file = new File(fname);
+		      if (file.createNewFile()) {
+		        System.out.println("File created: " + file.getName());
+		        FileWriter myWriter = new FileWriter(fname);
+		        myWriter.write(edges.size() + "\n");
+		        for(Pair<Integer,Integer> e : edges)
+		        {
+		        	myWriter.write(e.getFirst() + " " + e.getSecond() + "\n");
+		        }
+		        myWriter.close();
+		      } else {
+		        System.out.println("File already exists, ignoring");
+		      }
+		    } catch (IOException e) {
+		      e.printStackTrace();
+		    }
+		
 	}
 }
