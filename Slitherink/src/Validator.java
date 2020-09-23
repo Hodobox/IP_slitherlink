@@ -173,7 +173,7 @@ public class Validator {
 			e.printStackTrace();
 		}
 		
-		Set<Pair<Integer, Integer>> edges = new HashSet<>();
+		edges = new HashSet<>();
 		
 		try {
 			sc = new java.util.Scanner(new File(output));
