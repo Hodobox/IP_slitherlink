@@ -61,7 +61,7 @@ public class Validator {
 		return graph;
 	}
 	
-	private int validateLoop(ArrayList<Integer>[] graph, boolean verbose)
+	private void validateLoop(ArrayList<Integer>[] graph, boolean verbose)
 	{
 		// check whether a single loop is present
 		int root = 0;
@@ -100,13 +100,41 @@ public class Validator {
 				if(verbose) System.out.println("Graph is more than 1 component");
 				break;
 			}
-		
-		return root;
 	}
 	
-	private void validateBoard(int root, ArrayList<Integer>[] graph, boolean verbose)
+	private void validateBoard(boolean verbose)
 	{
 		// check whether slitherlink board is satisfied
+		int[][] values = new int[n-1][n-1];
+		for(int i=0;i<n*n-2*n+1;++i) values[i/(n-1)][i%(n-1)] = 0;
+		for(Pair<Integer,Integer> e : edges)
+		{
+			int a = e.getFirst(), b = e.getSecond();
+			
+			if(b-a==1) // horizontal
+			{
+				if(a>n-1) values[a/n-1][a%n]++;
+				if(a+n<n*n) values[a/n][a%n]++;
+			}
+			else // vertical
+			{
+				if(a%n>0) values[a/n][a%n-1]++;
+				if(a%n<n-1) values[a/n][a%n]++;
+			}
+			
+		}
+		
+		for(int i=0;i<n-1;++i)
+		for(int k=0;k<n-1;++k)
+			if(board[i][k] != -1)
+			{
+				if(values[i][k] != board[i][k])
+				{
+					VALID = false;
+					if(verbose) System.out.println("Slitherink requires " + board[i][k] + " at " + i + "," + k + " but " + values[i][k] + " instead");
+				}
+			}
+
 	}
 	
 	public boolean validate(boolean verbose)
@@ -119,10 +147,9 @@ public class Validator {
 			return false;
 		}
 		
-		int root = -1;
 		ArrayList<Integer>[] graph = validateEdges(verbose);
-		if(VALID) root = validateLoop(graph, verbose);
-		if(VALID) validateBoard(root, graph, verbose);
+		if(VALID) validateLoop(graph, verbose);
+		if(VALID) validateBoard(verbose);
 		
 		if(verbose) System.out.print("Solution valid: " + VALID);
 		return VALID;
