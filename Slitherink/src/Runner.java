@@ -46,8 +46,6 @@ public class Runner {
 		slitherlink.verbose = !brief;
 		if (timeLimit > 0) slitherlink.solver.limitTime(timeLimit);
 		if (trace) slitherlink.solver.showDecisions();
-		//if (optimize) slitherlink.optimize();
-		//else 
 		slitherlink.solve();
 		slitherlink.show();
 	    slitherlink.stats();

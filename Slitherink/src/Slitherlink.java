@@ -19,12 +19,7 @@ public abstract class Slitherlink {
 	
 	public Slitherlink(String fname)
 	{
-		try {
-			this.read(fname);
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		this.read(fname);
     	
 		model  = new Model();
 		solver = model.getSolver();
@@ -111,9 +106,11 @@ public abstract class Slitherlink {
             }
         }
 	}
-	void read(String fname) throws IOException
+	void read(String fname)
 	{
-		Scanner sc = new java.util.Scanner(new File(fname));
+		Scanner sc;
+		try {
+			sc = new java.util.Scanner(new File(fname));
 		n = sc.nextInt();
 		board = new int[n-1][n-1];
     	for (int i=0;i<n-1;i++)
@@ -122,6 +119,10 @@ public abstract class Slitherlink {
                 board[i][k] = sc.nextInt();
     	}
 		sc.close();
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 	
 	void save(String fname)
