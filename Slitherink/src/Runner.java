@@ -52,6 +52,9 @@ public class Runner {
 	    
 	    String saveName = fname.substring(0,fname.length()-2) + modelName + ".out";
 	    slitherlink.save(saveName);
+	    
+	    Validator val = new Validator(slitherlink);
+	    val.validate(true);
 	}
 
 }
