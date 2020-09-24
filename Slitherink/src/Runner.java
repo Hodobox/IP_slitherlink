@@ -22,6 +22,7 @@ public class Runner {
 			    "Pat\n" +
 				"SetNeighbor"		
 			);
+			return;
 		}
 		
 		String fname = args[0];
