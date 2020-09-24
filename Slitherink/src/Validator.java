@@ -87,11 +87,7 @@ public class Validator {
 			}
 		}
 		
-		if(cur != root)
-		{
-			VALID = false;
-			if(verbose) System.out.println("Edge from " + root + " but cycle reached at " + cur);
-		}
+		// since validateEdges passed, each non-trivial component is a cycle. Thus we definitely covered a valid loop.
 		
 		for(int i=0;i<n*n;++i)
 			if(!visited[i] && graph[i].size() != 0)
