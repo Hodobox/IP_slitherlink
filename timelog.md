@@ -20,8 +20,6 @@
 * *0.5 hour* Installation of Choco libraries and folder setup
 * *4 hours* Implementation of baseline model (NaiveModel)
 
-## Week 2
-
 ### 22 Sept 2020
 
 * *2 hours* Implementation of improved model using set constraints (SetNeighborModel)
@@ -39,3 +37,8 @@
 
 * *2 hours* Add Validator tests
 * *1 hour* Reading IP Documentation and conforming to requirements (e.g. this log)
+* *0.5 hour* Reading about work in the field such as www.dougandjean.com/slither/index.html
+
+### 24 Sept 2020
+
+* *2 hours* Add NeighEnumModel

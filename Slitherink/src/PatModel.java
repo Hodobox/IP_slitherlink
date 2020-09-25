@@ -41,7 +41,7 @@ public class PatModel extends Slitherlink{
 	    
 	    //
 	    // Link the solution variables with the adjaceny matrix A such that
-	    // A[i]j] = 1 <-> solution[i] = j
+	    // A[i][j] = 1 <-> solution[i] = j
 	    //
 	    for (int i=0;i<n*n;i++){
 	        int ub = solution[i].getUB();

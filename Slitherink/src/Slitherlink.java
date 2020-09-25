@@ -129,8 +129,9 @@ public abstract class Slitherlink {
 	{
 		Set<Pair<Integer, Integer>> edges = getEdges();
 		try {
-		      File file = new File(fname);
-		      if (file.createNewFile()) {
+		      	File file = new File(fname);
+		      	file.createNewFile();
+		      
 		        System.out.println("File created: " + file.getName());
 		        FileWriter myWriter = new FileWriter(fname);
 		        myWriter.write(edges.size() + "\n");
@@ -139,9 +140,6 @@ public abstract class Slitherlink {
 		        	myWriter.write(e.getFirst() + " " + e.getSecond() + "\n");
 		        }
 		        myWriter.close();
-		      } else {
-		        System.out.println("File already exists, ignoring");
-		      }
 		    } catch (IOException e) {
 		      e.printStackTrace();
 		    }

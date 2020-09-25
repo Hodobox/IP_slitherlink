@@ -20,7 +20,8 @@ public class Runner {
 			System.out.println(
 				"Naive\n" +
 			    "Pat\n" +
-				"SetNeighbor"		
+				"SetNeighbor" +
+			    "NeighEnum"
 			);
 			return;
 		}
@@ -39,6 +40,7 @@ public class Runner {
 		if(modelName.equals("Naive")) slitherlink = new NaiveModel(fname);
 		else if (modelName.equals("Pat")) slitherlink = new PatModel(fname);
 		else if (modelName.equals("SetNeighbor")) slitherlink = new SetNeighborModel(fname);
+		else if (modelName.contentEquals("NeighEnum")) slitherlink = new NeighEnumModel(fname);
 		else
 		{
 			System.out.println("Unsupported model: " + modelName);
