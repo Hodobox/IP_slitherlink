@@ -42,3 +42,4 @@
 ### 24 Sept 2020
 
 * *2 hours* Add NeighEnumModel
+* *2 hours* Add SATModel
