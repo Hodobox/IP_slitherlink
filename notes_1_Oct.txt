@@ -1,0 +1,52 @@
+start writing thoughts - informal
+expand on script
+writeup a description of model, format (in/out), light review of puzzles (work done previously)
+
+todo:
+1. different rules/heuristics - try to implement
+    table constraints?
+    hamiltonian circuit - we have a variable 'how long'
+    but its got direction :( (subCircuit). can we eliminate it somehow?
+    always solution 'in other direction'
+2. big problems
+    find some library (look at papers - what do they use?)
+3. singleton arc consistency
+    take variable - assign value. then make problem consistent. if fails, undo value. then propagate again (conseq. of value)
+        repeat for every val, every var
+        top of search: keep on changing it; pushworld, popworld
+            go to world (instantiate), catch exception. pop, if caught, then remove value and propagate
+
+4. problem generation
+    1 solution gen
+    many solution gen
+    no solution gens
+    different properties (num distr, length circuit)
+        so we can investigate properties that make puzzles hard
+
+myself: and testing on top of that generator
+
+5. investiage what is hard for silicon vs. carbon agents
+    give hard silicon puzzles to humans, and other way around
+        publish on some fan forum?
+            what rules do people use? come out with constraints that help on it
+
+6. visualisation/validation
+
+issue later on - what machine is reliable for testing
+
+order:
+1. find problem set
+2. make a rough generator
+3. make a test process
+4. test generator vs solution.
+5. repeat:
+        find puzzles hard for models
+        improve models to solve hard puzzles
+
+sketch a plan and email it
+
+IP supervisor bureaucracy:
+not urget, Patrick will track it down
+
+Kitty M, Jess w, work on algorithms - mostly graph, like Slitherlink. 
+One of them could take me on second semester?

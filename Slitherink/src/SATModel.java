@@ -116,8 +116,7 @@ public class SATModel extends Slitherlink {
         		reified[6] = ul_dlc.reify();
         		reified[7] = dl_ulc.reify();
         		
-        		model.addClausesBoolOrArrayEqualTrue(reified);
-        		
+        		model.addClausesBoolOrArrayEqualTrue(reified);	
         	}
         	else if (board[i][k]==2)
         	{
@@ -185,7 +184,17 @@ public class SATModel extends Slitherlink {
         		Constraint ur_ul_dl_drc = model.and(UR_UL, UL_DL, DL_DR, UR_DR.not());
         		Constraint dr_dl_ul_urc = model.and(DR_DL, DL_UL, UL_UR, DR_UR.not());
         		
-        		BoolVar[] reified = new BoolVar[8];
+        		model.addClauses(LogOp.or(
+        		LogOp.and(UL_DL, DL_DR, DR_UR, UL_UR.not()),
+        		LogOp.and(UR_DR, DR_DL, DL_UL, UR_UL.not()),
+        		LogOp.and(DL_UL, UL_UR, UR_DR, DL_DR.not()),
+        		LogOp.and(DR_UR, UR_UL, UL_DL, DR_DL.not()),
+        		LogOp.and(DL_DR, DR_UR, UR_UL, DL_UL.not()),
+        		LogOp.and(UL_UR, UR_DR, DR_DL, UL_DL.not()),
+        		LogOp.and(UR_UL, UL_DL, DL_DR, UR_DR.not()),
+        		LogOp.and(DR_DL, DL_UL, UL_UR, DR_UR.not())));
+        		
+        		/*BoolVar[] reified = new BoolVar[8];
         		reified[0] = ul_dl_dr_urc.reify();
         		reified[1] = ur_dr_dl_ulc.reify();
         		reified[2] = dl_ul_ur_drc.reify();
@@ -195,7 +204,7 @@ public class SATModel extends Slitherlink {
         		reified[6] = ur_ul_dl_drc.reify();
         		reified[7] = dr_dl_ul_urc.reify();
         		
-        		model.addClausesBoolOrArrayEqualTrue(reified);
+        		model.addClausesBoolOrArrayEqualTrue(reified); */
         		
         	}
         	

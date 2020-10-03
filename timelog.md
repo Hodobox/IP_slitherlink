@@ -39,7 +39,11 @@
 * *1 hour* Reading IP Documentation and conforming to requirements (e.g. this log)
 * *0.5 hour* Reading about work in the field such as www.dougandjean.com/slither/index.html
 
-### 24 Sept 2020
+### 25 Sept 2020
 
 * *2 hours* Add NeighEnumModel
 * *2 hours* Add SATModel
+* *0.5 hour* Experimentation on SATModel (sum = OrTrue = OrTrue + AndFalse)
+
+## Week 2
+* *1 hour* Meeting with supervisor to discuss project aims
