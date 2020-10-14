@@ -175,14 +175,14 @@ public class SATModel extends Slitherlink {
         		
         		//model.addClauses(LogOp.and(LogOp.and(LogOp.and(DR_UR,UL_UR.not()), DL_DR),UL_DL));
         		
-        		Constraint ul_dl_dr_urc = model.and(UL_DL, DL_DR, DR_UR, UL_UR.not());
+        		/*Constraint ul_dl_dr_urc = model.and(UL_DL, DL_DR, DR_UR, UL_UR.not());
         		Constraint ur_dr_dl_ulc = model.and(UR_DR, DR_DL, DL_UL, UR_UL.not());
         		Constraint dl_ul_ur_drc = model.and(DL_UL, UL_UR, UR_DR, DL_DR.not());
         		Constraint dr_ur_ul_dlc = model.and(DR_UR, UR_UL, UL_DL, DR_DL.not());
         		Constraint dl_dr_ur_ulc = model.and(DL_DR, DR_UR, UR_UL, DL_UL.not());
         		Constraint ul_ur_dr_dlc = model.and(UL_UR, UR_DR, DR_DL, UL_DL.not());
         		Constraint ur_ul_dl_drc = model.and(UR_UL, UL_DL, DL_DR, UR_DR.not());
-        		Constraint dr_dl_ul_urc = model.and(DR_DL, DL_UL, UL_UR, DR_UR.not());
+        		Constraint dr_dl_ul_urc = model.and(DR_DL, DL_UL, UL_UR, DR_UR.not());*/
         		
         		model.addClauses(LogOp.or(
         		LogOp.and(UL_DL, DL_DR, DR_UR, UL_UR.not()),

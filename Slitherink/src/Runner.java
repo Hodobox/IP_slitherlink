@@ -7,15 +7,15 @@ public class Runner {
 		    System.out.println("Slitherlink version 0 \n" +
 				       "FILE          Input problem instance (required)\n" +
 				       "MODEL		  Model type (required)\n" +
-	                   "-time INT     Set CPU time limit in seconds (default infinity)\n" +
-				       "-brief        Not verbose\n"+
-				       "-models		  Print list of supported models" +
+	                   "--time INT     Set CPU time limit in seconds (default infinity)\n" +
+				       "--brief        Not verbose\n"+
+				       "--models		  Print list of supported models\n" +
 				       "-h            Print this help message\n"
 		    );
 		    return;
 		}
 		
-		if(args[0].equals("-models"))
+		if(args[0].equals("--models"))
 		{
 			System.out.println(
 				"Naive\n" +
@@ -32,8 +32,8 @@ public class Runner {
 		boolean brief = false, trace = false;
 		long timeLimit = -1;
 		for (int i=1;i<args.length;i++){
-		    if (args[i].equals("-time") || args[i].equals("-t")) timeLimit = 1000 * (long)Integer.parseInt(args[i+1]);
-		    if (args[i].equals("-brief")) brief = true;
+		    if (args[i].equals("--time") || args[i].equals("-t")) timeLimit = 1000 * (long)Integer.parseInt(args[i+1]);
+		    if (args[i].equals("--brief")) brief = true;
 		}
 		
 		Slitherlink slitherlink = null; 
@@ -51,12 +51,13 @@ public class Runner {
 		slitherlink.verbose = !brief;
 		if (timeLimit > 0) slitherlink.solver.limitTime(timeLimit);
 		if (trace) slitherlink.solver.showDecisions();
+		System.out.println("Solving...\n");
 		slitherlink.solve();
 		slitherlink.show();
 	    slitherlink.stats();
 	    
-	    String saveName = fname.substring(0,fname.length()-2) + modelName + ".out";
-	    slitherlink.save(saveName);
+	    //String saveName = fname.substring(0,fname.length()-2) + modelName + ".out";
+	    //slitherlink.save(saveName);
 	    
 	    Validator val = new Validator(slitherlink);
 	    val.validate(true);
