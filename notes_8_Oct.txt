@@ -1,0 +1,9 @@
+8.10.2020
+
+pictures!
+e.g. illustrative problem. Show puzzle, -> input file, solution, -> output file, constraints......
+me: NeighEnum example, SetNeighbor show adjacency, Naive model (overkill?)
+
+MSCiT had a problem dataset, maybe Pat knows where it is?
+- or probably sources of her paper
+

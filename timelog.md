@@ -46,4 +46,24 @@
 * *0.5 hour* Experimentation on SATModel (sum = OrTrue = OrTrue + AndFalse)
 
 ## Week 2
+
+### 1 Oct 2020
 * *1 hour* Meeting with supervisor to discuss project aims
+
+### 3 Oct 2020
+* *1 hour* Beginning of project writeup (https://www.overleaf.com/project/5f78c19e04280b00019ea3fd)
+
+## Week 3
+
+### 6 Oct 2020
+* *1 hour* Working on project writeup
+
+### 8 Oct 2020
+* *1 hour* Working on project writeup
+* *0.5 hour* Meeting with supervisor 
+
+## Week 4
+
+### 14 Oct 2020
+* *1 hour* Parsing puzzles from http://lpl.virtual-optima.com/lpl/lplmodels/puzzles/slitherlink1.txt
+
