@@ -33,7 +33,7 @@ public abstract class Slitherlink {
 	Set<Pair<Integer, Integer>> getEdges()
 	{
 		Set<Pair<Integer, Integer>> edges = new HashSet<>();
-
+		
         for(int i=0;i<n*n;++i)
             if(solution[i].getValue() != i)
             {
@@ -50,6 +50,8 @@ public abstract class Slitherlink {
                         a = a - b;
                     }
                     //if(verbose) System.out.println(a+" "+b);
+                    // in case of incomplete solution we might get stuck where we shouldn't. 
+                    if(edges.contains(Pair.of(a, b))) break; 
                     edges.add( Pair.of(a,b));
                     idx = solution[idx].getValue();
                 }
