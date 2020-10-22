@@ -67,3 +67,7 @@
 ### 14 Oct 2020
 * *1 hour* Parsing puzzles from http://lpl.virtual-optima.com/lpl/lplmodels/puzzles/slitherlink1.txt
 
+### 15 Oct 2020
+* *0.5 hour* Meeting with supervisor
+* *1 hour* Fixing timeLimit bug
+* *1 hour* Writing Logging functionality and compare-sols
