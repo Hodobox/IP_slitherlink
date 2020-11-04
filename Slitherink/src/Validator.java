@@ -5,7 +5,11 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
+import javax.swing.JFrame;
+
 import org.jgrapht.alg.util.Pair;
+import java.awt.*;
+import java.awt.geom.*;
 
 public class Validator {
 	
@@ -13,6 +17,7 @@ public class Validator {
 	int[][] board;
 	Set<Pair<Integer, Integer>> edges;
 	boolean VALID;
+	String fname;
 	
 	private ArrayList<Integer>[] validateEdges(boolean verbose)
 	{
@@ -151,8 +156,80 @@ public class Validator {
 		return VALID;
 	}
 	
+	private class GUI extends JFrame
+	{
+		
+		final int BORDER = 30;
+		final int SQUARESIZE = 50;
+		final int OFFSET = 10;
+		final int FONTSIZE = 24;
+		final int MARKSIZE = 6;
+		
+		public GUI(String title)
+		{
+			super(title);
+			setSize(new Dimension(Validator.this.n*SQUARESIZE+2*OFFSET, Validator.this.n*SQUARESIZE+BORDER+2*OFFSET));
+			setVisible(true);
+			setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		}
+		
+		void drawPuzzle(Graphics g) {
+			  //create new Graphics2D instance using Graphics parent
+			  Graphics2D g2 = (Graphics2D) g;
+			  //set color
+			  g2.setColor(Color.BLACK);
+			  g2.setFont(new Font("TimesRoman", Font.BOLD, FONTSIZE));
+			 
+			  // draw the grid
+			  for(int i=0;i<Validator.this.n;++i)
+			  {
+				  for(int j=0;j<Validator.this.n;++j)
+				  {
+					  g.drawOval(i*SQUARESIZE+OFFSET, j*SQUARESIZE+BORDER+OFFSET, MARKSIZE, MARKSIZE);
+					  g.fillOval(i*SQUARESIZE+OFFSET, j*SQUARESIZE+BORDER+OFFSET, MARKSIZE, MARKSIZE);
+				  }
+			  }
+			  
+			  final int FONTWIDTH = g.getFontMetrics().stringWidth("3");
+			  
+			  // draw the clues
+			  for(int i=0;i<Validator.this.n-1;++i)
+			  {
+				  for(int j=0;j<Validator.this.n-1;++j)
+				  {
+					  int clue = Validator.this.board[i][j];
+					  if(clue != -1)
+					  {
+						  g.drawChars(new char[] {(char) (clue+'0')}, 0, 1, i*SQUARESIZE + SQUARESIZE/2 - FONTWIDTH/2 + OFFSET, j*SQUARESIZE+ SQUARESIZE/2 + FONTSIZE/2 + BORDER + OFFSET);
+					  }
+				  }
+			  }
+			  
+			  // draw the edges
+			  for(Pair<Integer,Integer> e : edges)
+			  {
+				  int x = e.getFirst() / n, y = e.getFirst() % n;
+				  int X = e.getSecond() / n, Y = e.getSecond() % n;
+				  g.drawLine(x*SQUARESIZE + MARKSIZE/2 + OFFSET, y*SQUARESIZE + MARKSIZE/2 + OFFSET + BORDER, X*SQUARESIZE + MARKSIZE/2 + OFFSET, Y*SQUARESIZE + MARKSIZE/2 + OFFSET + BORDER);
+			  }
+			  
+			}
+		
+	    public void paint(Graphics g) {
+	        super.paint(g);
+	        drawPuzzle(g);
+	      }
+		
+	}
+	
+	public void show()
+	{
+		GUI g = new GUI(fname);
+	}
+	
 	public Validator(String input, String output)
 	{
+		fname = output;
 		Scanner sc;
 		try {
 			sc = new java.util.Scanner(new File(input));
@@ -188,6 +265,7 @@ public class Validator {
 	
 	public Validator(Slitherlink model)
 	{
+		fname = model.fname;
 		n = model.n;
 		edges = model.getEdges();
 		board = model.board;

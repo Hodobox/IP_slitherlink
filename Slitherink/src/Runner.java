@@ -61,6 +61,7 @@ public class Runner {
 	    
 	    Validator val = new Validator(slitherlink);
 	    val.validate(true);
+	    val.show();
 	}
 
 }

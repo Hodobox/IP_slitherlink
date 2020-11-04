@@ -1,0 +1,26 @@
+15 oct
+
+send all puzzles
+point out loops (infinite bug)
+
+file called graceful: find line where she sets runtime
+
+jesse n wright (? spelling) will supervise me
+a new lecturer, canadian, works in algs group
+very direct
+not a constraint programmer, but she's in graph theory
+most todo with covid19 atm
+
+do you have any software recommendations for illustrations?
+powerpoint jpeg
+tics is highquality stuff
+look at anne's writeup
+
+alice miller and mike codish - problems in graph theory 
+(monster graph drawing)
+
+maybe a proper visualisation (graphical, not ASCII)
+
+bad supervisor mode: 3P's and Q's next time! Can send to jesse 
+as an overview
+

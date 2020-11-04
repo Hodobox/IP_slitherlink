@@ -16,11 +16,12 @@ public abstract class Slitherlink {
 	int[][] board;
 	IntVar[] solution;
 	boolean verbose;
+	String fname;
 	
 	public Slitherlink(String fname)
 	{
 		this.read(fname);
-    	
+    	this.fname = fname;
 		model  = new Model();
 		solver = model.getSolver();
 	}
