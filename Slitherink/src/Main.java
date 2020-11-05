@@ -1,3 +1,4 @@
+import java.io.IOException;
 import java.util.EnumMap;
 
 public class Main {
@@ -58,13 +59,13 @@ public class Main {
 					+ "CLASS specific options:\n"
 					+ "-----------------------\n"
 					+ "Runner:\n"
-					+ "FILE (required): Input problem instance (ending in .in)\n"
-					+ "MODEL (required): Model to run. See --models for list of supported models\n"
+					+ "--file STRING (required): Input problem instance (ending in .in)\n"
+					+ "--model STRING (required): Model to run. See --models for list of supported models\n"
 					+ "--time INT: Set CPU time limit in seconds (default infinity)\n"
 				    + "--brief: Not verbose\n"
 				    + "-----------------------\n"
 				    + "Tester:\n"
-				    + "MODEL (required): Model to run. See --models for list of supported models\n"
+				    + "--model STRING (required): Model to run. See --models for list of supported models\n"
 				    + "--time INT: Set CPU time limit in seconds (default infinity)\n" 
 					+ "--dir STRING: Specify directory to read inputs from (default data/in/manual)\n"
 					+ "-----------------------\n");
@@ -79,19 +80,41 @@ public class Main {
 		}
 		else initModels(false);
 		
-		ModelEnum modelNum = ModelEnum.valueOf(args[0]);
 		
 		// parse all supported arguments
-		
 		String fname = null, model = null;
 		long time = -1;
-		Boolean brief = null;
+		boolean brief = false;
 		String dir = "data/in/manual/";
 		
-		/*for (int i=1;i<args.length;i++){
-		    if (args[i].equals("--time") || args[i].equals("-t")) timeLimit = 1000 * (long)Integer.parseInt(args[i+1]);
-		    if(args[i].equals("--dir") || args[i].equals("-d")) dir = args[i+1];
-		}*/
+		String classToRun = args[0];
+		
+		int argidx = 1;
+		while(argidx < args.length)
+		{
+			String a = args[argidx];
+			if(a.equals("--file")) { fname = args[argidx+1]; argidx++;}
+			else if (a.equals("--model")) { model = args[argidx+1]; argidx++;}
+			else if (a.equals("--time")) { time = Integer.parseInt(args[argidx+1]); argidx++; }
+			else if (a.equals("--brief")) { brief = true; }
+			else if (a.equals("--dir")) { dir = args[argidx+1]; argidx++; }
+			else System.out.println("Error: unknown option '" + args[argidx] + "'");
+			
+			argidx++;
+		}
+		
+		ModelEnum modelNum = null;
+		if(model != null) modelNum = ModelEnum.valueOf(model);
+		
+		if(classToRun.equals("Tester"))
+		{
+			try {
+				Tester.test(modelMap.get(modelNum), time, dir);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
 		
 		
 	}
