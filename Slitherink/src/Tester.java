@@ -33,7 +33,7 @@ public class Tester {
 		
 		File[] files = new File(dir).listFiles();
 		
-		Constructor constructor = null;
+		Constructor<? extends Slitherlink> constructor = null;
 		try {
 			constructor = modelClass.getConstructor(String.class);
 		} catch (NoSuchMethodException e) {

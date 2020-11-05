@@ -80,3 +80,5 @@
 
 ### 5 November 2020
 * *2 hours* Begin restructuring for Main class
+* *1 hour* Tester works with Main class
+* *0.5 hour* Runner works with Main class

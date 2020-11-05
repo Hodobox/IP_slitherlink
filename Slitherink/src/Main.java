@@ -115,6 +115,16 @@ public class Main {
 				e.printStackTrace();
 			}
 		}
+		else if (classToRun.equals("Runner"))
+		{
+			try {
+				Runner.run(modelMap.get(modelNum), fname, time, brief);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		else System.out.println("Unsupported CLASS '" + classToRun + "'");
 		
 		
 	}
