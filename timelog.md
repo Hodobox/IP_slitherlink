@@ -71,3 +71,12 @@
 * *0.5 hour* Meeting with supervisor
 * *1 hour* Fixing timeLimit bug
 * *1 hour* Writing Logging functionality and compare-sols
+
+### 28 November 2020
+* *1 hour* Reading up on graphics2D
+
+### 4 November 2020
+* *2 hours* Implementing GUI in Validator
+
+### 5 November 2020
+* *2 hours* Begin restructuring for Main class
