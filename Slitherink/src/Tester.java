@@ -48,6 +48,9 @@ public class Tester {
 		{
 			Slitherlink slitherlink = null; 
 			String fname = input.getPath();
+			if(fname.endsWith(".in") == false)
+				continue;
+			
 			try {
 				slitherlink = (Slitherlink) constructor.newInstance(fname);
 			} catch (InstantiationException e) {

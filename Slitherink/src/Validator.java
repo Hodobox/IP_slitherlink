@@ -9,7 +9,6 @@ import javax.swing.JFrame;
 
 import org.jgrapht.alg.util.Pair;
 import java.awt.*;
-import java.awt.geom.*;
 
 public class Validator {
 	

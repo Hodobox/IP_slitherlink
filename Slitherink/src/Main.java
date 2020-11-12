@@ -63,6 +63,7 @@ public class Main {
 					+ "--model STRING (required): Model to run. See --models for list of supported models\n"
 					+ "--time INT: Set CPU time limit in seconds (default infinity)\n"
 				    + "--brief: Not verbose\n"
+					+ "--save: Save solution (same directory as file, with model in its name and .out extension)\n"
 				    + "-----------------------\n"
 				    + "Tester:\n"
 				    + "--model STRING (required): Model to run. See --models for list of supported models\n"
@@ -86,6 +87,7 @@ public class Main {
 		long time = -1;
 		boolean brief = false;
 		String dir = "data/in/manual/";
+		boolean save = false;
 		
 		String classToRun = args[0];
 		
@@ -98,6 +100,7 @@ public class Main {
 			else if (a.equals("--time")) { time = Integer.parseInt(args[argidx+1]); argidx++; }
 			else if (a.equals("--brief")) { brief = true; }
 			else if (a.equals("--dir")) { dir = args[argidx+1]; argidx++; }
+			else if (a.equals("--save")) { save = true; }
 			else System.out.println("Error: unknown option '" + args[argidx] + "'");
 			
 			argidx++;
@@ -118,7 +121,7 @@ public class Main {
 		else if (classToRun.equals("Runner"))
 		{
 			try {
-				Runner.run(modelMap.get(modelNum), fname, time, brief);
+				Runner.run(modelMap.get(modelNum), fname, time, brief, save);
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();

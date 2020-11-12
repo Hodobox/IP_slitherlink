@@ -4,7 +4,7 @@ import java.lang.reflect.InvocationTargetException;
 
 public class Runner {
 
-	public static void run(Class <? extends Slitherlink> modelClass, String fname, long timeLimit, boolean brief) throws IOException {
+	public static void run(Class <? extends Slitherlink> modelClass, String fname, long timeLimit, boolean brief, boolean save) throws IOException {
 		
 		Constructor<? extends Slitherlink> constructor = null;
 		try {
@@ -41,8 +41,11 @@ public class Runner {
 		slitherlink.show();
 	    slitherlink.stats();
 	    
-	    //String saveName = fname.substring(0,fname.length()-2) + modelName + ".out";
-	    //slitherlink.save(saveName);
+	    if(save)
+	    {
+	    	String saveName = fname.substring(0,fname.length()-2) + modelClass.getSimpleName() + ".out";
+	    	slitherlink.save(saveName);
+	   	}
 	    
 	    Validator val = new Validator(slitherlink);
 	    val.validate(true);
