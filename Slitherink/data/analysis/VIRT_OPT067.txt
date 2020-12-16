@@ -1,0 +1,3 @@
+n 11
+counts 61 2 13 7 17
+length 106

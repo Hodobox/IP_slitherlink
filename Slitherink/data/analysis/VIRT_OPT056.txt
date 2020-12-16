@@ -1,0 +1,3 @@
+n 10
+counts 45 1 9 20 6
+length 80

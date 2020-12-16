@@ -1,0 +1,3 @@
+n 5
+counts 10 2 0 4 0
+length 16

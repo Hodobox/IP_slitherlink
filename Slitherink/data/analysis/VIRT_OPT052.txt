@@ -1,0 +1,3 @@
+n 10
+counts 51 1 9 15 5
+length 90

@@ -54,7 +54,7 @@ public class Main {
 			System.out.println("Options:\n"
 					+ "--models: displays supported models\n"
 					+ "-h: displays this message\n"
-					+ "CLASS (required as first argument for normal run): the class to run. Currently supported: Tester, Runner.\n"
+					+ "CLASS (required as first argument for normal run): the class to run. Currently supported: Tester, Runner, Analyzer.\n"
 					+ "\n"
 					+ "CLASS specific options:\n"
 					+ "-----------------------\n"
@@ -69,7 +69,11 @@ public class Main {
 				    + "--model STRING (required): Model to run. See --models for list of supported models\n"
 				    + "--time INT: Set CPU time limit in seconds (default infinity)\n" 
 					+ "--dir STRING: Specify directory to read inputs from (default data/in/manual)\n"
-				    + "== Note that Tester always saves to data/out/ =="
+				    + "== Note that Tester always saves to data/out/ ==\n"
+					+ "-----------------------\n"
+				    + "Analyzer:\n"
+					+ "--dir STRING: Specificy directory to read inputs from (default data/in/manual)\n"
+				    + "== Note that Analyzer always logs to data/analysis/ ==\n"
 					+ "-----------------------\n");
 			
 			return;
@@ -127,6 +131,10 @@ public class Main {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
+		}
+		else if (classToRun.equals("Analyzer"))
+		{
+			Analyzer.analyze(dir);
 		}
 		else System.out.println("Unsupported CLASS '" + classToRun + "'");
 		

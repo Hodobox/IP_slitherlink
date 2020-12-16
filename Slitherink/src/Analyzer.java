@@ -14,9 +14,9 @@ public class Analyzer {
 	
 	private static String getInstanceName(File f)
 	{
-		String fname = f.getPath();
-		String[] fnameParts = fname.split(".");
-		String instanceName = fnameParts[fnameParts.length-3];
+		String[] fnameParts = f.getPath().split("/");
+		fnameParts = fnameParts[fnameParts.length-1].split("\\.");
+		String instanceName = fnameParts[0];
 		return instanceName;
 	}
 	
@@ -41,9 +41,31 @@ public class Analyzer {
 		return null;
 	}
 	
-	private static void analyze_inner(Validator instance, FileWriter log)
+	private static void analyze_inner(Validator instance, FileWriter log) throws IOException
 	{
+		// n
+		log.write("n " + instance.n + "\n");
 		
+		// counts of numbers (-1,0,1,2,3)
+		int[] counts = {0,0,0,0,0};
+		for(int i=0;i<instance.n-1;++i)
+		{
+			for(int k=0;k<instance.n-1;++k)
+			{
+				counts[ instance.board[i][k]+1 ] += 1;
+			}
+		}
+		
+		log.write("counts");
+		for(int i=0;i<5;++i)
+			log.write(" " + counts[i]);
+		log.write("\n");
+		
+		// length of path (if we have solution)
+		if(instance.VALID)
+		{
+			log.write("length " + instance.edges.size() + "\n");
+		}
 	}
 	
 	public static void analyze(String dir)
@@ -64,7 +86,7 @@ public class Analyzer {
 				instance.validate(false); // will set VALID to false
 			}
 			
-			File logFile = new File("data/analysis/" + getInstanceName(input));
+			File logFile = new File("data/analysis/" + getInstanceName(input) + ".txt");
 			FileWriter logWriter = null;
 			try {
 				logWriter = new FileWriter(logFile);

@@ -1,0 +1,3 @@
+n 10
+counts 47 4 11 12 7
+length 78

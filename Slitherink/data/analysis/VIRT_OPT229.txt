@@ -1,0 +1,3 @@
+n 11
+counts 60 6 15 9 10
+length 96

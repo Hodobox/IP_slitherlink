@@ -1,0 +1,3 @@
+n 11
+counts 48 2 9 26 15
+length 112

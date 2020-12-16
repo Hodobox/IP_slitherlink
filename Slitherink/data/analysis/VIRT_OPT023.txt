@@ -1,0 +1,3 @@
+n 7
+counts 19 1 8 6 2
+length 32

@@ -1,0 +1,3 @@
+n 10
+counts 49 4 11 13 4
+length 76

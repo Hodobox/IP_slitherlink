@@ -1,0 +1,3 @@
+n 6
+counts 14 0 4 4 3
+length 26

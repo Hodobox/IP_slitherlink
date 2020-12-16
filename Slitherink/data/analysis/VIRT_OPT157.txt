@@ -1,0 +1,3 @@
+n 11
+counts 54 0 4 30 12
+length 120

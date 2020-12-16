@@ -1,0 +1,3 @@
+n 7
+counts 23 0 2 3 8
+length 48

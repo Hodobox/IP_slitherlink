@@ -1,0 +1,3 @@
+n 8
+counts 30 2 5 10 2
+length 50

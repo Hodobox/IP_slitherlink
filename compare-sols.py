@@ -38,5 +38,5 @@ for i in range(len(x)):
 plt.xlabel(xlabel)
 plt.ylabel(ylabel)
 plt.scatter(x,y,2)
-plt.plot([0,60],[0,60],linewidth=0.5,c='r')
+plt.plot([0,mx],[0,mx],linewidth=0.5,c='r')
 plt.show()

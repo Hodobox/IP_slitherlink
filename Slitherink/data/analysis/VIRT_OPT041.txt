@@ -1,0 +1,3 @@
+n 9
+counts 40 1 7 9 7
+length 72

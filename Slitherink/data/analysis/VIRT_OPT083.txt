@@ -1,0 +1,3 @@
+n 11
+counts 50 0 50 0 0
+length 74
