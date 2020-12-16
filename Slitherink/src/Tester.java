@@ -98,7 +98,7 @@ public class Tester {
 		    else
 		    {
 		    	logWriter.write("Unsolved\n");
-		    	System.out.println("Failed to solve " + fname + " in " + timeLimit + "ms");
+		    	System.out.println("Failed to solve " + fname + " in " + timeLimit*1000 + "ms");
 		    }
 		    
 		    logWriter.write("\n");

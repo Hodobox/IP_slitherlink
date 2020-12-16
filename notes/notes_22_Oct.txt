@@ -1,0 +1,13 @@
+activity based search works occasionally
+
+two things to do:
+
+1. visualise a problem
+2. human beings solve some of these problems?
+
+metrics sound good
+
+size of problems
+number of 0/1/2/3
+length of the tour (for solvable)
+

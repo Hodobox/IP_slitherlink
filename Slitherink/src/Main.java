@@ -69,6 +69,7 @@ public class Main {
 				    + "--model STRING (required): Model to run. See --models for list of supported models\n"
 				    + "--time INT: Set CPU time limit in seconds (default infinity)\n" 
 					+ "--dir STRING: Specify directory to read inputs from (default data/in/manual)\n"
+				    + "== Note that Tester always saves to data/out/ =="
 					+ "-----------------------\n");
 			
 			return;

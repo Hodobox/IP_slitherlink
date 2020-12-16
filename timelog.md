@@ -72,13 +72,33 @@
 * *1 hour* Fixing timeLimit bug
 * *1 hour* Writing Logging functionality and compare-sols
 
-### 28 November 2020
+## Week 5
+
+### 22 Oct 2020
+* *0.5 hour* Meeting with supervisor
+
+## Week 6
+
+### 28 October 2020
 * *1 hour* Reading up on graphics2D
+
+## Week 7
 
 ### 4 November 2020
 * *2 hours* Implementing GUI in Validator
 
 ### 5 November 2020
+* *0.5 hour* Meeting with supervisor
 * *2 hours* Begin restructuring for Main class
 * *1 hour* Tester works with Main class
 * *0.5 hour* Runner works with Main class
+
+## Week 8
+
+### 12 November 2020
+* *1 hour* Meeting with supervisor
+
+## Week 13
+
+### 16 December 2020
+* *1 hour* Start work on Analyzer
