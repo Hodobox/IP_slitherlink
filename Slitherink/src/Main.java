@@ -54,26 +54,29 @@ public class Main {
 			System.out.println("Options:\n"
 					+ "--models: displays supported models\n"
 					+ "-h: displays this message\n"
-					+ "CLASS (required as first argument for normal run): the class to run. Currently supported: Tester, Runner, Analyzer.\n"
+					+ "CLASS (required as first argument for normal run): the class to run. Currently supported: Tester, Runner, Analyzer, Displayer.\n"
 					+ "\n"
 					+ "CLASS specific options:\n"
 					+ "-----------------------\n"
-					+ "Runner:\n"
+					+ "Runner (runs a model on a problem instance):\n"
 					+ "--file STRING (required): Input problem instance (ending in .in)\n"
 					+ "--model STRING (required): Model to run. See --models for list of supported models\n"
 					+ "--time INT: Set CPU time limit in seconds (default infinity)\n"
 				    + "--brief: Not verbose\n"
 					+ "--save: Save solution (same directory as file, with model in its name and .out extension)\n"
 				    + "-----------------------\n"
-				    + "Tester:\n"
+				    + "Tester (runs a model on a set of instances):\n"
 				    + "--model STRING (required): Model to run. See --models for list of supported models\n"
 				    + "--time INT: Set CPU time limit in seconds (default infinity)\n" 
 					+ "--dir STRING: Specify directory to read inputs from (default data/in/manual)\n"
 				    + "== Note that Tester always saves to data/out/ ==\n"
 					+ "-----------------------\n"
-				    + "Analyzer:\n"
+				    + "Analyzer (gathers properties of instances/solutions):\n"
 					+ "--dir STRING: Specificy directory to read inputs from (default data/in/manual)\n"
 				    + "== Note that Analyzer always logs to data/analysis/ ==\n"
+					+ "Displayer (makes a GUI with an instance/solution):\n"
+				    + "--file STRING (required): Input problem instance (ending in .in)\n"
+					+ "--sol STRING: Appropriate solution file to the problem instance (ending in .out)"
 					+ "-----------------------\n");
 			
 			return;
@@ -88,7 +91,7 @@ public class Main {
 		
 		
 		// parse all supported arguments
-		String fname = null, model = null;
+		String fname = null, model = null, sol = null;
 		long time = -1;
 		boolean brief = false;
 		String dir = "data/in/manual/";
@@ -106,6 +109,7 @@ public class Main {
 			else if (a.equals("--brief")) { brief = true; }
 			else if (a.equals("--dir")) { dir = args[argidx+1]; argidx++; }
 			else if (a.equals("--save")) { save = true; }
+			else if (a.equals("--sol")) { sol = args[argidx+1]; argidx++; }
 			else System.out.println("Error: unknown option '" + args[argidx] + "'");
 			
 			argidx++;
@@ -136,8 +140,11 @@ public class Main {
 		{
 			Analyzer.analyze(dir);
 		}
+		else if (classToRun.equals("Displayer"))
+		{
+			Displayer.display(fname, sol);
+		}
 		else System.out.println("Unsupported CLASS '" + classToRun + "'");
-		
 		
 	}
 	
