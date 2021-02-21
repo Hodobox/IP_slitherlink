@@ -102,3 +102,8 @@
 
 ### 16 December 2020
 * *1 hour* Start work on Analyzer
+* *2 hours* Complete prototype analyzer, add visualisation utility (in python), analyze manual data
+
+### 17 December 2020
+* *1 hour* Add Displayer
+* *2 hours* Work on status report

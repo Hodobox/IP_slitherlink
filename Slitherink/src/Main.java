@@ -77,6 +77,9 @@ public class Main {
 					+ "Displayer (makes a GUI with an instance/solution):\n"
 				    + "--file STRING (required): Input problem instance (ending in .in)\n"
 					+ "--sol STRING: Appropriate solution file to the problem instance (ending in .out)"
+					+ "-----------------------\n"
+					+ "Generator (generates puzzle input):\n"
+					+ "--dir STRING: Specify directory to write inputs to (default data/in/generated)\n"
 					+ "-----------------------\n");
 			
 			return;
@@ -94,7 +97,7 @@ public class Main {
 		String fname = null, model = null, sol = null;
 		long time = -1;
 		boolean brief = false;
-		String dir = "data/in/manual/";
+		String dir = null;
 		boolean save = false;
 		
 		String classToRun = args[0];
@@ -120,6 +123,7 @@ public class Main {
 		
 		if(classToRun.equals("Tester"))
 		{
+			if(dir == null) dir = "data/in/manual/";
 			try {
 				Tester.test(modelMap.get(modelNum), time, dir);
 			} catch (IOException e) {
@@ -138,11 +142,17 @@ public class Main {
 		}
 		else if (classToRun.equals("Analyzer"))
 		{
+			if(dir == null) dir = "data/in/manual/";
 			Analyzer.analyze(dir);
 		}
 		else if (classToRun.equals("Displayer"))
 		{
 			Displayer.display(fname, sol);
+		}
+		else if (classToRun.equals("Generator"))
+		{
+			if(dir == null) dir = "data/in/generated/";
+			Generator.generate(dir);
 		}
 		else System.out.println("Unsupported CLASS '" + classToRun + "'");
 		
