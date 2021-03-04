@@ -196,7 +196,7 @@ public class Validator {
 			  {
 				  for(int j=0;j<Validator.this.n-1;++j)
 				  {
-					  int clue = Validator.this.board[i][j];
+					  int clue = Validator.this.board[j][i];
 					  if(clue != -1)
 					  {
 						  g.drawChars(new char[] {(char) (clue+'0')}, 0, 1, i*SQUARESIZE + SQUARESIZE/2 - FONTWIDTH/2 + OFFSET, j*SQUARESIZE+ SQUARESIZE/2 + FONTSIZE/2 + BORDER + OFFSET);
@@ -207,8 +207,8 @@ public class Validator {
 			  // draw the edges
 			  for(Pair<Integer,Integer> e : edges)
 			  {
-				  int x = e.getFirst() / n, y = e.getFirst() % n;
-				  int X = e.getSecond() / n, Y = e.getSecond() % n;
+				  int x = e.getFirst() % n, y = e.getFirst() / n;
+				  int X = e.getSecond() % n, Y = e.getSecond() / n;
 				  g.drawLine(x*SQUARESIZE + MARKSIZE/2 + OFFSET, y*SQUARESIZE + MARKSIZE/2 + OFFSET + BORDER, X*SQUARESIZE + MARKSIZE/2 + OFFSET, Y*SQUARESIZE + MARKSIZE/2 + OFFSET + BORDER);
 			  }
 			  

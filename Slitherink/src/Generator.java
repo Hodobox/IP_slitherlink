@@ -118,7 +118,7 @@ public class Generator {
 				
 				if(bad) continue;
 				
-				// three neighbors
+				// many neighbors
 				int neighbors = 0;
 				for(int ndir=0; ndir<4;++ndir)
 				{
@@ -128,7 +128,7 @@ public class Generator {
 					neighbors += 1;
 				}
 				
-				if(neighbors >= 3) continue;
+				if(neighbors >= 2) continue;
 				
 				valid.add(Pair.of(nx, ny));
 			}
@@ -165,8 +165,7 @@ public class Generator {
 			avail.remove(chosen);
 			expand.add(chosen);
 			expand_list.add(chosen);
-			
-			System.out.println(chosen.getFirst() + "," + chosen.getSecond() + " = " + loop_length);
+
 		}
 		
 		System.out.println(loop_length);
@@ -196,6 +195,78 @@ public class Generator {
 		}
 	}
 	
+	private void remove_clues(String fname)
+	{
+		Random rand = new Random();
+		rand.setSeed(47);
+		int failed_attempts = 0;
+		while(failed_attempts < 5)
+		{
+			// pick random clue to remove
+			int clues_present = 0, remove_x = -1, remove_y = -1;
+			for(int i=0;i<this.n-1;i++)
+			for(int j=0;j<this.n-1;j++)
+			{
+				if(this.board[i][j] != -1 )
+				{
+					clues_present += 1;
+					if(rand.nextDouble() <= 1.0 / clues_present)
+					{
+						remove_x = i;
+						remove_y = j;
+					}
+				}
+			}
+			
+			if(clues_present == 0)
+				break;
+			
+			
+			// remove it, check if we have more than 1 solution
+			int val = this.board[remove_x][remove_y];
+			this.board[remove_x][remove_y] = -1;
+			
+			this.save(fname + ".gen");
+			Slitherlink solver = new SetNeighborModel(fname + ".gen");
+			File tmpfile = new File(fname + ".gen");
+			tmpfile.delete();
+			
+			solver.solver.limitTime(20000);
+			
+			// cant even solve, put it back
+			if(!solver.solve())
+			{
+				System.out.println("cant solve");
+				failed_attempts += 1;
+				this.board[remove_x][remove_y] = val;
+				continue;
+			}
+			
+			if(!solver.solve()) // opposite direction
+			{
+				System.out.println("cant solve");
+				failed_attempts += 1;
+				this.board[remove_x][remove_y] = val;
+				continue;
+			}
+			
+			// look for second solution
+			if(solver.solve())
+			{
+				System.out.println("two solutions");
+				// found one, put it back
+				failed_attempts += 1;
+				this.board[remove_x][remove_y] = val;
+				continue;
+			}
+			
+			System.out.println("ok removed " + remove_x + "," + remove_y);
+			// didn't find one, good!
+			failed_attempts = 0;
+			
+		}
+	}
+	
 	public void generate_single(String fname, boolean save)
 	{		
 		// generate loop
@@ -203,6 +274,9 @@ public class Generator {
 		
 		// generate board from loop
 		this.boardify_loop(loop);
+		
+		// remove clues
+		this.remove_clues(fname);
 		
 		// save board
 		if(save)
