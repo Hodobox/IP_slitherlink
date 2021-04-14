@@ -54,7 +54,7 @@ public class Main {
 			System.out.println("Options:\n"
 					+ "--models: displays supported models\n"
 					+ "-h: displays this message\n"
-					+ "CLASS (required as first argument for normal run): the class to run. Currently supported: Tester, Runner, Analyzer, Displayer.\n"
+					+ "CLASS (required as first argument for normal run): the class to run. Currently supported: Tester, Runner, Analyzer, Displayer, Generator.\n"
 					+ "\n"
 					+ "CLASS specific options:\n"
 					+ "-----------------------\n"
@@ -69,6 +69,7 @@ public class Main {
 				    + "--model STRING (required): Model to run. See --models for list of supported models\n"
 				    + "--time INT: Set CPU time limit in seconds (default infinity)\n" 
 					+ "--dir STRING: Specify directory to read inputs from (default data/in/manual)\n"
+				    + "--file STRING: Specify file to log to (prepends logs/, append .txt)\n"
 				    + "== Note that Tester always saves to data/out/ ==\n"
 					+ "-----------------------\n"
 				    + "Analyzer (gathers properties of instances/solutions):\n"
@@ -80,6 +81,11 @@ public class Main {
 					+ "-----------------------\n"
 					+ "Generator (generates puzzle input):\n"
 					+ "--dir STRING: Specify directory to write inputs to (default data/in/generated)\n"
+					+ "--n INT (required): Specify puzzle size\n"
+					+ "--num INT (required): Specify number of puzzles to generate\n"
+					+ "--length INT: Set cutoff length of loop generation (default -1 = no limit)\n"
+					+ "--clues FLOAT: Set proportion of clues to remove (default -1 = no limit)\n"
+					+ "--suffix STRING: Specify suffix of generated files\n"
 					+ "-----------------------\n");
 			
 			return;
@@ -94,11 +100,14 @@ public class Main {
 		
 		
 		// parse all supported arguments
-		String fname = null, model = null, sol = null;
+		String fname = null, model = null, sol = null,suffix = null;
 		long time = -1;
 		boolean brief = false;
 		String dir = null;
 		boolean save = false;
+		int n = -1, length = -1;
+		double clues = -1;
+		int num = 0;
 		
 		String classToRun = args[0];
 		
@@ -113,6 +122,10 @@ public class Main {
 			else if (a.equals("--dir")) { dir = args[argidx+1]; argidx++; }
 			else if (a.equals("--save")) { save = true; }
 			else if (a.equals("--sol")) { sol = args[argidx+1]; argidx++; }
+			else if (a.equals("--n")) {  n = Integer.parseInt(args[argidx+1]); argidx++; }
+			else if (a.equals("--num")) { num = Integer.parseInt(args[argidx+1]); argidx++; }
+			else if (a.equals("--suffix")) { suffix = args[argidx+1]; argidx++; }
+			else if (a.equals("--length")) { length = Integer.parseInt(args[argidx+1]); argidx++; }
 			else System.out.println("Error: unknown option '" + args[argidx] + "'");
 			
 			argidx++;
@@ -124,8 +137,13 @@ public class Main {
 		if(classToRun.equals("Tester"))
 		{
 			if(dir == null) dir = "data/in/manual/";
+			if(modelNum == null) 
+			{
+				System.out.println("Tester requires a --model to run");
+				return;
+			}
 			try {
-				Tester.test(modelMap.get(modelNum), time, dir);
+				Tester.test(modelMap.get(modelNum), time, dir, fname);
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -152,7 +170,12 @@ public class Main {
 		else if (classToRun.equals("Generator"))
 		{
 			if(dir == null) dir = "data/in/generated/";
-			Generator.generate(dir);
+			if(n==-1 || num == -1) 
+			{
+				System.out.println("Generator requires --n INT and --num INT to run");
+				return;
+			}
+			Generator.generate(dir,n,num,suffix,length,clues);
 		}
 		else System.out.println("Unsupported CLASS '" + classToRun + "'");
 		
