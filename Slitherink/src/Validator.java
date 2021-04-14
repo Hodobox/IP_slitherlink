@@ -199,6 +199,7 @@ public class Validator {
 					  int clue = Validator.this.board[j][i];
 					  if(clue != -1)
 					  {
+						  //g.fillRect(i*SQUARESIZE+OFFSET+MARKSIZE, j*SQUARESIZE+BORDER+OFFSET+MARKSIZE, SQUARESIZE-MARKSIZE, SQUARESIZE-MARKSIZE);
 						  g.drawChars(new char[] {(char) (clue+'0')}, 0, 1, i*SQUARESIZE + SQUARESIZE/2 - FONTWIDTH/2 + OFFSET, j*SQUARESIZE+ SQUARESIZE/2 + FONTSIZE/2 + BORDER + OFFSET);
 					  }
 				  }
