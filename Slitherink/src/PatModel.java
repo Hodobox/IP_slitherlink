@@ -12,6 +12,11 @@ public class PatModel extends Slitherlink{
 		return solver.solve();
 	}
 	
+	public String getName() 
+	{
+		return PatModel.class.getSimpleName();
+	}
+	
 	IntVar[][] v;
     IntVar[][] A;
     IntVar solutionLength;

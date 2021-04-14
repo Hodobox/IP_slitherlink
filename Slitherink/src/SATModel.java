@@ -14,6 +14,11 @@ public class SATModel extends Slitherlink {
 		return solver.solve();
 	}
 	
+	public String getName() 
+	{
+		return SATModel.class.getSimpleName();
+	}
+	
 	IntVar circuitSize;
 	BoolVar[][] edgeMatrix;
 	

@@ -16,6 +16,11 @@ public class NaiveModel extends Slitherlink
 
     boolean verbose;
     
+    public String getName() 
+	{
+		return NaiveModel.class.getSimpleName();
+	}
+    
     public NaiveModel(String fname)
     {
     	super(fname);

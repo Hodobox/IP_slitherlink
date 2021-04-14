@@ -15,7 +15,7 @@ public abstract class Slitherlink {
 	int n = 0;
 	int[][] board;
 	IntVar[] solution;
-	boolean verbose;
+	boolean verbose = false;
 	String fname;
 	
 	public Slitherlink(String fname)
@@ -25,6 +25,8 @@ public abstract class Slitherlink {
 		model  = new Model();
 		solver = model.getSolver();
 	}
+	
+	public abstract String getName();
 	
  	boolean solve()
 	{ 
@@ -135,7 +137,8 @@ public abstract class Slitherlink {
 		      	File file = new File(fname);
 		      	file.createNewFile();
 		      
-		        System.out.println("File created: " + file.getName());
+		      	if(this.verbose)
+		      		System.out.println("File created: " + file.getName());
 		        FileWriter myWriter = new FileWriter(fname);
 		        myWriter.write(edges.size() + "\n");
 		        for(Pair<Integer,Integer> e : edges)

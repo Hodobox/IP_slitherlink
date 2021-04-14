@@ -9,6 +9,11 @@ public class SetNeighborModel extends Slitherlink
 		return solver.solve();
 	}
 	
+	public String getName() 
+	{
+		return SetNeighborModel.class.getSimpleName();
+	}
+	
 	IntVar[] indices;
 	IntVar[] diff;
 	IntVar circuitSize;

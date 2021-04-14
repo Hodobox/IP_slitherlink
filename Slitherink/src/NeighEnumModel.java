@@ -13,6 +13,11 @@ public class NeighEnumModel extends Slitherlink {
 		return solver.solve();
 	}
 	
+	public String getName() 
+	{
+		return NeighEnumModel.class.getSimpleName();
+	}
+	
 	IntVar circuitSize;
 	BoolVar[][] edgeMatrix;
 	
