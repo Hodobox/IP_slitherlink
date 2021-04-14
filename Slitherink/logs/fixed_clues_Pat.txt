@@ -1,0 +1,4002 @@
+Model: PatModel
+Timelimit: 60
+data/in/generated/fixed_clues/8_889_16.in (n=8)
+Solved
+Resolution time 0.057s, 38 Nodes
+
+data/in/generated/fixed_clues/8_344_16.in (n=8)
+Solved
+Resolution time 0.209s, 896 Nodes
+
+data/in/generated/fixed_clues/8_667_16.in (n=8)
+Solved
+Resolution time 0.012s, 50 Nodes
+
+data/in/generated/fixed_clues/8_364_16.in (n=8)
+Solved
+Resolution time 0.391s, 2066 Nodes
+
+data/in/generated/fixed_clues/8_576_16.in (n=8)
+Solved
+Resolution time 0.008s, 22 Nodes
+
+data/in/generated/fixed_clues/8_724_16.in (n=8)
+Solved
+Resolution time 0.023s, 141 Nodes
+
+data/in/generated/fixed_clues/8_690_16.in (n=8)
+Solved
+Resolution time 0.007s, 35 Nodes
+
+data/in/generated/fixed_clues/8_162_16.in (n=8)
+Solved
+Resolution time 0.007s, 34 Nodes
+
+data/in/generated/fixed_clues/8_128_16.in (n=8)
+Solved
+Resolution time 0.007s, 27 Nodes
+
+data/in/generated/fixed_clues/8_879_16.in (n=8)
+Solved
+Resolution time 0.047s, 262 Nodes
+
+data/in/generated/fixed_clues/8_547_16.in (n=8)
+Solved
+Resolution time 0.023s, 108 Nodes
+
+data/in/generated/fixed_clues/8_136_16.in (n=8)
+Solved
+Resolution time 0.014s, 34 Nodes
+
+data/in/generated/fixed_clues/8_935_16.in (n=8)
+Solved
+Resolution time 0.017s, 68 Nodes
+
+data/in/generated/fixed_clues/8_965_16.in (n=8)
+Solved
+Resolution time 0.132s, 1013 Nodes
+
+data/in/generated/fixed_clues/8_118_16.in (n=8)
+Solved
+Resolution time 0.003s, 17 Nodes
+
+data/in/generated/fixed_clues/8_604_16.in (n=8)
+Solved
+Resolution time 0.026s, 299 Nodes
+
+data/in/generated/fixed_clues/8_788_16.in (n=8)
+Solved
+Resolution time 0.023s, 285 Nodes
+
+data/in/generated/fixed_clues/8_908_16.in (n=8)
+Solved
+Resolution time 0.003s, 28 Nodes
+
+data/in/generated/fixed_clues/8_384_16.in (n=8)
+Solved
+Resolution time 0.006s, 51 Nodes
+
+data/in/generated/fixed_clues/8_446_16.in (n=8)
+Solved
+Resolution time 0.022s, 229 Nodes
+
+data/in/generated/fixed_clues/8_515_16.in (n=8)
+Solved
+Resolution time 0.005s, 41 Nodes
+
+data/in/generated/fixed_clues/8_632_16.in (n=8)
+Solved
+Resolution time 0.009s, 49 Nodes
+
+data/in/generated/fixed_clues/8_1017_16.in (n=8)
+Solved
+Resolution time 0.238s, 2881 Nodes
+
+data/in/generated/fixed_clues/8_999_16.in (n=8)
+Solved
+Resolution time 0.449s, 7827 Nodes
+
+data/in/generated/fixed_clues/8_624_16.in (n=8)
+Solved
+Resolution time 0.041s, 728 Nodes
+
+data/in/generated/fixed_clues/8_464_16.in (n=8)
+Solved
+Resolution time 0.048s, 1014 Nodes
+
+data/in/generated/fixed_clues/8_754_16.in (n=8)
+Solved
+Resolution time 0.035s, 489 Nodes
+
+data/in/generated/fixed_clues/8_1052_16.in (n=8)
+Solved
+Resolution time 0.003s, 32 Nodes
+
+data/in/generated/fixed_clues/8_273_16.in (n=8)
+Solved
+Resolution time 0.006s, 40 Nodes
+
+data/in/generated/fixed_clues/8_349_16.in (n=8)
+Solved
+Resolution time 0.009s, 98 Nodes
+
+data/in/generated/fixed_clues/8_787_16.in (n=8)
+Solved
+Resolution time 0.006s, 59 Nodes
+
+data/in/generated/fixed_clues/8_1040_16.in (n=8)
+Solved
+Resolution time 0.005s, 47 Nodes
+
+data/in/generated/fixed_clues/8_241_16.in (n=8)
+Solved
+Resolution time 0.004s, 21 Nodes
+
+data/in/generated/fixed_clues/8_315_16.in (n=8)
+Solved
+Resolution time 0.005s, 60 Nodes
+
+data/in/generated/fixed_clues/8_558_16.in (n=8)
+Solved
+Resolution time 0.016s, 199 Nodes
+
+data/in/generated/fixed_clues/8_888_16.in (n=8)
+Solved
+Resolution time 0.015s, 163 Nodes
+
+data/in/generated/fixed_clues/8_1078_16.in (n=8)
+Solved
+Resolution time 0.005s, 21 Nodes
+
+data/in/generated/fixed_clues/8_742_16.in (n=8)
+Solved
+Resolution time 0.011s, 116 Nodes
+
+data/in/generated/fixed_clues/8_746_16.in (n=8)
+Solved
+Resolution time 0.017s, 225 Nodes
+
+data/in/generated/fixed_clues/8_903_16.in (n=8)
+Solved
+Resolution time 0.004s, 37 Nodes
+
+data/in/generated/fixed_clues/8_593_16.in (n=8)
+Solved
+Resolution time 0.003s, 27 Nodes
+
+data/in/generated/fixed_clues/8_107_16.in (n=8)
+Solved
+Resolution time 0.005s, 41 Nodes
+
+data/in/generated/fixed_clues/8_636_16.in (n=8)
+Solved
+Resolution time 0.076s, 676 Nodes
+
+data/in/generated/fixed_clues/8_796_16.in (n=8)
+Solved
+Resolution time 0.024s, 209 Nodes
+
+data/in/generated/fixed_clues/8_739_16.in (n=8)
+Solved
+Resolution time 0.011s, 73 Nodes
+
+data/in/generated/fixed_clues/8_575_16.in (n=8)
+Solved
+Resolution time 0.007s, 34 Nodes
+
+data/in/generated/fixed_clues/8_832_16.in (n=8)
+Solved
+Resolution time 0.005s, 42 Nodes
+
+data/in/generated/fixed_clues/8_871_16.in (n=8)
+Solved
+Resolution time 0.022s, 244 Nodes
+
+data/in/generated/fixed_clues/8_190_16.in (n=8)
+Solved
+Resolution time 0.003s, 24 Nodes
+
+data/in/generated/fixed_clues/8_113_16.in (n=8)
+Solved
+Resolution time 0.033s, 454 Nodes
+
+data/in/generated/fixed_clues/8_906_16.in (n=8)
+Solved
+Resolution time 0.044s, 458 Nodes
+
+data/in/generated/fixed_clues/8_925_16.in (n=8)
+Solved
+Resolution time 0.005s, 36 Nodes
+
+data/in/generated/fixed_clues/8_779_16.in (n=8)
+Solved
+Resolution time 0.010s, 116 Nodes
+
+data/in/generated/fixed_clues/8_970_16.in (n=8)
+Solved
+Resolution time 0.012s, 94 Nodes
+
+data/in/generated/fixed_clues/8_952_16.in (n=8)
+Solved
+Resolution time 0.092s, 1169 Nodes
+
+data/in/generated/fixed_clues/8_603_16.in (n=8)
+Solved
+Resolution time 0.005s, 54 Nodes
+
+data/in/generated/fixed_clues/8_726_16.in (n=8)
+Solved
+Resolution time 0.008s, 54 Nodes
+
+data/in/generated/fixed_clues/8_1055_16.in (n=8)
+Solved
+Resolution time 0.003s, 25 Nodes
+
+data/in/generated/fixed_clues/8_230_16.in (n=8)
+Solved
+Resolution time 0.007s, 53 Nodes
+
+data/in/generated/fixed_clues/8_441_16.in (n=8)
+Solved
+Resolution time 0.007s, 66 Nodes
+
+data/in/generated/fixed_clues/8_1042_16.in (n=8)
+Solved
+Resolution time 0.060s, 810 Nodes
+
+data/in/generated/fixed_clues/8_996_16.in (n=8)
+Solved
+Resolution time 0.007s, 75 Nodes
+
+data/in/generated/fixed_clues/8_968_16.in (n=8)
+Solved
+Resolution time 0.031s, 367 Nodes
+
+data/in/generated/fixed_clues/8_820_16.in (n=8)
+Solved
+Resolution time 0.184s, 1913 Nodes
+
+data/in/generated/fixed_clues/8_256_16.in (n=8)
+Solved
+Resolution time 0.004s, 33 Nodes
+
+data/in/generated/fixed_clues/8_628_16.in (n=8)
+Solved
+Resolution time 0.004s, 32 Nodes
+
+data/in/generated/fixed_clues/8_140_16.in (n=8)
+Solved
+Resolution time 0.004s, 35 Nodes
+
+data/in/generated/fixed_clues/8_510_16.in (n=8)
+Solved
+Resolution time 0.022s, 231 Nodes
+
+data/in/generated/fixed_clues/8_233_16.in (n=8)
+Solved
+Resolution time 0.005s, 56 Nodes
+
+data/in/generated/fixed_clues/8_677_16.in (n=8)
+Solved
+Resolution time 0.116s, 1436 Nodes
+
+data/in/generated/fixed_clues/8_234_16.in (n=8)
+Solved
+Resolution time 0.045s, 717 Nodes
+
+data/in/generated/fixed_clues/8_187_16.in (n=8)
+Solved
+Resolution time 0.002s, 35 Nodes
+
+data/in/generated/fixed_clues/8_365_16.in (n=8)
+Solved
+Resolution time 0.014s, 228 Nodes
+
+data/in/generated/fixed_clues/8_532_16.in (n=8)
+Solved
+Resolution time 0.012s, 182 Nodes
+
+data/in/generated/fixed_clues/8_650_16.in (n=8)
+Solved
+Resolution time 0.002s, 24 Nodes
+
+data/in/generated/fixed_clues/8_472_16.in (n=8)
+Solved
+Resolution time 0.003s, 42 Nodes
+
+data/in/generated/fixed_clues/8_451_16.in (n=8)
+Solved
+Resolution time 0.038s, 577 Nodes
+
+data/in/generated/fixed_clues/8_571_16.in (n=8)
+Solved
+Resolution time 0.003s, 40 Nodes
+
+data/in/generated/fixed_clues/8_1000_16.in (n=8)
+Solved
+Resolution time 0.010s, 157 Nodes
+
+data/in/generated/fixed_clues/8_371_16.in (n=8)
+Solved
+Resolution time 0.171s, 3093 Nodes
+
+data/in/generated/fixed_clues/8_605_16.in (n=8)
+Solved
+Resolution time 0.016s, 253 Nodes
+
+data/in/generated/fixed_clues/8_418_16.in (n=8)
+Solved
+Resolution time 0.003s, 54 Nodes
+
+data/in/generated/fixed_clues/8_104_16.in (n=8)
+Solved
+Resolution time 0.199s, 3404 Nodes
+
+data/in/generated/fixed_clues/8_874_16.in (n=8)
+Solved
+Resolution time 0.045s, 647 Nodes
+
+data/in/generated/fixed_clues/8_130_16.in (n=8)
+Solved
+Resolution time 0.003s, 44 Nodes
+
+data/in/generated/fixed_clues/8_862_16.in (n=8)
+Solved
+Resolution time 0.013s, 191 Nodes
+
+data/in/generated/fixed_clues/8_475_16.in (n=8)
+Solved
+Resolution time 0.007s, 109 Nodes
+
+data/in/generated/fixed_clues/8_747_16.in (n=8)
+Solved
+Resolution time 0.004s, 53 Nodes
+
+data/in/generated/fixed_clues/8_103_16.in (n=8)
+Solved
+Resolution time 0.007s, 102 Nodes
+
+data/in/generated/fixed_clues/8_406_16.in (n=8)
+Solved
+Resolution time 0.004s, 51 Nodes
+
+data/in/generated/fixed_clues/8_855_16.in (n=8)
+Solved
+Resolution time 0.031s, 474 Nodes
+
+data/in/generated/fixed_clues/8_949_16.in (n=8)
+Solved
+Resolution time 0.005s, 88 Nodes
+
+data/in/generated/fixed_clues/8_157_16.in (n=8)
+Solved
+Resolution time 0.025s, 330 Nodes
+
+data/in/generated/fixed_clues/8_1092_16.in (n=8)
+Solved
+Resolution time 0.009s, 119 Nodes
+
+data/in/generated/fixed_clues/8_132_16.in (n=8)
+Solved
+Resolution time 0.003s, 19 Nodes
+
+data/in/generated/fixed_clues/8_537_16.in (n=8)
+Solved
+Resolution time 0.023s, 367 Nodes
+
+data/in/generated/fixed_clues/8_1095_16.in (n=8)
+Solved
+Resolution time 0.002s, 20 Nodes
+
+data/in/generated/fixed_clues/8_285_16.in (n=8)
+Solved
+Resolution time 0.013s, 205 Nodes
+
+data/in/generated/fixed_clues/8_465_16.in (n=8)
+Solved
+Resolution time 0.006s, 94 Nodes
+
+data/in/generated/fixed_clues/8_627_16.in (n=8)
+Solved
+Resolution time 0.026s, 492 Nodes
+
+data/in/generated/fixed_clues/8_953_16.in (n=8)
+Solved
+Resolution time 0.013s, 209 Nodes
+
+data/in/generated/fixed_clues/8_317_16.in (n=8)
+Solved
+Resolution time 0.018s, 286 Nodes
+
+data/in/generated/fixed_clues/8_126_16.in (n=8)
+Solved
+Resolution time 0.026s, 371 Nodes
+
+data/in/generated/fixed_clues/8_960_16.in (n=8)
+Solved
+Resolution time 0.016s, 226 Nodes
+
+data/in/generated/fixed_clues/8_358_16.in (n=8)
+Solved
+Resolution time 0.007s, 104 Nodes
+
+data/in/generated/fixed_clues/8_819_16.in (n=8)
+Solved
+Resolution time 0.005s, 92 Nodes
+
+data/in/generated/fixed_clues/8_1024_16.in (n=8)
+Solved
+Resolution time 0.349s, 7692 Nodes
+
+data/in/generated/fixed_clues/8_192_16.in (n=8)
+Solved
+Resolution time 0.008s, 111 Nodes
+
+data/in/generated/fixed_clues/8_397_16.in (n=8)
+Solved
+Resolution time 0.013s, 212 Nodes
+
+data/in/generated/fixed_clues/8_366_16.in (n=8)
+Solved
+Resolution time 0.003s, 42 Nodes
+
+data/in/generated/fixed_clues/8_1081_16.in (n=8)
+Solved
+Resolution time 0.016s, 275 Nodes
+
+data/in/generated/fixed_clues/8_915_16.in (n=8)
+Solved
+Resolution time 0.090s, 1684 Nodes
+
+data/in/generated/fixed_clues/8_340_16.in (n=8)
+Solved
+Resolution time 0.003s, 53 Nodes
+
+data/in/generated/fixed_clues/8_357_16.in (n=8)
+Solved
+Resolution time 0.052s, 741 Nodes
+
+data/in/generated/fixed_clues/8_227_16.in (n=8)
+Solved
+Resolution time 0.041s, 670 Nodes
+
+data/in/generated/fixed_clues/8_567_16.in (n=8)
+Solved
+Resolution time 0.005s, 64 Nodes
+
+data/in/generated/fixed_clues/8_323_16.in (n=8)
+Solved
+Resolution time 0.006s, 86 Nodes
+
+data/in/generated/fixed_clues/8_294_16.in (n=8)
+Solved
+Resolution time 0.047s, 937 Nodes
+
+data/in/generated/fixed_clues/8_388_16.in (n=8)
+Solved
+Resolution time 0.005s, 65 Nodes
+
+data/in/generated/fixed_clues/8_709_16.in (n=8)
+Solved
+Resolution time 0.004s, 54 Nodes
+
+data/in/generated/fixed_clues/8_767_16.in (n=8)
+Solved
+Resolution time 0.002s, 28 Nodes
+
+data/in/generated/fixed_clues/8_939_16.in (n=8)
+Solved
+Resolution time 0.013s, 111 Nodes
+
+data/in/generated/fixed_clues/8_486_16.in (n=8)
+Solved
+Resolution time 0.004s, 52 Nodes
+
+data/in/generated/fixed_clues/8_286_16.in (n=8)
+Solved
+Resolution time 0.003s, 46 Nodes
+
+data/in/generated/fixed_clues/8_518_16.in (n=8)
+Solved
+Resolution time 0.002s, 24 Nodes
+
+data/in/generated/fixed_clues/8_280_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_111_16.in (n=8)
+Solved
+Resolution time 0.008s, 144 Nodes
+
+data/in/generated/fixed_clues/8_453_16.in (n=8)
+Solved
+Resolution time 0.004s, 63 Nodes
+
+data/in/generated/fixed_clues/8_598_16.in (n=8)
+Solved
+Resolution time 0.003s, 42 Nodes
+
+data/in/generated/fixed_clues/8_805_16.in (n=8)
+Solved
+Resolution time 0.006s, 104 Nodes
+
+data/in/generated/fixed_clues/8_674_16.in (n=8)
+Solved
+Resolution time 0.022s, 367 Nodes
+
+data/in/generated/fixed_clues/8_931_16.in (n=8)
+Solved
+Resolution time 0.003s, 40 Nodes
+
+data/in/generated/fixed_clues/8_1085_16.in (n=8)
+Solved
+Resolution time 0.003s, 56 Nodes
+
+data/in/generated/fixed_clues/8_110_16.in (n=8)
+Solved
+Resolution time 0.019s, 261 Nodes
+
+data/in/generated/fixed_clues/8_1097_16.in (n=8)
+Solved
+Resolution time 0.025s, 402 Nodes
+
+data/in/generated/fixed_clues/8_1050_16.in (n=8)
+Solved
+Resolution time 0.066s, 1119 Nodes
+
+data/in/generated/fixed_clues/8_824_16.in (n=8)
+Solved
+Resolution time 0.007s, 75 Nodes
+
+data/in/generated/fixed_clues/8_450_16.in (n=8)
+Solved
+Resolution time 0.038s, 664 Nodes
+
+data/in/generated/fixed_clues/8_718_16.in (n=8)
+Solved
+Resolution time 0.002s, 26 Nodes
+
+data/in/generated/fixed_clues/8_182_16.in (n=8)
+Solved
+Resolution time 0.002s, 22 Nodes
+
+data/in/generated/fixed_clues/8_892_16.in (n=8)
+Solved
+Resolution time 0.002s, 36 Nodes
+
+data/in/generated/fixed_clues/8_539_16.in (n=8)
+Solved
+Resolution time 0.034s, 560 Nodes
+
+data/in/generated/fixed_clues/8_773_16.in (n=8)
+Solved
+Resolution time 0.004s, 50 Nodes
+
+data/in/generated/fixed_clues/8_947_16.in (n=8)
+Solved
+Resolution time 0.012s, 137 Nodes
+
+data/in/generated/fixed_clues/8_959_16.in (n=8)
+Solved
+Resolution time 0.002s, 29 Nodes
+
+data/in/generated/fixed_clues/8_818_16.in (n=8)
+Solved
+Resolution time 0.024s, 436 Nodes
+
+data/in/generated/fixed_clues/8_616_16.in (n=8)
+Solved
+Resolution time 0.023s, 331 Nodes
+
+data/in/generated/fixed_clues/8_169_16.in (n=8)
+Solved
+Resolution time 0.010s, 161 Nodes
+
+data/in/generated/fixed_clues/8_948_16.in (n=8)
+Solved
+Resolution time 0.008s, 108 Nodes
+
+data/in/generated/fixed_clues/8_246_16.in (n=8)
+Solved
+Resolution time 0.131s, 2387 Nodes
+
+data/in/generated/fixed_clues/8_857_16.in (n=8)
+Solved
+Resolution time 0.006s, 111 Nodes
+
+data/in/generated/fixed_clues/8_622_16.in (n=8)
+Solved
+Resolution time 0.010s, 158 Nodes
+
+data/in/generated/fixed_clues/8_591_16.in (n=8)
+Solved
+Resolution time 0.015s, 264 Nodes
+
+data/in/generated/fixed_clues/8_1063_16.in (n=8)
+Solved
+Resolution time 0.007s, 117 Nodes
+
+data/in/generated/fixed_clues/8_649_16.in (n=8)
+Solved
+Resolution time 0.017s, 244 Nodes
+
+data/in/generated/fixed_clues/8_494_16.in (n=8)
+Solved
+Resolution time 0.003s, 35 Nodes
+
+data/in/generated/fixed_clues/8_284_16.in (n=8)
+Solved
+Resolution time 0.003s, 45 Nodes
+
+data/in/generated/fixed_clues/8_287_16.in (n=8)
+Solved
+Resolution time 0.009s, 130 Nodes
+
+data/in/generated/fixed_clues/8_958_16.in (n=8)
+Solved
+Resolution time 0.066s, 1090 Nodes
+
+data/in/generated/fixed_clues/8_277_16.in (n=8)
+Solved
+Resolution time 0.028s, 466 Nodes
+
+data/in/generated/fixed_clues/8_531_16.in (n=8)
+Solved
+Resolution time 0.020s, 278 Nodes
+
+data/in/generated/fixed_clues/8_911_16.in (n=8)
+Solved
+Resolution time 0.054s, 902 Nodes
+
+data/in/generated/fixed_clues/8_125_16.in (n=8)
+Solved
+Resolution time 0.008s, 136 Nodes
+
+data/in/generated/fixed_clues/8_300_16.in (n=8)
+Solved
+Resolution time 0.006s, 84 Nodes
+
+data/in/generated/fixed_clues/8_551_16.in (n=8)
+Solved
+Resolution time 0.021s, 315 Nodes
+
+data/in/generated/fixed_clues/8_955_16.in (n=8)
+Solved
+Resolution time 0.007s, 116 Nodes
+
+data/in/generated/fixed_clues/8_583_16.in (n=8)
+Solved
+Resolution time 0.017s, 278 Nodes
+
+data/in/generated/fixed_clues/8_692_16.in (n=8)
+Solved
+Resolution time 0.041s, 692 Nodes
+
+data/in/generated/fixed_clues/8_784_16.in (n=8)
+Solved
+Resolution time 0.004s, 64 Nodes
+
+data/in/generated/fixed_clues/8_768_16.in (n=8)
+Solved
+Resolution time 0.007s, 84 Nodes
+
+data/in/generated/fixed_clues/8_299_16.in (n=8)
+Solved
+Resolution time 0.056s, 1129 Nodes
+
+data/in/generated/fixed_clues/8_810_16.in (n=8)
+Solved
+Resolution time 0.004s, 47 Nodes
+
+data/in/generated/fixed_clues/8_648_16.in (n=8)
+Solved
+Resolution time 0.007s, 89 Nodes
+
+data/in/generated/fixed_clues/8_327_16.in (n=8)
+Solved
+Resolution time 0.085s, 1653 Nodes
+
+data/in/generated/fixed_clues/8_645_16.in (n=8)
+Solved
+Resolution time 0.004s, 32 Nodes
+
+data/in/generated/fixed_clues/8_731_16.in (n=8)
+Solved
+Resolution time 0.010s, 189 Nodes
+
+data/in/generated/fixed_clues/8_926_16.in (n=8)
+Solved
+Resolution time 0.135s, 2344 Nodes
+
+data/in/generated/fixed_clues/8_308_16.in (n=8)
+Solved
+Resolution time 0.002s, 19 Nodes
+
+data/in/generated/fixed_clues/8_123_16.in (n=8)
+Solved
+Resolution time 0.005s, 77 Nodes
+
+data/in/generated/fixed_clues/8_266_16.in (n=8)
+Solved
+Resolution time 0.002s, 34 Nodes
+
+data/in/generated/fixed_clues/8_1033_16.in (n=8)
+Solved
+Resolution time 0.047s, 888 Nodes
+
+data/in/generated/fixed_clues/8_1061_16.in (n=8)
+Solved
+Resolution time 0.002s, 43 Nodes
+
+data/in/generated/fixed_clues/8_656_16.in (n=8)
+Solved
+Resolution time 0.002s, 14 Nodes
+
+data/in/generated/fixed_clues/8_969_16.in (n=8)
+Solved
+Resolution time 0.003s, 29 Nodes
+
+data/in/generated/fixed_clues/8_360_16.in (n=8)
+Solved
+Resolution time 0.009s, 165 Nodes
+
+data/in/generated/fixed_clues/8_790_16.in (n=8)
+Solved
+Resolution time 0.002s, 34 Nodes
+
+data/in/generated/fixed_clues/8_378_16.in (n=8)
+Solved
+Resolution time 0.006s, 101 Nodes
+
+data/in/generated/fixed_clues/8_847_16.in (n=8)
+Solved
+Resolution time 0.029s, 530 Nodes
+
+data/in/generated/fixed_clues/8_679_16.in (n=8)
+Solved
+Resolution time 0.006s, 85 Nodes
+
+data/in/generated/fixed_clues/8_454_16.in (n=8)
+Solved
+Resolution time 0.003s, 48 Nodes
+
+data/in/generated/fixed_clues/8_867_16.in (n=8)
+Solved
+Resolution time 0.011s, 180 Nodes
+
+data/in/generated/fixed_clues/8_568_16.in (n=8)
+Solved
+Resolution time 0.007s, 108 Nodes
+
+data/in/generated/fixed_clues/8_883_16.in (n=8)
+Solved
+Resolution time 0.017s, 248 Nodes
+
+data/in/generated/fixed_clues/8_469_16.in (n=8)
+Solved
+Resolution time 0.002s, 30 Nodes
+
+data/in/generated/fixed_clues/8_120_16.in (n=8)
+Solved
+Resolution time 0.007s, 118 Nodes
+
+data/in/generated/fixed_clues/8_202_16.in (n=8)
+Solved
+Resolution time 0.005s, 65 Nodes
+
+data/in/generated/fixed_clues/8_209_16.in (n=8)
+Solved
+Resolution time 0.023s, 403 Nodes
+
+data/in/generated/fixed_clues/8_473_16.in (n=8)
+Solved
+Resolution time 0.006s, 96 Nodes
+
+data/in/generated/fixed_clues/8_459_16.in (n=8)
+Solved
+Resolution time 0.012s, 165 Nodes
+
+data/in/generated/fixed_clues/8_1096_16.in (n=8)
+Solved
+Resolution time 0.118s, 2066 Nodes
+
+data/in/generated/fixed_clues/8_840_16.in (n=8)
+Solved
+Resolution time 0.003s, 40 Nodes
+
+data/in/generated/fixed_clues/8_164_16.in (n=8)
+Solved
+Resolution time 0.035s, 614 Nodes
+
+data/in/generated/fixed_clues/8_238_16.in (n=8)
+Solved
+Resolution time 0.002s, 28 Nodes
+
+data/in/generated/fixed_clues/8_1004_16.in (n=8)
+Solved
+Resolution time 0.003s, 30 Nodes
+
+data/in/generated/fixed_clues/8_170_16.in (n=8)
+Solved
+Resolution time 0.031s, 468 Nodes
+
+data/in/generated/fixed_clues/8_396_16.in (n=8)
+Solved
+Resolution time 0.002s, 20 Nodes
+
+data/in/generated/fixed_clues/8_235_16.in (n=8)
+Solved
+Resolution time 0.002s, 21 Nodes
+
+data/in/generated/fixed_clues/8_782_16.in (n=8)
+Solved
+Resolution time 0.005s, 84 Nodes
+
+data/in/generated/fixed_clues/8_703_16.in (n=8)
+Solved
+Resolution time 0.017s, 269 Nodes
+
+data/in/generated/fixed_clues/8_675_16.in (n=8)
+Solved
+Resolution time 0.067s, 1140 Nodes
+
+data/in/generated/fixed_clues/8_850_16.in (n=8)
+Solved
+Resolution time 0.013s, 211 Nodes
+
+data/in/generated/fixed_clues/8_687_16.in (n=8)
+Solved
+Resolution time 0.005s, 80 Nodes
+
+data/in/generated/fixed_clues/8_750_16.in (n=8)
+Solved
+Resolution time 0.003s, 38 Nodes
+
+data/in/generated/fixed_clues/8_826_16.in (n=8)
+Solved
+Resolution time 0.011s, 195 Nodes
+
+data/in/generated/fixed_clues/8_331_16.in (n=8)
+Solved
+Resolution time 0.006s, 91 Nodes
+
+data/in/generated/fixed_clues/8_641_16.in (n=8)
+Solved
+Resolution time 0.013s, 201 Nodes
+
+data/in/generated/fixed_clues/8_877_16.in (n=8)
+Solved
+Resolution time 0.005s, 89 Nodes
+
+data/in/generated/fixed_clues/8_610_16.in (n=8)
+Solved
+Resolution time 0.015s, 203 Nodes
+
+data/in/generated/fixed_clues/8_829_16.in (n=8)
+Solved
+Resolution time 0.003s, 42 Nodes
+
+data/in/generated/fixed_clues/8_614_16.in (n=8)
+Solved
+Resolution time 0.013s, 193 Nodes
+
+data/in/generated/fixed_clues/8_762_16.in (n=8)
+Solved
+Resolution time 0.003s, 44 Nodes
+
+data/in/generated/fixed_clues/8_483_16.in (n=8)
+Solved
+Resolution time 0.002s, 21 Nodes
+
+data/in/generated/fixed_clues/8_174_16.in (n=8)
+Solved
+Resolution time 0.004s, 62 Nodes
+
+data/in/generated/fixed_clues/8_989_16.in (n=8)
+Solved
+Resolution time 0.007s, 123 Nodes
+
+data/in/generated/fixed_clues/8_1068_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_807_16.in (n=8)
+Solved
+Resolution time 0.016s, 217 Nodes
+
+data/in/generated/fixed_clues/8_289_16.in (n=8)
+Solved
+Resolution time 0.003s, 46 Nodes
+
+data/in/generated/fixed_clues/8_214_16.in (n=8)
+Solved
+Resolution time 0.015s, 253 Nodes
+
+data/in/generated/fixed_clues/8_1090_16.in (n=8)
+Solved
+Resolution time 0.003s, 43 Nodes
+
+data/in/generated/fixed_clues/8_936_16.in (n=8)
+Solved
+Resolution time 0.003s, 29 Nodes
+
+data/in/generated/fixed_clues/8_839_16.in (n=8)
+Solved
+Resolution time 0.002s, 35 Nodes
+
+data/in/generated/fixed_clues/8_297_16.in (n=8)
+Solved
+Resolution time 0.004s, 57 Nodes
+
+data/in/generated/fixed_clues/8_416_16.in (n=8)
+Solved
+Resolution time 0.003s, 44 Nodes
+
+data/in/generated/fixed_clues/8_407_16.in (n=8)
+Solved
+Resolution time 0.003s, 44 Nodes
+
+data/in/generated/fixed_clues/8_806_16.in (n=8)
+Solved
+Resolution time 0.071s, 1230 Nodes
+
+data/in/generated/fixed_clues/8_350_16.in (n=8)
+Solved
+Resolution time 0.008s, 131 Nodes
+
+data/in/generated/fixed_clues/8_1065_16.in (n=8)
+Solved
+Resolution time 0.026s, 494 Nodes
+
+data/in/generated/fixed_clues/8_513_16.in (n=8)
+Solved
+Resolution time 0.015s, 242 Nodes
+
+data/in/generated/fixed_clues/8_540_16.in (n=8)
+Solved
+Resolution time 0.003s, 45 Nodes
+
+data/in/generated/fixed_clues/8_258_16.in (n=8)
+Solved
+Resolution time 0.042s, 692 Nodes
+
+data/in/generated/fixed_clues/8_783_16.in (n=8)
+Solved
+Resolution time 0.010s, 167 Nodes
+
+data/in/generated/fixed_clues/8_1091_16.in (n=8)
+Solved
+Resolution time 0.029s, 517 Nodes
+
+data/in/generated/fixed_clues/8_743_16.in (n=8)
+Solved
+Resolution time 0.017s, 256 Nodes
+
+data/in/generated/fixed_clues/8_845_16.in (n=8)
+Solved
+Resolution time 0.003s, 35 Nodes
+
+data/in/generated/fixed_clues/8_561_16.in (n=8)
+Solved
+Resolution time 0.005s, 35 Nodes
+
+data/in/generated/fixed_clues/8_332_16.in (n=8)
+Solved
+Resolution time 0.015s, 235 Nodes
+
+data/in/generated/fixed_clues/8_466_16.in (n=8)
+Solved
+Resolution time 0.016s, 266 Nodes
+
+data/in/generated/fixed_clues/8_924_16.in (n=8)
+Solved
+Resolution time 0.016s, 249 Nodes
+
+data/in/generated/fixed_clues/8_618_16.in (n=8)
+Solved
+Resolution time 0.002s, 27 Nodes
+
+data/in/generated/fixed_clues/8_291_16.in (n=8)
+Solved
+Resolution time 0.002s, 39 Nodes
+
+data/in/generated/fixed_clues/8_528_16.in (n=8)
+Solved
+Resolution time 0.017s, 279 Nodes
+
+data/in/generated/fixed_clues/8_584_16.in (n=8)
+Solved
+Resolution time 0.002s, 21 Nodes
+
+data/in/generated/fixed_clues/8_980_16.in (n=8)
+Solved
+Resolution time 0.003s, 37 Nodes
+
+data/in/generated/fixed_clues/8_504_16.in (n=8)
+Solved
+Resolution time 0.005s, 52 Nodes
+
+data/in/generated/fixed_clues/8_686_16.in (n=8)
+Solved
+Resolution time 0.002s, 22 Nodes
+
+data/in/generated/fixed_clues/8_662_16.in (n=8)
+Solved
+Resolution time 0.201s, 3515 Nodes
+
+data/in/generated/fixed_clues/8_986_16.in (n=8)
+Solved
+Resolution time 0.002s, 35 Nodes
+
+data/in/generated/fixed_clues/8_135_16.in (n=8)
+Solved
+Resolution time 0.005s, 91 Nodes
+
+data/in/generated/fixed_clues/8_863_16.in (n=8)
+Solved
+Resolution time 0.012s, 222 Nodes
+
+data/in/generated/fixed_clues/8_741_16.in (n=8)
+Solved
+Resolution time 0.027s, 477 Nodes
+
+data/in/generated/fixed_clues/8_1079_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_923_16.in (n=8)
+Solved
+Resolution time 0.007s, 150 Nodes
+
+data/in/generated/fixed_clues/8_1007_16.in (n=8)
+Solved
+Resolution time 0.016s, 328 Nodes
+
+data/in/generated/fixed_clues/8_268_16.in (n=8)
+Solved
+Resolution time 0.001s, 20 Nodes
+
+data/in/generated/fixed_clues/8_386_16.in (n=8)
+Solved
+Resolution time 0.009s, 161 Nodes
+
+data/in/generated/fixed_clues/8_502_16.in (n=8)
+Solved
+Resolution time 0.003s, 52 Nodes
+
+data/in/generated/fixed_clues/8_937_16.in (n=8)
+Solved
+Resolution time 0.018s, 296 Nodes
+
+data/in/generated/fixed_clues/8_324_16.in (n=8)
+Solved
+Resolution time 0.002s, 38 Nodes
+
+data/in/generated/fixed_clues/8_898_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_505_16.in (n=8)
+Solved
+Resolution time 0.003s, 45 Nodes
+
+data/in/generated/fixed_clues/8_942_16.in (n=8)
+Solved
+Resolution time 0.036s, 577 Nodes
+
+data/in/generated/fixed_clues/8_951_16.in (n=8)
+Solved
+Resolution time 0.012s, 203 Nodes
+
+data/in/generated/fixed_clues/8_697_16.in (n=8)
+Solved
+Resolution time 0.002s, 28 Nodes
+
+data/in/generated/fixed_clues/8_781_16.in (n=8)
+Solved
+Resolution time 0.007s, 82 Nodes
+
+data/in/generated/fixed_clues/8_991_16.in (n=8)
+Solved
+Resolution time 0.013s, 189 Nodes
+
+data/in/generated/fixed_clues/8_146_16.in (n=8)
+Solved
+Resolution time 0.016s, 233 Nodes
+
+data/in/generated/fixed_clues/8_1087_16.in (n=8)
+Solved
+Resolution time 0.002s, 31 Nodes
+
+data/in/generated/fixed_clues/8_910_16.in (n=8)
+Solved
+Resolution time 0.019s, 295 Nodes
+
+data/in/generated/fixed_clues/8_895_16.in (n=8)
+Solved
+Resolution time 0.047s, 789 Nodes
+
+data/in/generated/fixed_clues/8_519_16.in (n=8)
+Solved
+Resolution time 0.028s, 442 Nodes
+
+data/in/generated/fixed_clues/8_316_16.in (n=8)
+Solved
+Resolution time 0.022s, 378 Nodes
+
+data/in/generated/fixed_clues/8_178_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_705_16.in (n=8)
+Solved
+Resolution time 0.003s, 45 Nodes
+
+data/in/generated/fixed_clues/8_950_16.in (n=8)
+Solved
+Resolution time 0.035s, 523 Nodes
+
+data/in/generated/fixed_clues/8_693_16.in (n=8)
+Solved
+Resolution time 0.009s, 128 Nodes
+
+data/in/generated/fixed_clues/8_912_16.in (n=8)
+Solved
+Resolution time 0.004s, 60 Nodes
+
+data/in/generated/fixed_clues/8_827_16.in (n=8)
+Solved
+Resolution time 0.004s, 55 Nodes
+
+data/in/generated/fixed_clues/8_670_16.in (n=8)
+Solved
+Resolution time 0.004s, 45 Nodes
+
+data/in/generated/fixed_clues/8_761_16.in (n=8)
+Solved
+Resolution time 0.007s, 111 Nodes
+
+data/in/generated/fixed_clues/8_985_16.in (n=8)
+Solved
+Resolution time 0.010s, 146 Nodes
+
+data/in/generated/fixed_clues/8_977_16.in (n=8)
+Solved
+Resolution time 0.082s, 1504 Nodes
+
+data/in/generated/fixed_clues/8_228_16.in (n=8)
+Solved
+Resolution time 0.026s, 475 Nodes
+
+data/in/generated/fixed_clues/8_727_16.in (n=8)
+Solved
+Resolution time 0.030s, 558 Nodes
+
+data/in/generated/fixed_clues/8_414_16.in (n=8)
+Solved
+Resolution time 0.003s, 38 Nodes
+
+data/in/generated/fixed_clues/8_237_16.in (n=8)
+Solved
+Resolution time 0.007s, 93 Nodes
+
+data/in/generated/fixed_clues/8_183_16.in (n=8)
+Solved
+Resolution time 0.019s, 300 Nodes
+
+data/in/generated/fixed_clues/8_248_16.in (n=8)
+Solved
+Resolution time 0.034s, 510 Nodes
+
+data/in/generated/fixed_clues/8_239_16.in (n=8)
+Solved
+Resolution time 0.008s, 138 Nodes
+
+data/in/generated/fixed_clues/8_919_16.in (n=8)
+Solved
+Resolution time 0.002s, 28 Nodes
+
+data/in/generated/fixed_clues/8_119_16.in (n=8)
+Solved
+Resolution time 0.002s, 33 Nodes
+
+data/in/generated/fixed_clues/8_574_16.in (n=8)
+Solved
+Resolution time 0.013s, 211 Nodes
+
+data/in/generated/fixed_clues/8_319_16.in (n=8)
+Solved
+Resolution time 0.002s, 24 Nodes
+
+data/in/generated/fixed_clues/8_700_16.in (n=8)
+Solved
+Resolution time 0.002s, 32 Nodes
+
+data/in/generated/fixed_clues/8_392_16.in (n=8)
+Solved
+Resolution time 0.007s, 120 Nodes
+
+data/in/generated/fixed_clues/8_771_16.in (n=8)
+Solved
+Resolution time 0.002s, 20 Nodes
+
+data/in/generated/fixed_clues/8_964_16.in (n=8)
+Solved
+Resolution time 0.015s, 223 Nodes
+
+data/in/generated/fixed_clues/8_470_16.in (n=8)
+Solved
+Resolution time 0.002s, 28 Nodes
+
+data/in/generated/fixed_clues/8_393_16.in (n=8)
+Solved
+Resolution time 0.019s, 312 Nodes
+
+data/in/generated/fixed_clues/8_653_16.in (n=8)
+Solved
+Resolution time 0.022s, 363 Nodes
+
+data/in/generated/fixed_clues/8_794_16.in (n=8)
+Solved
+Resolution time 0.006s, 104 Nodes
+
+data/in/generated/fixed_clues/8_193_16.in (n=8)
+Solved
+Resolution time 0.004s, 69 Nodes
+
+data/in/generated/fixed_clues/8_776_16.in (n=8)
+Solved
+Resolution time 0.005s, 83 Nodes
+
+data/in/generated/fixed_clues/8_581_16.in (n=8)
+Solved
+Resolution time 0.008s, 112 Nodes
+
+data/in/generated/fixed_clues/8_1039_16.in (n=8)
+Solved
+Resolution time 0.004s, 54 Nodes
+
+data/in/generated/fixed_clues/8_1067_16.in (n=8)
+Solved
+Resolution time 0.075s, 1133 Nodes
+
+data/in/generated/fixed_clues/8_114_16.in (n=8)
+Solved
+Resolution time 0.008s, 132 Nodes
+
+data/in/generated/fixed_clues/8_172_16.in (n=8)
+Solved
+Resolution time 0.005s, 87 Nodes
+
+data/in/generated/fixed_clues/8_508_16.in (n=8)
+Solved
+Resolution time 0.005s, 86 Nodes
+
+data/in/generated/fixed_clues/8_493_16.in (n=8)
+Solved
+Resolution time 0.003s, 40 Nodes
+
+data/in/generated/fixed_clues/8_875_16.in (n=8)
+Solved
+Resolution time 0.002s, 34 Nodes
+
+data/in/generated/fixed_clues/8_1066_16.in (n=8)
+Solved
+Resolution time 0.002s, 25 Nodes
+
+data/in/generated/fixed_clues/8_275_16.in (n=8)
+Solved
+Resolution time 0.008s, 131 Nodes
+
+data/in/generated/fixed_clues/8_878_16.in (n=8)
+Solved
+Resolution time 0.005s, 71 Nodes
+
+data/in/generated/fixed_clues/8_512_16.in (n=8)
+Solved
+Resolution time 0.029s, 529 Nodes
+
+data/in/generated/fixed_clues/8_208_16.in (n=8)
+Solved
+Resolution time 0.025s, 449 Nodes
+
+data/in/generated/fixed_clues/8_579_16.in (n=8)
+Solved
+Resolution time 0.002s, 37 Nodes
+
+data/in/generated/fixed_clues/8_249_16.in (n=8)
+Solved
+Resolution time 0.007s, 107 Nodes
+
+data/in/generated/fixed_clues/8_635_16.in (n=8)
+Solved
+Resolution time 0.053s, 892 Nodes
+
+data/in/generated/fixed_clues/8_1070_16.in (n=8)
+Solved
+Resolution time 0.003s, 28 Nodes
+
+data/in/generated/fixed_clues/8_630_16.in (n=8)
+Solved
+Resolution time 0.002s, 27 Nodes
+
+data/in/generated/fixed_clues/8_647_16.in (n=8)
+Solved
+Resolution time 0.033s, 555 Nodes
+
+data/in/generated/fixed_clues/8_262_16.in (n=8)
+Solved
+Resolution time 0.003s, 48 Nodes
+
+data/in/generated/fixed_clues/8_894_16.in (n=8)
+Solved
+Resolution time 0.031s, 630 Nodes
+
+data/in/generated/fixed_clues/8_158_16.in (n=8)
+Solved
+Resolution time 0.010s, 209 Nodes
+
+data/in/generated/fixed_clues/8_973_16.in (n=8)
+Solved
+Resolution time 0.025s, 358 Nodes
+
+data/in/generated/fixed_clues/8_733_16.in (n=8)
+Solved
+Resolution time 0.007s, 121 Nodes
+
+data/in/generated/fixed_clues/8_1041_16.in (n=8)
+Solved
+Resolution time 0.002s, 25 Nodes
+
+data/in/generated/fixed_clues/8_267_16.in (n=8)
+Solved
+Resolution time 0.018s, 317 Nodes
+
+data/in/generated/fixed_clues/8_1074_16.in (n=8)
+Solved
+Resolution time 0.002s, 25 Nodes
+
+data/in/generated/fixed_clues/8_1038_16.in (n=8)
+Solved
+Resolution time 0.042s, 736 Nodes
+
+data/in/generated/fixed_clues/8_278_16.in (n=8)
+Solved
+Resolution time 0.006s, 87 Nodes
+
+data/in/generated/fixed_clues/8_497_16.in (n=8)
+Solved
+Resolution time 0.002s, 21 Nodes
+
+data/in/generated/fixed_clues/8_149_16.in (n=8)
+Solved
+Resolution time 0.004s, 55 Nodes
+
+data/in/generated/fixed_clues/8_929_16.in (n=8)
+Solved
+Resolution time 0.018s, 313 Nodes
+
+data/in/generated/fixed_clues/8_562_16.in (n=8)
+Solved
+Resolution time 0.006s, 93 Nodes
+
+data/in/generated/fixed_clues/8_982_16.in (n=8)
+Solved
+Resolution time 0.005s, 83 Nodes
+
+data/in/generated/fixed_clues/8_369_16.in (n=8)
+Solved
+Resolution time 0.047s, 761 Nodes
+
+data/in/generated/fixed_clues/8_252_16.in (n=8)
+Solved
+Resolution time 0.003s, 30 Nodes
+
+data/in/generated/fixed_clues/8_460_16.in (n=8)
+Solved
+Resolution time 0.007s, 124 Nodes
+
+data/in/generated/fixed_clues/8_1048_16.in (n=8)
+Solved
+Resolution time 0.025s, 497 Nodes
+
+data/in/generated/fixed_clues/8_471_16.in (n=8)
+Solved
+Resolution time 0.071s, 1142 Nodes
+
+data/in/generated/fixed_clues/8_979_16.in (n=8)
+Solved
+Resolution time 0.002s, 31 Nodes
+
+data/in/generated/fixed_clues/8_660_16.in (n=8)
+Solved
+Resolution time 0.035s, 615 Nodes
+
+data/in/generated/fixed_clues/8_189_16.in (n=8)
+Solved
+Resolution time 0.003s, 34 Nodes
+
+data/in/generated/fixed_clues/8_336_16.in (n=8)
+Solved
+Resolution time 0.034s, 510 Nodes
+
+data/in/generated/fixed_clues/8_1080_16.in (n=8)
+Solved
+Resolution time 0.034s, 602 Nodes
+
+data/in/generated/fixed_clues/8_253_16.in (n=8)
+Solved
+Resolution time 0.008s, 121 Nodes
+
+data/in/generated/fixed_clues/8_1025_16.in (n=8)
+Solved
+Resolution time 0.020s, 344 Nodes
+
+data/in/generated/fixed_clues/8_521_16.in (n=8)
+Solved
+Resolution time 0.004s, 51 Nodes
+
+data/in/generated/fixed_clues/8_655_16.in (n=8)
+Solved
+Resolution time 0.016s, 219 Nodes
+
+data/in/generated/fixed_clues/8_495_16.in (n=8)
+Solved
+Resolution time 0.002s, 26 Nodes
+
+data/in/generated/fixed_clues/8_887_16.in (n=8)
+Solved
+Resolution time 0.008s, 130 Nodes
+
+data/in/generated/fixed_clues/8_706_16.in (n=8)
+Solved
+Resolution time 0.006s, 93 Nodes
+
+data/in/generated/fixed_clues/8_373_16.in (n=8)
+Solved
+Resolution time 0.004s, 62 Nodes
+
+data/in/generated/fixed_clues/8_236_16.in (n=8)
+Solved
+Resolution time 0.018s, 292 Nodes
+
+data/in/generated/fixed_clues/8_167_16.in (n=8)
+Solved
+Resolution time 0.007s, 65 Nodes
+
+data/in/generated/fixed_clues/8_144_16.in (n=8)
+Solved
+Resolution time 0.007s, 120 Nodes
+
+data/in/generated/fixed_clues/8_232_16.in (n=8)
+Solved
+Resolution time 0.010s, 183 Nodes
+
+data/in/generated/fixed_clues/8_606_16.in (n=8)
+Solved
+Resolution time 0.002s, 30 Nodes
+
+data/in/generated/fixed_clues/8_689_16.in (n=8)
+Solved
+Resolution time 0.009s, 138 Nodes
+
+data/in/generated/fixed_clues/8_141_16.in (n=8)
+Solved
+Resolution time 0.010s, 113 Nodes
+
+data/in/generated/fixed_clues/8_594_16.in (n=8)
+Solved
+Resolution time 0.008s, 58 Nodes
+
+data/in/generated/fixed_clues/8_226_16.in (n=8)
+Solved
+Resolution time 0.005s, 44 Nodes
+
+data/in/generated/fixed_clues/8_798_16.in (n=8)
+Solved
+Resolution time 0.006s, 75 Nodes
+
+data/in/generated/fixed_clues/8_1032_16.in (n=8)
+Solved
+Resolution time 0.061s, 1168 Nodes
+
+data/in/generated/fixed_clues/8_918_16.in (n=8)
+Solved
+Resolution time 0.004s, 70 Nodes
+
+data/in/generated/fixed_clues/8_117_16.in (n=8)
+Solved
+Resolution time 0.028s, 409 Nodes
+
+data/in/generated/fixed_clues/8_503_16.in (n=8)
+Solved
+Resolution time 0.006s, 100 Nodes
+
+data/in/generated/fixed_clues/8_159_16.in (n=8)
+Solved
+Resolution time 0.014s, 239 Nodes
+
+data/in/generated/fixed_clues/8_173_16.in (n=8)
+Solved
+Resolution time 0.003s, 48 Nodes
+
+data/in/generated/fixed_clues/8_778_16.in (n=8)
+Solved
+Resolution time 0.002s, 21 Nodes
+
+data/in/generated/fixed_clues/8_585_16.in (n=8)
+Solved
+Resolution time 0.011s, 178 Nodes
+
+data/in/generated/fixed_clues/8_127_16.in (n=8)
+Solved
+Resolution time 0.005s, 90 Nodes
+
+data/in/generated/fixed_clues/8_676_16.in (n=8)
+Solved
+Resolution time 0.002s, 37 Nodes
+
+data/in/generated/fixed_clues/8_422_16.in (n=8)
+Solved
+Resolution time 0.004s, 61 Nodes
+
+data/in/generated/fixed_clues/8_522_16.in (n=8)
+Solved
+Resolution time 0.009s, 141 Nodes
+
+data/in/generated/fixed_clues/8_318_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_499_16.in (n=8)
+Solved
+Resolution time 0.012s, 159 Nodes
+
+data/in/generated/fixed_clues/8_640_16.in (n=8)
+Solved
+Resolution time 0.027s, 389 Nodes
+
+data/in/generated/fixed_clues/8_1058_16.in (n=8)
+Solved
+Resolution time 0.003s, 34 Nodes
+
+data/in/generated/fixed_clues/8_841_16.in (n=8)
+Solved
+Resolution time 0.006s, 71 Nodes
+
+data/in/generated/fixed_clues/8_554_16.in (n=8)
+Solved
+Resolution time 0.037s, 604 Nodes
+
+data/in/generated/fixed_clues/8_430_16.in (n=8)
+Solved
+Resolution time 0.013s, 234 Nodes
+
+data/in/generated/fixed_clues/8_631_16.in (n=8)
+Solved
+Resolution time 0.003s, 29 Nodes
+
+data/in/generated/fixed_clues/8_354_16.in (n=8)
+Solved
+Resolution time 0.052s, 491 Nodes
+
+data/in/generated/fixed_clues/8_161_16.in (n=8)
+Solved
+Resolution time 0.007s, 65 Nodes
+
+data/in/generated/fixed_clues/8_685_16.in (n=8)
+Solved
+Resolution time 0.009s, 103 Nodes
+
+data/in/generated/fixed_clues/8_312_16.in (n=8)
+Solved
+Resolution time 0.003s, 32 Nodes
+
+data/in/generated/fixed_clues/8_1056_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_961_16.in (n=8)
+Solved
+Resolution time 0.002s, 20 Nodes
+
+data/in/generated/fixed_clues/8_467_16.in (n=8)
+Solved
+Resolution time 0.011s, 168 Nodes
+
+data/in/generated/fixed_clues/8_643_16.in (n=8)
+Solved
+Resolution time 0.122s, 1966 Nodes
+
+data/in/generated/fixed_clues/8_279_16.in (n=8)
+Solved
+Resolution time 0.005s, 73 Nodes
+
+data/in/generated/fixed_clues/8_815_16.in (n=8)
+Solved
+Resolution time 0.010s, 166 Nodes
+
+data/in/generated/fixed_clues/8_639_16.in (n=8)
+Solved
+Resolution time 0.004s, 55 Nodes
+
+data/in/generated/fixed_clues/8_701_16.in (n=8)
+Solved
+Resolution time 0.011s, 177 Nodes
+
+data/in/generated/fixed_clues/8_311_16.in (n=8)
+Solved
+Resolution time 0.003s, 34 Nodes
+
+data/in/generated/fixed_clues/8_664_16.in (n=8)
+Solved
+Resolution time 0.006s, 52 Nodes
+
+data/in/generated/fixed_clues/8_329_16.in (n=8)
+Solved
+Resolution time 0.003s, 26 Nodes
+
+data/in/generated/fixed_clues/8_765_16.in (n=8)
+Solved
+Resolution time 0.079s, 728 Nodes
+
+data/in/generated/fixed_clues/8_440_16.in (n=8)
+Solved
+Resolution time 0.031s, 485 Nodes
+
+data/in/generated/fixed_clues/8_476_16.in (n=8)
+Solved
+Resolution time 0.066s, 1181 Nodes
+
+data/in/generated/fixed_clues/8_168_16.in (n=8)
+Solved
+Resolution time 0.004s, 69 Nodes
+
+data/in/generated/fixed_clues/8_873_16.in (n=8)
+Solved
+Resolution time 0.006s, 124 Nodes
+
+data/in/generated/fixed_clues/8_387_16.in (n=8)
+Solved
+Resolution time 0.035s, 604 Nodes
+
+data/in/generated/fixed_clues/8_456_16.in (n=8)
+Solved
+Resolution time 0.006s, 108 Nodes
+
+data/in/generated/fixed_clues/8_150_16.in (n=8)
+Solved
+Resolution time 0.004s, 34 Nodes
+
+data/in/generated/fixed_clues/8_1028_16.in (n=8)
+Solved
+Resolution time 0.004s, 38 Nodes
+
+data/in/generated/fixed_clues/8_1094_16.in (n=8)
+Solved
+Resolution time 0.072s, 1327 Nodes
+
+data/in/generated/fixed_clues/8_870_16.in (n=8)
+Solved
+Resolution time 0.162s, 3028 Nodes
+
+data/in/generated/fixed_clues/8_735_16.in (n=8)
+Solved
+Resolution time 0.017s, 276 Nodes
+
+data/in/generated/fixed_clues/8_756_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_274_16.in (n=8)
+Solved
+Resolution time 0.002s, 29 Nodes
+
+data/in/generated/fixed_clues/8_817_16.in (n=8)
+Solved
+Resolution time 0.005s, 43 Nodes
+
+data/in/generated/fixed_clues/8_507_16.in (n=8)
+Solved
+Resolution time 0.011s, 178 Nodes
+
+data/in/generated/fixed_clues/8_240_16.in (n=8)
+Solved
+Resolution time 0.004s, 68 Nodes
+
+data/in/generated/fixed_clues/8_580_16.in (n=8)
+Solved
+Resolution time 0.023s, 443 Nodes
+
+data/in/generated/fixed_clues/8_608_16.in (n=8)
+Solved
+Resolution time 0.006s, 104 Nodes
+
+data/in/generated/fixed_clues/8_153_16.in (n=8)
+Solved
+Resolution time 0.005s, 95 Nodes
+
+data/in/generated/fixed_clues/8_217_16.in (n=8)
+Solved
+Resolution time 0.001s, 20 Nodes
+
+data/in/generated/fixed_clues/8_987_16.in (n=8)
+Solved
+Resolution time 0.002s, 26 Nodes
+
+data/in/generated/fixed_clues/8_405_16.in (n=8)
+Solved
+Resolution time 0.002s, 20 Nodes
+
+data/in/generated/fixed_clues/8_941_16.in (n=8)
+Solved
+Resolution time 0.005s, 75 Nodes
+
+data/in/generated/fixed_clues/8_683_16.in (n=8)
+Solved
+Resolution time 0.010s, 153 Nodes
+
+data/in/generated/fixed_clues/8_292_16.in (n=8)
+Solved
+Resolution time 0.004s, 44 Nodes
+
+data/in/generated/fixed_clues/8_1076_16.in (n=8)
+Solved
+Resolution time 0.047s, 852 Nodes
+
+data/in/generated/fixed_clues/8_538_16.in (n=8)
+Solved
+Resolution time 0.002s, 33 Nodes
+
+data/in/generated/fixed_clues/8_995_16.in (n=8)
+Solved
+Resolution time 0.047s, 821 Nodes
+
+data/in/generated/fixed_clues/8_623_16.in (n=8)
+Solved
+Resolution time 0.210s, 3891 Nodes
+
+data/in/generated/fixed_clues/8_702_16.in (n=8)
+Solved
+Resolution time 0.007s, 104 Nodes
+
+data/in/generated/fixed_clues/8_846_16.in (n=8)
+Solved
+Resolution time 0.041s, 731 Nodes
+
+data/in/generated/fixed_clues/8_755_16.in (n=8)
+Solved
+Resolution time 0.004s, 48 Nodes
+
+data/in/generated/fixed_clues/8_395_16.in (n=8)
+Solved
+Resolution time 0.014s, 235 Nodes
+
+data/in/generated/fixed_clues/8_271_16.in (n=8)
+Solved
+Resolution time 0.005s, 82 Nodes
+
+data/in/generated/fixed_clues/8_902_16.in (n=8)
+Solved
+Resolution time 0.001s, 21 Nodes
+
+data/in/generated/fixed_clues/8_361_16.in (n=8)
+Solved
+Resolution time 0.002s, 25 Nodes
+
+data/in/generated/fixed_clues/8_619_16.in (n=8)
+Solved
+Resolution time 0.023s, 420 Nodes
+
+data/in/generated/fixed_clues/8_932_16.in (n=8)
+Solved
+Resolution time 0.003s, 28 Nodes
+
+data/in/generated/fixed_clues/8_600_16.in (n=8)
+Solved
+Resolution time 0.009s, 150 Nodes
+
+data/in/generated/fixed_clues/8_419_16.in (n=8)
+Solved
+Resolution time 0.012s, 224 Nodes
+
+data/in/generated/fixed_clues/8_482_16.in (n=8)
+Solved
+Resolution time 0.011s, 148 Nodes
+
+data/in/generated/fixed_clues/8_468_16.in (n=8)
+Solved
+Resolution time 0.010s, 177 Nodes
+
+data/in/generated/fixed_clues/8_659_16.in (n=8)
+Solved
+Resolution time 0.012s, 211 Nodes
+
+data/in/generated/fixed_clues/8_981_16.in (n=8)
+Solved
+Resolution time 0.002s, 41 Nodes
+
+data/in/generated/fixed_clues/8_462_16.in (n=8)
+Solved
+Resolution time 0.005s, 74 Nodes
+
+data/in/generated/fixed_clues/8_363_16.in (n=8)
+Solved
+Resolution time 0.002s, 17 Nodes
+
+data/in/generated/fixed_clues/8_751_16.in (n=8)
+Solved
+Resolution time 0.002s, 33 Nodes
+
+data/in/generated/fixed_clues/8_1031_16.in (n=8)
+Solved
+Resolution time 0.023s, 399 Nodes
+
+data/in/generated/fixed_clues/8_122_16.in (n=8)
+Solved
+Resolution time 0.003s, 29 Nodes
+
+data/in/generated/fixed_clues/8_439_16.in (n=8)
+Solved
+Resolution time 0.002s, 25 Nodes
+
+data/in/generated/fixed_clues/8_559_16.in (n=8)
+Solved
+Resolution time 0.011s, 223 Nodes
+
+data/in/generated/fixed_clues/8_526_16.in (n=8)
+Solved
+Resolution time 0.008s, 139 Nodes
+
+data/in/generated/fixed_clues/8_151_16.in (n=8)
+Solved
+Resolution time 0.007s, 119 Nodes
+
+data/in/generated/fixed_clues/8_983_16.in (n=8)
+Solved
+Resolution time 0.010s, 153 Nodes
+
+data/in/generated/fixed_clues/8_137_16.in (n=8)
+Solved
+Resolution time 0.011s, 163 Nodes
+
+data/in/generated/fixed_clues/8_652_16.in (n=8)
+Solved
+Resolution time 0.014s, 248 Nodes
+
+data/in/generated/fixed_clues/8_385_16.in (n=8)
+Solved
+Resolution time 0.003s, 38 Nodes
+
+data/in/generated/fixed_clues/8_525_16.in (n=8)
+Solved
+Resolution time 0.002s, 24 Nodes
+
+data/in/generated/fixed_clues/8_715_16.in (n=8)
+Solved
+Resolution time 0.025s, 356 Nodes
+
+data/in/generated/fixed_clues/8_409_16.in (n=8)
+Solved
+Resolution time 0.014s, 230 Nodes
+
+data/in/generated/fixed_clues/8_1088_16.in (n=8)
+Solved
+Resolution time 0.012s, 187 Nodes
+
+data/in/generated/fixed_clues/8_759_16.in (n=8)
+Solved
+Resolution time 0.014s, 191 Nodes
+
+data/in/generated/fixed_clues/8_325_16.in (n=8)
+Solved
+Resolution time 0.005s, 80 Nodes
+
+data/in/generated/fixed_clues/8_143_16.in (n=8)
+Solved
+Resolution time 0.005s, 84 Nodes
+
+data/in/generated/fixed_clues/8_341_16.in (n=8)
+Solved
+Resolution time 0.005s, 60 Nodes
+
+data/in/generated/fixed_clues/8_588_16.in (n=8)
+Solved
+Resolution time 0.054s, 938 Nodes
+
+data/in/generated/fixed_clues/8_304_16.in (n=8)
+Solved
+Resolution time 0.017s, 321 Nodes
+
+data/in/generated/fixed_clues/8_372_16.in (n=8)
+Solved
+Resolution time 0.018s, 267 Nodes
+
+data/in/generated/fixed_clues/8_844_16.in (n=8)
+Solved
+Resolution time 0.058s, 712 Nodes
+
+data/in/generated/fixed_clues/8_197_16.in (n=8)
+Solved
+Resolution time 0.026s, 447 Nodes
+
+data/in/generated/fixed_clues/8_769_16.in (n=8)
+Solved
+Resolution time 0.007s, 104 Nodes
+
+data/in/generated/fixed_clues/8_777_16.in (n=8)
+Solved
+Resolution time 0.003s, 48 Nodes
+
+data/in/generated/fixed_clues/8_1072_16.in (n=8)
+Solved
+Resolution time 0.021s, 362 Nodes
+
+data/in/generated/fixed_clues/8_858_16.in (n=8)
+Solved
+Resolution time 0.019s, 319 Nodes
+
+data/in/generated/fixed_clues/8_231_16.in (n=8)
+Solved
+Resolution time 0.007s, 103 Nodes
+
+data/in/generated/fixed_clues/8_669_16.in (n=8)
+Solved
+Resolution time 0.009s, 175 Nodes
+
+data/in/generated/fixed_clues/8_890_16.in (n=8)
+Solved
+Resolution time 0.181s, 3340 Nodes
+
+data/in/generated/fixed_clues/8_131_16.in (n=8)
+Solved
+Resolution time 0.002s, 41 Nodes
+
+data/in/generated/fixed_clues/8_1069_16.in (n=8)
+Solved
+Resolution time 0.002s, 25 Nodes
+
+data/in/generated/fixed_clues/8_721_16.in (n=8)
+Solved
+Resolution time 0.028s, 498 Nodes
+
+data/in/generated/fixed_clues/8_609_16.in (n=8)
+Solved
+Resolution time 0.008s, 135 Nodes
+
+data/in/generated/fixed_clues/8_612_16.in (n=8)
+Solved
+Resolution time 0.005s, 59 Nodes
+
+data/in/generated/fixed_clues/8_682_16.in (n=8)
+Solved
+Resolution time 0.030s, 536 Nodes
+
+data/in/generated/fixed_clues/8_251_16.in (n=8)
+Solved
+Resolution time 0.002s, 29 Nodes
+
+data/in/generated/fixed_clues/8_896_16.in (n=8)
+Solved
+Resolution time 0.002s, 22 Nodes
+
+data/in/generated/fixed_clues/8_359_16.in (n=8)
+Solved
+Resolution time 0.047s, 775 Nodes
+
+data/in/generated/fixed_clues/8_1082_16.in (n=8)
+Solved
+Resolution time 0.025s, 433 Nodes
+
+data/in/generated/fixed_clues/8_694_16.in (n=8)
+Solved
+Resolution time 0.002s, 19 Nodes
+
+data/in/generated/fixed_clues/8_216_16.in (n=8)
+Solved
+Resolution time 0.006s, 77 Nodes
+
+data/in/generated/fixed_clues/8_866_16.in (n=8)
+Solved
+Resolution time 0.003s, 50 Nodes
+
+data/in/generated/fixed_clues/8_848_16.in (n=8)
+Solved
+Resolution time 0.012s, 178 Nodes
+
+data/in/generated/fixed_clues/8_542_16.in (n=8)
+Solved
+Resolution time 0.010s, 155 Nodes
+
+data/in/generated/fixed_clues/8_1019_16.in (n=8)
+Solved
+Resolution time 0.005s, 73 Nodes
+
+data/in/generated/fixed_clues/8_198_16.in (n=8)
+Solved
+Resolution time 0.004s, 53 Nodes
+
+data/in/generated/fixed_clues/8_156_16.in (n=8)
+Solved
+Resolution time 0.012s, 177 Nodes
+
+data/in/generated/fixed_clues/8_601_16.in (n=8)
+Solved
+Resolution time 0.006s, 89 Nodes
+
+data/in/generated/fixed_clues/8_477_16.in (n=8)
+Solved
+Resolution time 0.003s, 49 Nodes
+
+data/in/generated/fixed_clues/8_928_16.in (n=8)
+Solved
+Resolution time 0.001s, 18 Nodes
+
+data/in/generated/fixed_clues/8_1035_16.in (n=8)
+Solved
+Resolution time 0.009s, 150 Nodes
+
+data/in/generated/fixed_clues/8_572_16.in (n=8)
+Solved
+Resolution time 0.004s, 62 Nodes
+
+data/in/generated/fixed_clues/8_758_16.in (n=8)
+Solved
+Resolution time 0.002s, 37 Nodes
+
+data/in/generated/fixed_clues/8_971_16.in (n=8)
+Solved
+Resolution time 0.006s, 82 Nodes
+
+data/in/generated/fixed_clues/8_257_16.in (n=8)
+Solved
+Resolution time 0.003s, 42 Nodes
+
+data/in/generated/fixed_clues/8_553_16.in (n=8)
+Solved
+Resolution time 0.004s, 65 Nodes
+
+data/in/generated/fixed_clues/8_907_16.in (n=8)
+Solved
+Resolution time 0.004s, 75 Nodes
+
+data/in/generated/fixed_clues/8_463_16.in (n=8)
+Solved
+Resolution time 0.109s, 1877 Nodes
+
+data/in/generated/fixed_clues/8_527_16.in (n=8)
+Solved
+Resolution time 0.004s, 77 Nodes
+
+data/in/generated/fixed_clues/8_880_16.in (n=8)
+Solved
+Resolution time 0.002s, 40 Nodes
+
+data/in/generated/fixed_clues/8_657_16.in (n=8)
+Solved
+Resolution time 0.008s, 138 Nodes
+
+data/in/generated/fixed_clues/8_766_16.in (n=8)
+Solved
+Resolution time 0.005s, 81 Nodes
+
+data/in/generated/fixed_clues/8_415_16.in (n=8)
+Solved
+Resolution time 0.003s, 37 Nodes
+
+data/in/generated/fixed_clues/8_199_16.in (n=8)
+Solved
+Resolution time 0.005s, 78 Nodes
+
+data/in/generated/fixed_clues/8_633_16.in (n=8)
+Solved
+Resolution time 0.009s, 127 Nodes
+
+data/in/generated/fixed_clues/8_812_16.in (n=8)
+Solved
+Resolution time 0.012s, 185 Nodes
+
+data/in/generated/fixed_clues/8_212_16.in (n=8)
+Solved
+Resolution time 0.016s, 287 Nodes
+
+data/in/generated/fixed_clues/8_176_16.in (n=8)
+Solved
+Resolution time 0.021s, 323 Nodes
+
+data/in/generated/fixed_clues/8_296_16.in (n=8)
+Solved
+Resolution time 0.006s, 92 Nodes
+
+data/in/generated/fixed_clues/8_105_16.in (n=8)
+Solved
+Resolution time 0.012s, 142 Nodes
+
+data/in/generated/fixed_clues/8_1062_16.in (n=8)
+Solved
+Resolution time 0.036s, 616 Nodes
+
+data/in/generated/fixed_clues/8_920_16.in (n=8)
+Solved
+Resolution time 0.004s, 69 Nodes
+
+data/in/generated/fixed_clues/8_626_16.in (n=8)
+Solved
+Resolution time 0.057s, 858 Nodes
+
+data/in/generated/fixed_clues/8_426_16.in (n=8)
+Solved
+Resolution time 0.009s, 138 Nodes
+
+data/in/generated/fixed_clues/8_1086_16.in (n=8)
+Solved
+Resolution time 0.006s, 89 Nodes
+
+data/in/generated/fixed_clues/8_101_16.in (n=8)
+Solved
+Resolution time 0.086s, 1500 Nodes
+
+data/in/generated/fixed_clues/8_916_16.in (n=8)
+Solved
+Resolution time 0.010s, 87 Nodes
+
+data/in/generated/fixed_clues/8_835_16.in (n=8)
+Solved
+Resolution time 0.041s, 642 Nodes
+
+data/in/generated/fixed_clues/8_403_16.in (n=8)
+Solved
+Resolution time 0.003s, 52 Nodes
+
+data/in/generated/fixed_clues/8_573_16.in (n=8)
+Solved
+Resolution time 0.002s, 21 Nodes
+
+data/in/generated/fixed_clues/8_229_16.in (n=8)
+Solved
+Resolution time 0.038s, 575 Nodes
+
+data/in/generated/fixed_clues/8_1030_16.in (n=8)
+Solved
+Resolution time 0.002s, 24 Nodes
+
+data/in/generated/fixed_clues/8_1015_16.in (n=8)
+Solved
+Resolution time 0.002s, 33 Nodes
+
+data/in/generated/fixed_clues/8_842_16.in (n=8)
+Solved
+Resolution time 0.022s, 401 Nodes
+
+data/in/generated/fixed_clues/8_646_16.in (n=8)
+Solved
+Resolution time 0.010s, 155 Nodes
+
+data/in/generated/fixed_clues/8_194_16.in (n=8)
+Solved
+Resolution time 0.003s, 38 Nodes
+
+data/in/generated/fixed_clues/8_621_16.in (n=8)
+Solved
+Resolution time 0.018s, 280 Nodes
+
+data/in/generated/fixed_clues/8_710_16.in (n=8)
+Solved
+Resolution time 0.003s, 34 Nodes
+
+data/in/generated/fixed_clues/8_704_16.in (n=8)
+Solved
+Resolution time 0.008s, 114 Nodes
+
+data/in/generated/fixed_clues/8_420_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_394_16.in (n=8)
+Solved
+Resolution time 0.008s, 106 Nodes
+
+data/in/generated/fixed_clues/8_211_16.in (n=8)
+Solved
+Resolution time 0.091s, 1638 Nodes
+
+data/in/generated/fixed_clues/8_243_16.in (n=8)
+Solved
+Resolution time 0.011s, 176 Nodes
+
+data/in/generated/fixed_clues/8_763_16.in (n=8)
+Solved
+Resolution time 0.011s, 184 Nodes
+
+data/in/generated/fixed_clues/8_205_16.in (n=8)
+Solved
+Resolution time 0.003s, 41 Nodes
+
+data/in/generated/fixed_clues/8_586_16.in (n=8)
+Solved
+Resolution time 0.019s, 369 Nodes
+
+data/in/generated/fixed_clues/8_613_16.in (n=8)
+Solved
+Resolution time 0.113s, 2119 Nodes
+
+data/in/generated/fixed_clues/8_355_16.in (n=8)
+Solved
+Resolution time 0.006s, 65 Nodes
+
+data/in/generated/fixed_clues/8_946_16.in (n=8)
+Solved
+Resolution time 0.045s, 769 Nodes
+
+data/in/generated/fixed_clues/8_1013_16.in (n=8)
+Solved
+Resolution time 0.198s, 3487 Nodes
+
+data/in/generated/fixed_clues/8_338_16.in (n=8)
+Solved
+Resolution time 0.013s, 114 Nodes
+
+data/in/generated/fixed_clues/8_1057_16.in (n=8)
+Solved
+Resolution time 0.005s, 60 Nodes
+
+data/in/generated/fixed_clues/8_417_16.in (n=8)
+Solved
+Resolution time 0.004s, 67 Nodes
+
+data/in/generated/fixed_clues/8_748_16.in (n=8)
+Solved
+Resolution time 0.010s, 183 Nodes
+
+data/in/generated/fixed_clues/8_555_16.in (n=8)
+Solved
+Resolution time 0.002s, 24 Nodes
+
+data/in/generated/fixed_clues/8_922_16.in (n=8)
+Solved
+Resolution time 0.010s, 166 Nodes
+
+data/in/generated/fixed_clues/8_804_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_201_16.in (n=8)
+Solved
+Resolution time 0.005s, 80 Nodes
+
+data/in/generated/fixed_clues/8_816_16.in (n=8)
+Solved
+Resolution time 0.002s, 31 Nodes
+
+data/in/generated/fixed_clues/8_1075_16.in (n=8)
+Solved
+Resolution time 0.014s, 240 Nodes
+
+data/in/generated/fixed_clues/8_714_16.in (n=8)
+Solved
+Resolution time 0.002s, 30 Nodes
+
+data/in/generated/fixed_clues/8_734_16.in (n=8)
+Solved
+Resolution time 0.002s, 25 Nodes
+
+data/in/generated/fixed_clues/8_412_16.in (n=8)
+Solved
+Resolution time 0.003s, 51 Nodes
+
+data/in/generated/fixed_clues/8_899_16.in (n=8)
+Solved
+Resolution time 0.004s, 67 Nodes
+
+data/in/generated/fixed_clues/8_410_16.in (n=8)
+Solved
+Resolution time 0.047s, 737 Nodes
+
+data/in/generated/fixed_clues/8_1010_16.in (n=8)
+Solved
+Resolution time 0.006s, 85 Nodes
+
+data/in/generated/fixed_clues/8_487_16.in (n=8)
+Solved
+Resolution time 0.014s, 231 Nodes
+
+data/in/generated/fixed_clues/8_997_16.in (n=8)
+Solved
+Resolution time 0.034s, 571 Nodes
+
+data/in/generated/fixed_clues/8_577_16.in (n=8)
+Solved
+Resolution time 0.010s, 180 Nodes
+
+data/in/generated/fixed_clues/8_288_16.in (n=8)
+Solved
+Resolution time 0.010s, 198 Nodes
+
+data/in/generated/fixed_clues/8_994_16.in (n=8)
+Solved
+Resolution time 0.291s, 5749 Nodes
+
+data/in/generated/fixed_clues/8_552_16.in (n=8)
+Solved
+Resolution time 0.002s, 31 Nodes
+
+data/in/generated/fixed_clues/8_206_16.in (n=8)
+Solved
+Resolution time 0.002s, 32 Nodes
+
+data/in/generated/fixed_clues/8_506_16.in (n=8)
+Solved
+Resolution time 0.002s, 39 Nodes
+
+data/in/generated/fixed_clues/8_745_16.in (n=8)
+Solved
+Resolution time 0.012s, 280 Nodes
+
+data/in/generated/fixed_clues/8_921_16.in (n=8)
+Solved
+Resolution time 0.005s, 103 Nodes
+
+data/in/generated/fixed_clues/8_375_16.in (n=8)
+Solved
+Resolution time 0.010s, 192 Nodes
+
+data/in/generated/fixed_clues/8_1044_16.in (n=8)
+Solved
+Resolution time 0.004s, 61 Nodes
+
+data/in/generated/fixed_clues/8_480_16.in (n=8)
+Solved
+Resolution time 0.008s, 147 Nodes
+
+data/in/generated/fixed_clues/8_602_16.in (n=8)
+Solved
+Resolution time 0.004s, 83 Nodes
+
+data/in/generated/fixed_clues/8_740_16.in (n=8)
+Solved
+Resolution time 0.007s, 110 Nodes
+
+data/in/generated/fixed_clues/8_595_16.in (n=8)
+Solved
+Resolution time 0.009s, 146 Nodes
+
+data/in/generated/fixed_clues/8_264_16.in (n=8)
+Solved
+Resolution time 0.031s, 441 Nodes
+
+data/in/generated/fixed_clues/8_1008_16.in (n=8)
+Solved
+Resolution time 0.004s, 69 Nodes
+
+data/in/generated/fixed_clues/8_557_16.in (n=8)
+Solved
+Resolution time 0.002s, 35 Nodes
+
+data/in/generated/fixed_clues/8_563_16.in (n=8)
+Solved
+Resolution time 0.015s, 237 Nodes
+
+data/in/generated/fixed_clues/8_1053_16.in (n=8)
+Solved
+Resolution time 0.005s, 80 Nodes
+
+data/in/generated/fixed_clues/8_886_16.in (n=8)
+Solved
+Resolution time 0.004s, 51 Nodes
+
+data/in/generated/fixed_clues/8_351_16.in (n=8)
+Solved
+Resolution time 0.005s, 74 Nodes
+
+data/in/generated/fixed_clues/8_383_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_431_16.in (n=8)
+Solved
+Resolution time 0.012s, 123 Nodes
+
+data/in/generated/fixed_clues/8_353_16.in (n=8)
+Solved
+Resolution time 0.011s, 149 Nodes
+
+data/in/generated/fixed_clues/8_524_16.in (n=8)
+Solved
+Resolution time 0.044s, 673 Nodes
+
+data/in/generated/fixed_clues/8_1054_16.in (n=8)
+Solved
+Resolution time 0.043s, 787 Nodes
+
+data/in/generated/fixed_clues/8_869_16.in (n=8)
+Solved
+Resolution time 0.008s, 132 Nodes
+
+data/in/generated/fixed_clues/8_129_16.in (n=8)
+Solved
+Resolution time 0.008s, 108 Nodes
+
+data/in/generated/fixed_clues/8_891_16.in (n=8)
+Solved
+Resolution time 0.006s, 97 Nodes
+
+data/in/generated/fixed_clues/8_884_16.in (n=8)
+Solved
+Resolution time 0.002s, 35 Nodes
+
+data/in/generated/fixed_clues/8_326_16.in (n=8)
+Solved
+Resolution time 0.044s, 685 Nodes
+
+data/in/generated/fixed_clues/8_109_16.in (n=8)
+Solved
+Resolution time 0.031s, 508 Nodes
+
+data/in/generated/fixed_clues/8_448_16.in (n=8)
+Solved
+Resolution time 0.006s, 99 Nodes
+
+data/in/generated/fixed_clues/8_333_16.in (n=8)
+Solved
+Resolution time 0.023s, 360 Nodes
+
+data/in/generated/fixed_clues/8_1049_16.in (n=8)
+Solved
+Resolution time 0.081s, 1553 Nodes
+
+data/in/generated/fixed_clues/8_795_16.in (n=8)
+Solved
+Resolution time 0.041s, 692 Nodes
+
+data/in/generated/fixed_clues/8_343_16.in (n=8)
+Solved
+Resolution time 0.008s, 144 Nodes
+
+data/in/generated/fixed_clues/8_620_16.in (n=8)
+Solved
+Resolution time 0.005s, 73 Nodes
+
+data/in/generated/fixed_clues/8_938_16.in (n=8)
+Solved
+Resolution time 0.004s, 67 Nodes
+
+data/in/generated/fixed_clues/8_544_16.in (n=8)
+Solved
+Resolution time 0.010s, 154 Nodes
+
+data/in/generated/fixed_clues/8_764_16.in (n=8)
+Solved
+Resolution time 0.005s, 82 Nodes
+
+data/in/generated/fixed_clues/8_1083_16.in (n=8)
+Solved
+Resolution time 0.004s, 41 Nodes
+
+data/in/generated/fixed_clues/8_666_16.in (n=8)
+Solved
+Resolution time 0.002s, 21 Nodes
+
+data/in/generated/fixed_clues/8_1046_16.in (n=8)
+Solved
+Resolution time 0.010s, 179 Nodes
+
+data/in/generated/fixed_clues/8_634_16.in (n=8)
+Solved
+Resolution time 0.008s, 122 Nodes
+
+data/in/generated/fixed_clues/8_956_16.in (n=8)
+Solved
+Resolution time 0.006s, 94 Nodes
+
+data/in/generated/fixed_clues/8_204_16.in (n=8)
+Solved
+Resolution time 0.008s, 136 Nodes
+
+data/in/generated/fixed_clues/8_654_16.in (n=8)
+Solved
+Resolution time 0.033s, 599 Nodes
+
+data/in/generated/fixed_clues/8_1077_16.in (n=8)
+Solved
+Resolution time 0.009s, 137 Nodes
+
+data/in/generated/fixed_clues/8_757_16.in (n=8)
+Solved
+Resolution time 0.002s, 32 Nodes
+
+data/in/generated/fixed_clues/8_905_16.in (n=8)
+Solved
+Resolution time 0.005s, 81 Nodes
+
+data/in/generated/fixed_clues/8_737_16.in (n=8)
+Solved
+Resolution time 0.057s, 1028 Nodes
+
+data/in/generated/fixed_clues/8_837_16.in (n=8)
+Solved
+Resolution time 0.016s, 268 Nodes
+
+data/in/generated/fixed_clues/8_556_16.in (n=8)
+Solved
+Resolution time 0.002s, 21 Nodes
+
+data/in/generated/fixed_clues/8_171_16.in (n=8)
+Solved
+Resolution time 0.097s, 1548 Nodes
+
+data/in/generated/fixed_clues/8_954_16.in (n=8)
+Solved
+Resolution time 0.040s, 626 Nodes
+
+data/in/generated/fixed_clues/8_838_16.in (n=8)
+Solved
+Resolution time 0.004s, 68 Nodes
+
+data/in/generated/fixed_clues/8_661_16.in (n=8)
+Solved
+Resolution time 0.023s, 311 Nodes
+
+data/in/generated/fixed_clues/8_876_16.in (n=8)
+Solved
+Resolution time 0.002s, 25 Nodes
+
+data/in/generated/fixed_clues/8_191_16.in (n=8)
+Solved
+Resolution time 0.002s, 43 Nodes
+
+data/in/generated/fixed_clues/8_474_16.in (n=8)
+Solved
+Resolution time 0.007s, 90 Nodes
+
+data/in/generated/fixed_clues/8_732_16.in (n=8)
+Solved
+Resolution time 0.004s, 70 Nodes
+
+data/in/generated/fixed_clues/8_345_16.in (n=8)
+Solved
+Resolution time 0.002s, 33 Nodes
+
+data/in/generated/fixed_clues/8_723_16.in (n=8)
+Solved
+Resolution time 0.007s, 95 Nodes
+
+data/in/generated/fixed_clues/8_564_16.in (n=8)
+Solved
+Resolution time 0.049s, 747 Nodes
+
+data/in/generated/fixed_clues/8_833_16.in (n=8)
+Solved
+Resolution time 0.010s, 161 Nodes
+
+data/in/generated/fixed_clues/8_897_16.in (n=8)
+Solved
+Resolution time 0.069s, 1368 Nodes
+
+data/in/generated/fixed_clues/8_339_16.in (n=8)
+Solved
+Resolution time 0.002s, 39 Nodes
+
+data/in/generated/fixed_clues/8_1023_16.in (n=8)
+Solved
+Resolution time 0.007s, 115 Nodes
+
+data/in/generated/fixed_clues/8_309_16.in (n=8)
+Solved
+Resolution time 0.029s, 632 Nodes
+
+data/in/generated/fixed_clues/8_455_16.in (n=8)
+Solved
+Resolution time 0.074s, 1407 Nodes
+
+data/in/generated/fixed_clues/8_283_16.in (n=8)
+Solved
+Resolution time 0.036s, 761 Nodes
+
+data/in/generated/fixed_clues/8_511_16.in (n=8)
+Solved
+Resolution time 0.049s, 904 Nodes
+
+data/in/generated/fixed_clues/8_917_16.in (n=8)
+Solved
+Resolution time 0.006s, 93 Nodes
+
+data/in/generated/fixed_clues/8_215_16.in (n=8)
+Solved
+Resolution time 0.002s, 39 Nodes
+
+data/in/generated/fixed_clues/8_142_16.in (n=8)
+Solved
+Resolution time 0.002s, 38 Nodes
+
+data/in/generated/fixed_clues/8_691_16.in (n=8)
+Solved
+Resolution time 0.002s, 24 Nodes
+
+data/in/generated/fixed_clues/8_376_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_728_16.in (n=8)
+Solved
+Resolution time 0.010s, 171 Nodes
+
+data/in/generated/fixed_clues/8_421_16.in (n=8)
+Solved
+Resolution time 0.007s, 117 Nodes
+
+data/in/generated/fixed_clues/8_1045_16.in (n=8)
+Solved
+Resolution time 0.024s, 367 Nodes
+
+data/in/generated/fixed_clues/8_707_16.in (n=8)
+Solved
+Resolution time 0.016s, 275 Nodes
+
+data/in/generated/fixed_clues/8_843_16.in (n=8)
+Solved
+Resolution time 0.015s, 204 Nodes
+
+data/in/generated/fixed_clues/8_611_16.in (n=8)
+Solved
+Resolution time 0.005s, 70 Nodes
+
+data/in/generated/fixed_clues/8_133_16.in (n=8)
+Solved
+Resolution time 0.004s, 66 Nodes
+
+data/in/generated/fixed_clues/8_337_16.in (n=8)
+Solved
+Resolution time 0.010s, 174 Nodes
+
+data/in/generated/fixed_clues/8_665_16.in (n=8)
+Solved
+Resolution time 0.003s, 54 Nodes
+
+data/in/generated/fixed_clues/8_663_16.in (n=8)
+Solved
+Resolution time 0.005s, 63 Nodes
+
+data/in/generated/fixed_clues/8_102_16.in (n=8)
+Solved
+Resolution time 0.002s, 30 Nodes
+
+data/in/generated/fixed_clues/8_282_16.in (n=8)
+Solved
+Resolution time 0.002s, 28 Nodes
+
+data/in/generated/fixed_clues/8_184_16.in (n=8)
+Solved
+Resolution time 0.002s, 29 Nodes
+
+data/in/generated/fixed_clues/8_752_16.in (n=8)
+Solved
+Resolution time 0.035s, 624 Nodes
+
+data/in/generated/fixed_clues/8_901_16.in (n=8)
+Solved
+Resolution time 0.002s, 35 Nodes
+
+data/in/generated/fixed_clues/8_852_16.in (n=8)
+Solved
+Resolution time 0.004s, 57 Nodes
+
+data/in/generated/fixed_clues/8_1027_16.in (n=8)
+Solved
+Resolution time 0.002s, 37 Nodes
+
+data/in/generated/fixed_clues/8_933_16.in (n=8)
+Solved
+Resolution time 0.015s, 219 Nodes
+
+data/in/generated/fixed_clues/8_792_16.in (n=8)
+Solved
+Resolution time 0.005s, 71 Nodes
+
+data/in/generated/fixed_clues/8_348_16.in (n=8)
+Solved
+Resolution time 0.008s, 124 Nodes
+
+data/in/generated/fixed_clues/8_250_16.in (n=8)
+Solved
+Resolution time 0.052s, 884 Nodes
+
+data/in/generated/fixed_clues/8_797_16.in (n=8)
+Solved
+Resolution time 0.019s, 268 Nodes
+
+data/in/generated/fixed_clues/8_988_16.in (n=8)
+Solved
+Resolution time 0.002s, 32 Nodes
+
+data/in/generated/fixed_clues/8_255_16.in (n=8)
+Solved
+Resolution time 0.002s, 27 Nodes
+
+data/in/generated/fixed_clues/8_658_16.in (n=8)
+Solved
+Resolution time 0.005s, 68 Nodes
+
+data/in/generated/fixed_clues/8_943_16.in (n=8)
+Solved
+Resolution time 0.017s, 252 Nodes
+
+data/in/generated/fixed_clues/8_254_16.in (n=8)
+Solved
+Resolution time 0.007s, 105 Nodes
+
+data/in/generated/fixed_clues/8_1084_16.in (n=8)
+Solved
+Resolution time 0.002s, 20 Nodes
+
+data/in/generated/fixed_clues/8_813_16.in (n=8)
+Solved
+Resolution time 0.001s, 19 Nodes
+
+data/in/generated/fixed_clues/8_688_16.in (n=8)
+Solved
+Resolution time 0.069s, 1083 Nodes
+
+data/in/generated/fixed_clues/8_814_16.in (n=8)
+Solved
+Resolution time 0.007s, 65 Nodes
+
+data/in/generated/fixed_clues/8_753_16.in (n=8)
+Solved
+Resolution time 0.023s, 279 Nodes
+
+data/in/generated/fixed_clues/8_370_16.in (n=8)
+Solved
+Resolution time 0.017s, 243 Nodes
+
+data/in/generated/fixed_clues/8_642_16.in (n=8)
+Solved
+Resolution time 0.015s, 207 Nodes
+
+data/in/generated/fixed_clues/8_180_16.in (n=8)
+Solved
+Resolution time 0.010s, 180 Nodes
+
+data/in/generated/fixed_clues/8_203_16.in (n=8)
+Solved
+Resolution time 0.002s, 35 Nodes
+
+data/in/generated/fixed_clues/8_934_16.in (n=8)
+Solved
+Resolution time 0.002s, 28 Nodes
+
+data/in/generated/fixed_clues/8_770_16.in (n=8)
+Solved
+Resolution time 0.042s, 670 Nodes
+
+data/in/generated/fixed_clues/8_597_16.in (n=8)
+Solved
+Resolution time 0.030s, 425 Nodes
+
+data/in/generated/fixed_clues/8_885_16.in (n=8)
+Solved
+Resolution time 0.055s, 812 Nodes
+
+data/in/generated/fixed_clues/8_306_16.in (n=8)
+Solved
+Resolution time 0.021s, 239 Nodes
+
+data/in/generated/fixed_clues/8_865_16.in (n=8)
+Solved
+Resolution time 0.091s, 1506 Nodes
+
+data/in/generated/fixed_clues/8_1071_16.in (n=8)
+Solved
+Resolution time 0.002s, 37 Nodes
+
+data/in/generated/fixed_clues/8_423_16.in (n=8)
+Solved
+Resolution time 0.128s, 1973 Nodes
+
+data/in/generated/fixed_clues/8_587_16.in (n=8)
+Solved
+Resolution time 0.022s, 355 Nodes
+
+data/in/generated/fixed_clues/8_145_16.in (n=8)
+Solved
+Resolution time 0.039s, 595 Nodes
+
+data/in/generated/fixed_clues/8_945_16.in (n=8)
+Solved
+Resolution time 0.031s, 529 Nodes
+
+data/in/generated/fixed_clues/8_334_16.in (n=8)
+Solved
+Resolution time 0.024s, 434 Nodes
+
+data/in/generated/fixed_clues/8_447_16.in (n=8)
+Solved
+Resolution time 0.038s, 506 Nodes
+
+data/in/generated/fixed_clues/8_856_16.in (n=8)
+Solved
+Resolution time 0.002s, 25 Nodes
+
+data/in/generated/fixed_clues/8_272_16.in (n=8)
+Solved
+Resolution time 0.006s, 83 Nodes
+
+data/in/generated/fixed_clues/8_380_16.in (n=8)
+Solved
+Resolution time 0.002s, 25 Nodes
+
+data/in/generated/fixed_clues/8_809_16.in (n=8)
+Solved
+Resolution time 0.003s, 40 Nodes
+
+data/in/generated/fixed_clues/8_828_16.in (n=8)
+Solved
+Resolution time 0.003s, 49 Nodes
+
+data/in/generated/fixed_clues/8_1009_16.in (n=8)
+Solved
+Resolution time 0.009s, 158 Nodes
+
+data/in/generated/fixed_clues/8_1021_16.in (n=8)
+Solved
+Resolution time 0.002s, 27 Nodes
+
+data/in/generated/fixed_clues/8_974_16.in (n=8)
+Solved
+Resolution time 0.003s, 36 Nodes
+
+data/in/generated/fixed_clues/8_803_16.in (n=8)
+Solved
+Resolution time 0.006s, 101 Nodes
+
+data/in/generated/fixed_clues/8_589_16.in (n=8)
+Solved
+Resolution time 0.005s, 89 Nodes
+
+data/in/generated/fixed_clues/8_1018_16.in (n=8)
+Solved
+Resolution time 0.025s, 376 Nodes
+
+data/in/generated/fixed_clues/8_854_16.in (n=8)
+Solved
+Resolution time 0.004s, 76 Nodes
+
+data/in/generated/fixed_clues/8_719_16.in (n=8)
+Solved
+Resolution time 0.019s, 259 Nodes
+
+data/in/generated/fixed_clues/8_115_16.in (n=8)
+Solved
+Resolution time 0.012s, 194 Nodes
+
+data/in/generated/fixed_clues/8_400_16.in (n=8)
+Solved
+Resolution time 0.003s, 28 Nodes
+
+data/in/generated/fixed_clues/8_175_16.in (n=8)
+Solved
+Resolution time 0.005s, 75 Nodes
+
+data/in/generated/fixed_clues/8_517_16.in (n=8)
+Solved
+Resolution time 0.006s, 81 Nodes
+
+data/in/generated/fixed_clues/8_270_16.in (n=8)
+Solved
+Resolution time 0.007s, 84 Nodes
+
+data/in/generated/fixed_clues/8_625_16.in (n=8)
+Solved
+Resolution time 0.298s, 5118 Nodes
+
+data/in/generated/fixed_clues/8_789_16.in (n=8)
+Solved
+Resolution time 0.005s, 51 Nodes
+
+data/in/generated/fixed_clues/8_1089_16.in (n=8)
+Solved
+Resolution time 0.109s, 1928 Nodes
+
+data/in/generated/fixed_clues/8_904_16.in (n=8)
+Solved
+Resolution time 0.014s, 205 Nodes
+
+data/in/generated/fixed_clues/8_404_16.in (n=8)
+Solved
+Resolution time 0.007s, 125 Nodes
+
+data/in/generated/fixed_clues/8_849_16.in (n=8)
+Solved
+Resolution time 0.002s, 38 Nodes
+
+data/in/generated/fixed_clues/8_328_16.in (n=8)
+Solved
+Resolution time 0.003s, 26 Nodes
+
+data/in/generated/fixed_clues/8_1003_16.in (n=8)
+Solved
+Resolution time 0.006s, 64 Nodes
+
+data/in/generated/fixed_clues/8_1073_16.in (n=8)
+Solved
+Resolution time 0.037s, 659 Nodes
+
+data/in/generated/fixed_clues/8_489_16.in (n=8)
+Solved
+Resolution time 0.006s, 92 Nodes
+
+data/in/generated/fixed_clues/8_1016_16.in (n=8)
+Solved
+Resolution time 0.005s, 63 Nodes
+
+data/in/generated/fixed_clues/8_825_16.in (n=8)
+Solved
+Resolution time 0.007s, 96 Nodes
+
+data/in/generated/fixed_clues/8_391_16.in (n=8)
+Solved
+Resolution time 0.007s, 93 Nodes
+
+data/in/generated/fixed_clues/8_362_16.in (n=8)
+Solved
+Resolution time 0.002s, 27 Nodes
+
+data/in/generated/fixed_clues/8_998_16.in (n=8)
+Solved
+Resolution time 0.003s, 42 Nodes
+
+data/in/generated/fixed_clues/8_100_16.in (n=8)
+Solved
+Resolution time 0.005s, 98 Nodes
+
+data/in/generated/fixed_clues/8_711_16.in (n=8)
+Solved
+Resolution time 0.037s, 730 Nodes
+
+data/in/generated/fixed_clues/8_207_16.in (n=8)
+Solved
+Resolution time 0.004s, 36 Nodes
+
+data/in/generated/fixed_clues/8_672_16.in (n=8)
+Solved
+Resolution time 0.170s, 3237 Nodes
+
+data/in/generated/fixed_clues/8_549_16.in (n=8)
+Solved
+Resolution time 0.006s, 117 Nodes
+
+data/in/generated/fixed_clues/8_432_16.in (n=8)
+Solved
+Resolution time 0.047s, 888 Nodes
+
+data/in/generated/fixed_clues/8_599_16.in (n=8)
+Solved
+Resolution time 0.015s, 277 Nodes
+
+data/in/generated/fixed_clues/8_1060_16.in (n=8)
+Solved
+Resolution time 0.001s, 25 Nodes
+
+data/in/generated/fixed_clues/8_668_16.in (n=8)
+Solved
+Resolution time 0.012s, 227 Nodes
+
+data/in/generated/fixed_clues/8_330_16.in (n=8)
+Solved
+Resolution time 0.023s, 440 Nodes
+
+data/in/generated/fixed_clues/8_802_16.in (n=8)
+Solved
+Resolution time 0.027s, 420 Nodes
+
+data/in/generated/fixed_clues/8_298_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_281_16.in (n=8)
+Solved
+Resolution time 0.040s, 657 Nodes
+
+data/in/generated/fixed_clues/8_379_16.in (n=8)
+Solved
+Resolution time 0.037s, 575 Nodes
+
+data/in/generated/fixed_clues/8_834_16.in (n=8)
+Solved
+Resolution time 0.009s, 155 Nodes
+
+data/in/generated/fixed_clues/8_909_16.in (n=8)
+Solved
+Resolution time 0.016s, 231 Nodes
+
+data/in/generated/fixed_clues/8_859_16.in (n=8)
+Solved
+Resolution time 0.017s, 225 Nodes
+
+data/in/generated/fixed_clues/8_303_16.in (n=8)
+Solved
+Resolution time 0.003s, 53 Nodes
+
+data/in/generated/fixed_clues/8_811_16.in (n=8)
+Solved
+Resolution time 0.026s, 475 Nodes
+
+data/in/generated/fixed_clues/8_402_16.in (n=8)
+Solved
+Resolution time 0.059s, 911 Nodes
+
+data/in/generated/fixed_clues/8_560_16.in (n=8)
+Solved
+Resolution time 0.002s, 32 Nodes
+
+data/in/generated/fixed_clues/8_962_16.in (n=8)
+Solved
+Resolution time 0.008s, 104 Nodes
+
+data/in/generated/fixed_clues/8_1020_16.in (n=8)
+Solved
+Resolution time 0.007s, 110 Nodes
+
+data/in/generated/fixed_clues/8_165_16.in (n=8)
+Solved
+Resolution time 0.003s, 41 Nodes
+
+data/in/generated/fixed_clues/8_972_16.in (n=8)
+Solved
+Resolution time 0.003s, 37 Nodes
+
+data/in/generated/fixed_clues/8_213_16.in (n=8)
+Solved
+Resolution time 0.078s, 1230 Nodes
+
+data/in/generated/fixed_clues/8_1093_16.in (n=8)
+Solved
+Resolution time 0.006s, 31 Nodes
+
+data/in/generated/fixed_clues/8_160_16.in (n=8)
+Solved
+Resolution time 0.050s, 592 Nodes
+
+data/in/generated/fixed_clues/8_1036_16.in (n=8)
+Solved
+Resolution time 0.003s, 50 Nodes
+
+data/in/generated/fixed_clues/8_438_16.in (n=8)
+Solved
+Resolution time 0.002s, 24 Nodes
+
+data/in/generated/fixed_clues/8_1098_16.in (n=8)
+Solved
+Resolution time 0.013s, 208 Nodes
+
+data/in/generated/fixed_clues/8_223_16.in (n=8)
+Solved
+Resolution time 0.004s, 49 Nodes
+
+data/in/generated/fixed_clues/8_830_16.in (n=8)
+Solved
+Resolution time 0.004s, 52 Nodes
+
+data/in/generated/fixed_clues/8_1047_16.in (n=8)
+Solved
+Resolution time 0.007s, 103 Nodes
+
+data/in/generated/fixed_clues/8_851_16.in (n=8)
+Solved
+Resolution time 0.003s, 23 Nodes
+
+data/in/generated/fixed_clues/8_501_16.in (n=8)
+Solved
+Resolution time 0.002s, 27 Nodes
+
+data/in/generated/fixed_clues/8_967_16.in (n=8)
+Solved
+Resolution time 0.004s, 58 Nodes
+
+data/in/generated/fixed_clues/8_1043_16.in (n=8)
+Solved
+Resolution time 0.018s, 287 Nodes
+
+data/in/generated/fixed_clues/8_775_16.in (n=8)
+Solved
+Resolution time 0.010s, 164 Nodes
+
+data/in/generated/fixed_clues/8_444_16.in (n=8)
+Solved
+Resolution time 0.016s, 226 Nodes
+
+data/in/generated/fixed_clues/8_408_16.in (n=8)
+Solved
+Resolution time 0.016s, 210 Nodes
+
+data/in/generated/fixed_clues/8_699_16.in (n=8)
+Solved
+Resolution time 0.008s, 89 Nodes
+
+data/in/generated/fixed_clues/8_374_16.in (n=8)
+Solved
+Resolution time 0.018s, 192 Nodes
+
+data/in/generated/fixed_clues/8_492_16.in (n=8)
+Solved
+Resolution time 0.015s, 199 Nodes
+
+data/in/generated/fixed_clues/8_516_16.in (n=8)
+Solved
+Resolution time 0.008s, 122 Nodes
+
+data/in/generated/fixed_clues/8_428_16.in (n=8)
+Solved
+Resolution time 0.002s, 18 Nodes
+
+data/in/generated/fixed_clues/8_124_16.in (n=8)
+Solved
+Resolution time 0.190s, 3118 Nodes
+
+data/in/generated/fixed_clues/8_490_16.in (n=8)
+Solved
+Resolution time 0.005s, 59 Nodes
+
+data/in/generated/fixed_clues/8_808_16.in (n=8)
+Solved
+Resolution time 0.002s, 37 Nodes
+
+data/in/generated/fixed_clues/8_541_16.in (n=8)
+Solved
+Resolution time 0.002s, 26 Nodes
+
+data/in/generated/fixed_clues/8_681_16.in (n=8)
+Solved
+Resolution time 0.002s, 21 Nodes
+
+data/in/generated/fixed_clues/8_930_16.in (n=8)
+Solved
+Resolution time 0.006s, 88 Nodes
+
+data/in/generated/fixed_clues/8_458_16.in (n=8)
+Solved
+Resolution time 0.248s, 3774 Nodes
+
+data/in/generated/fixed_clues/8_1029_16.in (n=8)
+Solved
+Resolution time 0.005s, 69 Nodes
+
+data/in/generated/fixed_clues/8_390_16.in (n=8)
+Solved
+Resolution time 0.003s, 33 Nodes
+
+data/in/generated/fixed_clues/8_106_16.in (n=8)
+Solved
+Resolution time 0.002s, 24 Nodes
+
+data/in/generated/fixed_clues/8_247_16.in (n=8)
+Solved
+Resolution time 0.014s, 187 Nodes
+
+data/in/generated/fixed_clues/8_853_16.in (n=8)
+Solved
+Resolution time 0.014s, 204 Nodes
+
+data/in/generated/fixed_clues/8_484_16.in (n=8)
+Solved
+Resolution time 0.003s, 32 Nodes
+
+data/in/generated/fixed_clues/8_485_16.in (n=8)
+Solved
+Resolution time 0.037s, 525 Nodes
+
+data/in/generated/fixed_clues/8_1002_16.in (n=8)
+Solved
+Resolution time 0.108s, 1793 Nodes
+
+data/in/generated/fixed_clues/8_569_16.in (n=8)
+Solved
+Resolution time 0.002s, 28 Nodes
+
+data/in/generated/fixed_clues/8_225_16.in (n=8)
+Solved
+Resolution time 0.004s, 61 Nodes
+
+data/in/generated/fixed_clues/8_514_16.in (n=8)
+Solved
+Resolution time 0.110s, 1688 Nodes
+
+data/in/generated/fixed_clues/8_108_16.in (n=8)
+Solved
+Resolution time 0.003s, 42 Nodes
+
+data/in/generated/fixed_clues/8_305_16.in (n=8)
+Solved
+Resolution time 0.022s, 315 Nodes
+
+data/in/generated/fixed_clues/8_529_16.in (n=8)
+Solved
+Resolution time 0.004s, 66 Nodes
+
+data/in/generated/fixed_clues/8_1037_16.in (n=8)
+Solved
+Resolution time 0.002s, 36 Nodes
+
+data/in/generated/fixed_clues/8_134_16.in (n=8)
+Solved
+Resolution time 0.002s, 21 Nodes
+
+data/in/generated/fixed_clues/8_320_16.in (n=8)
+Solved
+Resolution time 0.004s, 56 Nodes
+
+data/in/generated/fixed_clues/8_179_16.in (n=8)
+Solved
+Resolution time 0.010s, 136 Nodes
+
+data/in/generated/fixed_clues/8_717_16.in (n=8)
+Solved
+Resolution time 0.006s, 91 Nodes
+
+data/in/generated/fixed_clues/8_882_16.in (n=8)
+Solved
+Resolution time 0.007s, 116 Nodes
+
+data/in/generated/fixed_clues/8_993_16.in (n=8)
+Solved
+Resolution time 0.016s, 290 Nodes
+
+data/in/generated/fixed_clues/8_411_16.in (n=8)
+Solved
+Resolution time 0.068s, 1212 Nodes
+
+data/in/generated/fixed_clues/8_424_16.in (n=8)
+Solved
+Resolution time 0.019s, 280 Nodes
+
+data/in/generated/fixed_clues/8_224_16.in (n=8)
+Solved
+Resolution time 0.002s, 27 Nodes
+
+data/in/generated/fixed_clues/8_265_16.in (n=8)
+Solved
+Resolution time 0.005s, 69 Nodes
+
+data/in/generated/fixed_clues/8_301_16.in (n=8)
+Solved
+Resolution time 0.003s, 56 Nodes
+
+data/in/generated/fixed_clues/8_260_16.in (n=8)
+Solved
+Resolution time 0.011s, 174 Nodes
+
+data/in/generated/fixed_clues/8_196_16.in (n=8)
+Solved
+Resolution time 0.011s, 175 Nodes
+
+data/in/generated/fixed_clues/8_433_16.in (n=8)
+Solved
+Resolution time 0.209s, 4179 Nodes
+
+data/in/generated/fixed_clues/8_976_16.in (n=8)
+Solved
+Resolution time 0.048s, 879 Nodes
+
+data/in/generated/fixed_clues/8_218_16.in (n=8)
+Solved
+Resolution time 0.002s, 36 Nodes
+
+data/in/generated/fixed_clues/8_736_16.in (n=8)
+Solved
+Resolution time 0.002s, 31 Nodes
+
+data/in/generated/fixed_clues/8_261_16.in (n=8)
+Solved
+Resolution time 0.021s, 437 Nodes
+
+data/in/generated/fixed_clues/8_548_16.in (n=8)
+Solved
+Resolution time 0.008s, 146 Nodes
+
+data/in/generated/fixed_clues/8_399_16.in (n=8)
+Solved
+Resolution time 0.008s, 137 Nodes
+
+data/in/generated/fixed_clues/8_481_16.in (n=8)
+Solved
+Resolution time 0.003s, 32 Nodes
+
+data/in/generated/fixed_clues/8_590_16.in (n=8)
+Solved
+Resolution time 0.006s, 88 Nodes
+
+data/in/generated/fixed_clues/8_800_16.in (n=8)
+Solved
+Resolution time 0.034s, 527 Nodes
+
+data/in/generated/fixed_clues/8_389_16.in (n=8)
+Solved
+Resolution time 0.002s, 27 Nodes
+
+data/in/generated/fixed_clues/8_263_16.in (n=8)
+Solved
+Resolution time 0.155s, 2976 Nodes
+
+data/in/generated/fixed_clues/8_881_16.in (n=8)
+Solved
+Resolution time 0.004s, 68 Nodes
+
+data/in/generated/fixed_clues/8_478_16.in (n=8)
+Solved
+Resolution time 0.107s, 2029 Nodes
+
+data/in/generated/fixed_clues/8_221_16.in (n=8)
+Solved
+Resolution time 0.007s, 113 Nodes
+
+data/in/generated/fixed_clues/8_186_16.in (n=8)
+Solved
+Resolution time 0.001s, 17 Nodes
+
+data/in/generated/fixed_clues/8_893_16.in (n=8)
+Solved
+Resolution time 0.006s, 112 Nodes
+
+data/in/generated/fixed_clues/8_200_16.in (n=8)
+Solved
+Resolution time 0.027s, 468 Nodes
+
+data/in/generated/fixed_clues/8_713_16.in (n=8)
+Solved
+Resolution time 0.003s, 42 Nodes
+
+data/in/generated/fixed_clues/8_377_16.in (n=8)
+Solved
+Resolution time 0.004s, 48 Nodes
+
+data/in/generated/fixed_clues/8_678_16.in (n=8)
+Solved
+Resolution time 0.007s, 106 Nodes
+
+data/in/generated/fixed_clues/8_155_16.in (n=8)
+Solved
+Resolution time 0.002s, 26 Nodes
+
+data/in/generated/fixed_clues/8_534_16.in (n=8)
+Solved
+Resolution time 0.002s, 35 Nodes
+
+data/in/generated/fixed_clues/8_479_16.in (n=8)
+Solved
+Resolution time 0.050s, 896 Nodes
+
+data/in/generated/fixed_clues/8_914_16.in (n=8)
+Solved
+Resolution time 0.004s, 43 Nodes
+
+data/in/generated/fixed_clues/8_582_16.in (n=8)
+Solved
+Resolution time 0.002s, 35 Nodes
+
+data/in/generated/fixed_clues/8_152_16.in (n=8)
+Solved
+Resolution time 0.001s, 27 Nodes
+
+data/in/generated/fixed_clues/8_673_16.in (n=8)
+Solved
+Resolution time 0.026s, 391 Nodes
+
+data/in/generated/fixed_clues/8_738_16.in (n=8)
+Solved
+Resolution time 0.199s, 3253 Nodes
+
+data/in/generated/fixed_clues/8_382_16.in (n=8)
+Solved
+Resolution time 0.005s, 86 Nodes
+
+data/in/generated/fixed_clues/8_188_16.in (n=8)
+Solved
+Resolution time 0.005s, 91 Nodes
+
+data/in/generated/fixed_clues/8_1034_16.in (n=8)
+Solved
+Resolution time 0.007s, 133 Nodes
+
+data/in/generated/fixed_clues/8_259_16.in (n=8)
+Solved
+Resolution time 0.002s, 32 Nodes
+
+data/in/generated/fixed_clues/8_242_16.in (n=8)
+Solved
+Resolution time 0.026s, 418 Nodes
+
+data/in/generated/fixed_clues/8_785_16.in (n=8)
+Solved
+Resolution time 0.003s, 43 Nodes
+
+data/in/generated/fixed_clues/8_220_16.in (n=8)
+Solved
+Resolution time 0.002s, 32 Nodes
+
+data/in/generated/fixed_clues/8_356_16.in (n=8)
+Solved
+Resolution time 0.004s, 36 Nodes
+
+data/in/generated/fixed_clues/8_729_16.in (n=8)
+Solved
+Resolution time 0.002s, 24 Nodes
+
+data/in/generated/fixed_clues/8_550_16.in (n=8)
+Solved
+Resolution time 0.030s, 461 Nodes
+
+data/in/generated/fixed_clues/8_269_16.in (n=8)
+Solved
+Resolution time 0.002s, 24 Nodes
+
+data/in/generated/fixed_clues/8_944_16.in (n=8)
+Solved
+Resolution time 0.023s, 396 Nodes
+
+data/in/generated/fixed_clues/8_367_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_368_16.in (n=8)
+Solved
+Resolution time 0.009s, 171 Nodes
+
+data/in/generated/fixed_clues/8_222_16.in (n=8)
+Solved
+Resolution time 0.023s, 343 Nodes
+
+data/in/generated/fixed_clues/8_860_16.in (n=8)
+Solved
+Resolution time 0.092s, 1496 Nodes
+
+data/in/generated/fixed_clues/8_449_16.in (n=8)
+Solved
+Resolution time 0.002s, 40 Nodes
+
+data/in/generated/fixed_clues/8_335_16.in (n=8)
+Solved
+Resolution time 0.004s, 54 Nodes
+
+data/in/generated/fixed_clues/8_868_16.in (n=8)
+Solved
+Resolution time 0.002s, 35 Nodes
+
+data/in/generated/fixed_clues/8_566_16.in (n=8)
+Solved
+Resolution time 0.003s, 49 Nodes
+
+data/in/generated/fixed_clues/8_900_16.in (n=8)
+Solved
+Resolution time 0.013s, 157 Nodes
+
+data/in/generated/fixed_clues/8_927_16.in (n=8)
+Solved
+Resolution time 0.011s, 135 Nodes
+
+data/in/generated/fixed_clues/8_1012_16.in (n=8)
+Solved
+Resolution time 0.054s, 847 Nodes
+
+data/in/generated/fixed_clues/8_791_16.in (n=8)
+Solved
+Resolution time 0.013s, 187 Nodes
+
+data/in/generated/fixed_clues/8_313_16.in (n=8)
+Solved
+Resolution time 0.009s, 166 Nodes
+
+data/in/generated/fixed_clues/8_147_16.in (n=8)
+Solved
+Resolution time 0.002s, 22 Nodes
+
+data/in/generated/fixed_clues/8_381_16.in (n=8)
+Solved
+Resolution time 0.008s, 120 Nodes
+
+data/in/generated/fixed_clues/8_185_16.in (n=8)
+Solved
+Resolution time 0.002s, 20 Nodes
+
+data/in/generated/fixed_clues/8_457_16.in (n=8)
+Solved
+Resolution time 0.018s, 235 Nodes
+
+data/in/generated/fixed_clues/8_148_16.in (n=8)
+Solved
+Resolution time 0.002s, 31 Nodes
+
+data/in/generated/fixed_clues/8_290_16.in (n=8)
+Solved
+Resolution time 0.004s, 55 Nodes
+
+data/in/generated/fixed_clues/8_496_16.in (n=8)
+Solved
+Resolution time 0.008s, 109 Nodes
+
+data/in/generated/fixed_clues/8_578_16.in (n=8)
+Solved
+Resolution time 0.004s, 58 Nodes
+
+data/in/generated/fixed_clues/8_786_16.in (n=8)
+Solved
+Resolution time 0.003s, 50 Nodes
+
+data/in/generated/fixed_clues/8_1011_16.in (n=8)
+Solved
+Resolution time 0.007s, 63 Nodes
+
+data/in/generated/fixed_clues/8_461_16.in (n=8)
+Solved
+Resolution time 0.004s, 54 Nodes
+
+data/in/generated/fixed_clues/8_112_16.in (n=8)
+Solved
+Resolution time 0.003s, 45 Nodes
+
+data/in/generated/fixed_clues/8_712_16.in (n=8)
+Solved
+Resolution time 0.003s, 31 Nodes
+
+data/in/generated/fixed_clues/8_957_16.in (n=8)
+Solved
+Resolution time 0.016s, 192 Nodes
+
+data/in/generated/fixed_clues/8_244_16.in (n=8)
+Solved
+Resolution time 0.018s, 325 Nodes
+
+data/in/generated/fixed_clues/8_413_16.in (n=8)
+Solved
+Resolution time 0.004s, 55 Nodes
+
+data/in/generated/fixed_clues/8_452_16.in (n=8)
+Solved
+Resolution time 0.002s, 27 Nodes
+
+data/in/generated/fixed_clues/8_1026_16.in (n=8)
+Solved
+Resolution time 0.012s, 203 Nodes
+
+data/in/generated/fixed_clues/8_536_16.in (n=8)
+Solved
+Resolution time 0.005s, 34 Nodes
+
+data/in/generated/fixed_clues/8_138_16.in (n=8)
+Solved
+Resolution time 0.007s, 102 Nodes
+
+data/in/generated/fixed_clues/8_744_16.in (n=8)
+Solved
+Resolution time 0.002s, 22 Nodes
+
+data/in/generated/fixed_clues/8_352_16.in (n=8)
+Solved
+Resolution time 0.013s, 185 Nodes
+
+data/in/generated/fixed_clues/8_801_16.in (n=8)
+Solved
+Resolution time 0.068s, 911 Nodes
+
+data/in/generated/fixed_clues/8_793_16.in (n=8)
+Solved
+Resolution time 0.017s, 205 Nodes
+
+data/in/generated/fixed_clues/8_435_16.in (n=8)
+Solved
+Resolution time 0.052s, 606 Nodes
+
+data/in/generated/fixed_clues/8_533_16.in (n=8)
+Solved
+Resolution time 0.005s, 58 Nodes
+
+data/in/generated/fixed_clues/8_978_16.in (n=8)
+Solved
+Resolution time 0.008s, 107 Nodes
+
+data/in/generated/fixed_clues/8_872_16.in (n=8)
+Solved
+Resolution time 0.003s, 37 Nodes
+
+data/in/generated/fixed_clues/8_975_16.in (n=8)
+Solved
+Resolution time 0.002s, 28 Nodes
+
+data/in/generated/fixed_clues/8_615_16.in (n=8)
+Solved
+Resolution time 0.003s, 27 Nodes
+
+data/in/generated/fixed_clues/8_219_16.in (n=8)
+Solved
+Resolution time 0.002s, 24 Nodes
+
+data/in/generated/fixed_clues/8_749_16.in (n=8)
+Solved
+Resolution time 0.011s, 136 Nodes
+
+data/in/generated/fixed_clues/8_565_16.in (n=8)
+Solved
+Resolution time 0.017s, 215 Nodes
+
+data/in/generated/fixed_clues/8_545_16.in (n=8)
+Solved
+Resolution time 0.002s, 15 Nodes
+
+data/in/generated/fixed_clues/8_823_16.in (n=8)
+Solved
+Resolution time 0.044s, 556 Nodes
+
+data/in/generated/fixed_clues/8_177_16.in (n=8)
+Solved
+Resolution time 0.144s, 2120 Nodes
+
+data/in/generated/fixed_clues/8_342_16.in (n=8)
+Solved
+Resolution time 0.012s, 76 Nodes
+
+data/in/generated/fixed_clues/8_760_16.in (n=8)
+Solved
+Resolution time 0.002s, 30 Nodes
+
+data/in/generated/fixed_clues/8_321_16.in (n=8)
+Solved
+Resolution time 0.019s, 251 Nodes
+
+data/in/generated/fixed_clues/8_442_16.in (n=8)
+Solved
+Resolution time 0.008s, 112 Nodes
+
+data/in/generated/fixed_clues/8_637_16.in (n=8)
+Solved
+Resolution time 0.006s, 97 Nodes
+
+data/in/generated/fixed_clues/8_295_16.in (n=8)
+Solved
+Resolution time 0.041s, 632 Nodes
+
+data/in/generated/fixed_clues/8_607_16.in (n=8)
+Solved
+Resolution time 0.006s, 124 Nodes
+
+data/in/generated/fixed_clues/8_966_16.in (n=8)
+Solved
+Resolution time 0.022s, 407 Nodes
+
+data/in/generated/fixed_clues/8_821_16.in (n=8)
+Solved
+Resolution time 0.005s, 81 Nodes
+
+data/in/generated/fixed_clues/8_245_16.in (n=8)
+Solved
+Resolution time 0.017s, 314 Nodes
+
+data/in/generated/fixed_clues/8_1014_16.in (n=8)
+Solved
+Resolution time 0.008s, 126 Nodes
+
+data/in/generated/fixed_clues/8_861_16.in (n=8)
+Solved
+Resolution time 0.003s, 41 Nodes
+
+data/in/generated/fixed_clues/8_546_16.in (n=8)
+Solved
+Resolution time 0.099s, 2054 Nodes
+
+data/in/generated/fixed_clues/8_864_16.in (n=8)
+Solved
+Resolution time 0.002s, 24 Nodes
+
+data/in/generated/fixed_clues/8_437_16.in (n=8)
+Solved
+Resolution time 0.003s, 51 Nodes
+
+data/in/generated/fixed_clues/8_596_16.in (n=8)
+Solved
+Resolution time 0.011s, 173 Nodes
+
+data/in/generated/fixed_clues/8_725_16.in (n=8)
+Solved
+Resolution time 0.001s, 17 Nodes
+
+data/in/generated/fixed_clues/8_543_16.in (n=8)
+Solved
+Resolution time 0.027s, 491 Nodes
+
+data/in/generated/fixed_clues/8_401_16.in (n=8)
+Solved
+Resolution time 0.003s, 43 Nodes
+
+data/in/generated/fixed_clues/8_500_16.in (n=8)
+Solved
+Resolution time 0.005s, 90 Nodes
+
+data/in/generated/fixed_clues/8_617_16.in (n=8)
+Solved
+Resolution time 0.073s, 1410 Nodes
+
+data/in/generated/fixed_clues/8_680_16.in (n=8)
+Solved
+Resolution time 0.005s, 77 Nodes
+
+data/in/generated/fixed_clues/8_445_16.in (n=8)
+Solved
+Resolution time 0.007s, 103 Nodes
+
+data/in/generated/fixed_clues/8_302_16.in (n=8)
+Solved
+Resolution time 0.006s, 71 Nodes
+
+data/in/generated/fixed_clues/8_498_16.in (n=8)
+Solved
+Resolution time 0.018s, 293 Nodes
+
+data/in/generated/fixed_clues/8_1064_16.in (n=8)
+Solved
+Resolution time 0.002s, 25 Nodes
+
+data/in/generated/fixed_clues/8_116_16.in (n=8)
+Solved
+Resolution time 0.002s, 28 Nodes
+
+data/in/generated/fixed_clues/8_730_16.in (n=8)
+Solved
+Resolution time 0.002s, 20 Nodes
+
+data/in/generated/fixed_clues/8_836_16.in (n=8)
+Solved
+Resolution time 0.010s, 148 Nodes
+
+data/in/generated/fixed_clues/8_276_16.in (n=8)
+Solved
+Resolution time 0.002s, 19 Nodes
+
+data/in/generated/fixed_clues/8_651_16.in (n=8)
+Solved
+Resolution time 0.008s, 133 Nodes
+
+data/in/generated/fixed_clues/8_1022_16.in (n=8)
+Solved
+Resolution time 0.007s, 104 Nodes
+
+data/in/generated/fixed_clues/8_684_16.in (n=8)
+Solved
+Resolution time 0.007s, 108 Nodes
+
+data/in/generated/fixed_clues/8_154_16.in (n=8)
+Solved
+Resolution time 0.002s, 32 Nodes
+
+data/in/generated/fixed_clues/8_195_16.in (n=8)
+Solved
+Resolution time 0.034s, 521 Nodes
+
+data/in/generated/fixed_clues/8_139_16.in (n=8)
+Solved
+Resolution time 0.002s, 32 Nodes
+
+data/in/generated/fixed_clues/8_644_16.in (n=8)
+Solved
+Resolution time 0.024s, 355 Nodes
+
+data/in/generated/fixed_clues/8_347_16.in (n=8)
+Solved
+Resolution time 0.002s, 39 Nodes
+
+data/in/generated/fixed_clues/8_427_16.in (n=8)
+Solved
+Resolution time 0.005s, 68 Nodes
+
+data/in/generated/fixed_clues/8_1006_16.in (n=8)
+Solved
+Resolution time 0.002s, 21 Nodes
+
+data/in/generated/fixed_clues/8_720_16.in (n=8)
+Solved
+Resolution time 0.076s, 1127 Nodes
+
+data/in/generated/fixed_clues/8_491_16.in (n=8)
+Solved
+Resolution time 0.004s, 34 Nodes
+
+data/in/generated/fixed_clues/8_696_16.in (n=8)
+Solved
+Resolution time 0.004s, 54 Nodes
+
+data/in/generated/fixed_clues/8_535_16.in (n=8)
+Solved
+Resolution time 0.003s, 40 Nodes
+
+data/in/generated/fixed_clues/8_698_16.in (n=8)
+Solved
+Resolution time 0.006s, 96 Nodes
+
+data/in/generated/fixed_clues/8_638_16.in (n=8)
+Solved
+Resolution time 0.002s, 29 Nodes
+
+data/in/generated/fixed_clues/8_722_16.in (n=8)
+Solved
+Resolution time 0.006s, 58 Nodes
+
+data/in/generated/fixed_clues/8_1051_16.in (n=8)
+Solved
+Resolution time 0.016s, 141 Nodes
+
+data/in/generated/fixed_clues/8_1005_16.in (n=8)
+Solved
+Resolution time 0.003s, 50 Nodes
+
+data/in/generated/fixed_clues/8_963_16.in (n=8)
+Solved
+Resolution time 0.002s, 36 Nodes
+
+data/in/generated/fixed_clues/8_163_16.in (n=8)
+Solved
+Resolution time 0.006s, 77 Nodes
+
+data/in/generated/fixed_clues/8_772_16.in (n=8)
+Solved
+Resolution time 0.002s, 33 Nodes
+
+data/in/generated/fixed_clues/8_425_16.in (n=8)
+Solved
+Resolution time 0.010s, 142 Nodes
+
+data/in/generated/fixed_clues/8_592_16.in (n=8)
+Solved
+Resolution time 0.041s, 669 Nodes
+
+data/in/generated/fixed_clues/8_940_16.in (n=8)
+Solved
+Resolution time 0.004s, 59 Nodes
+
+data/in/generated/fixed_clues/8_570_16.in (n=8)
+Solved
+Resolution time 0.006s, 60 Nodes
+
+data/in/generated/fixed_clues/8_307_16.in (n=8)
+Solved
+Resolution time 0.005s, 78 Nodes
+
+data/in/generated/fixed_clues/8_322_16.in (n=8)
+Solved
+Resolution time 0.004s, 60 Nodes
+
+data/in/generated/fixed_clues/8_520_16.in (n=8)
+Solved
+Resolution time 0.020s, 279 Nodes
+
+data/in/generated/fixed_clues/8_913_16.in (n=8)
+Solved
+Resolution time 0.003s, 33 Nodes
+
+data/in/generated/fixed_clues/8_990_16.in (n=8)
+Solved
+Resolution time 0.002s, 23 Nodes
+
+data/in/generated/fixed_clues/8_992_16.in (n=8)
+Solved
+Resolution time 0.034s, 564 Nodes
+
+data/in/generated/fixed_clues/8_293_16.in (n=8)
+Solved
+Resolution time 0.004s, 35 Nodes
+
+data/in/generated/fixed_clues/8_671_16.in (n=8)
+Solved
+Resolution time 0.004s, 76 Nodes
+
+data/in/generated/fixed_clues/8_984_16.in (n=8)
+Solved
+Resolution time 0.006s, 85 Nodes
+
+data/in/generated/fixed_clues/8_774_16.in (n=8)
+Solved
+Resolution time 0.002s, 25 Nodes
+
+data/in/generated/fixed_clues/8_443_16.in (n=8)
+Solved
+Resolution time 0.047s, 719 Nodes
+
+data/in/generated/fixed_clues/8_346_16.in (n=8)
+Solved
+Resolution time 0.016s, 255 Nodes
+
+data/in/generated/fixed_clues/8_1059_16.in (n=8)
+Solved
+Resolution time 0.025s, 362 Nodes
+
+data/in/generated/fixed_clues/8_436_16.in (n=8)
+Solved
+Resolution time 0.017s, 231 Nodes
+
+data/in/generated/fixed_clues/8_831_16.in (n=8)
+Solved
+Resolution time 0.007s, 104 Nodes
+
+data/in/generated/fixed_clues/8_121_16.in (n=8)
+Solved
+Resolution time 0.131s, 1911 Nodes
+
+data/in/generated/fixed_clues/8_1001_16.in (n=8)
+Solved
+Resolution time 0.015s, 202 Nodes
+
+data/in/generated/fixed_clues/8_488_16.in (n=8)
+Solved
+Resolution time 0.004s, 32 Nodes
+
+data/in/generated/fixed_clues/8_166_16.in (n=8)
+Solved
+Resolution time 0.036s, 631 Nodes
+
+data/in/generated/fixed_clues/8_822_16.in (n=8)
+Solved
+Resolution time 0.011s, 186 Nodes
+
+data/in/generated/fixed_clues/8_530_16.in (n=8)
+Solved
+Resolution time 0.002s, 21 Nodes
+
+data/in/generated/fixed_clues/8_310_16.in (n=8)
+Solved
+Resolution time 0.003s, 46 Nodes
+
+data/in/generated/fixed_clues/8_695_16.in (n=8)
+Solved
+Resolution time 0.124s, 1952 Nodes
+
+data/in/generated/fixed_clues/8_434_16.in (n=8)
+Solved
+Resolution time 0.007s, 93 Nodes
+
+data/in/generated/fixed_clues/8_629_16.in (n=8)
+Solved
+Resolution time 0.003s, 37 Nodes
+
+data/in/generated/fixed_clues/8_181_16.in (n=8)
+Solved
+Resolution time 0.004s, 60 Nodes
+
+data/in/generated/fixed_clues/8_708_16.in (n=8)
+Solved
+Resolution time 0.011s, 165 Nodes
+
+data/in/generated/fixed_clues/8_523_16.in (n=8)
+Solved
+Resolution time 0.012s, 178 Nodes
+
+data/in/generated/fixed_clues/8_509_16.in (n=8)
+Solved
+Resolution time 0.013s, 193 Nodes
+
+data/in/generated/fixed_clues/8_780_16.in (n=8)
+Solved
+Resolution time 0.259s, 4714 Nodes
+
+data/in/generated/fixed_clues/8_314_16.in (n=8)
+Solved
+Resolution time 0.075s, 1160 Nodes
+
+data/in/generated/fixed_clues/8_799_16.in (n=8)
+Solved
+Resolution time 0.001s, 24 Nodes
+
+data/in/generated/fixed_clues/8_210_16.in (n=8)
+Solved
+Resolution time 0.142s, 2817 Nodes
+
+data/in/generated/fixed_clues/8_716_16.in (n=8)
+Solved
+Resolution time 0.003s, 33 Nodes
+
+data/in/generated/fixed_clues/8_398_16.in (n=8)
+Solved
+Resolution time 0.010s, 141 Nodes
+
+data/in/generated/fixed_clues/8_1099_16.in (n=8)
+Solved
+Resolution time 0.002s, 38 Nodes
+
+data/in/generated/fixed_clues/8_429_16.in (n=8)
+Solved
+Resolution time 0.048s, 983 Nodes
+

@@ -1,0 +1,1201 @@
+Model: PatModel
+Timelimit: 60
+data/in/generated/8_71.in (n=8)
+Solved
+Resolution time 0.810s, 1860 Nodes
+
+data/in/generated/10_42.in (n=10)
+Solved
+Resolution time 0.738s, 1088 Nodes
+
+data/in/generated/8_55.in (n=8)
+Solved
+Resolution time 0.029s, 124 Nodes
+
+data/in/generated/8_78.in (n=8)
+Solved
+Resolution time 0.273s, 795 Nodes
+
+data/in/generated/9_28.in (n=9)
+Solved
+Resolution time 12.792s, 51262 Nodes
+
+data/in/generated/9_20.in (n=9)
+Solved
+Resolution time 0.227s, 808 Nodes
+
+data/in/generated/10_13.in (n=10)
+Solved
+Resolution time 1.295s, 5263 Nodes
+
+data/in/generated/8_96.in (n=8)
+Solved
+Resolution time 0.018s, 46 Nodes
+
+data/in/generated/9_62.in (n=9)
+Solved
+Resolution time 6.002s, 24337 Nodes
+
+data/in/generated/9_81.in (n=9)
+Solved
+Resolution time 2.613s, 12141 Nodes
+
+data/in/generated/9_83.in (n=9)
+Solved
+Resolution time 0.289s, 1219 Nodes
+
+data/in/generated/10_99.in (n=10)
+Solved
+Resolution time 1.866s, 6395 Nodes
+
+data/in/generated/9_93.in (n=9)
+Solved
+Resolution time 0.234s, 973 Nodes
+
+data/in/generated/10_23.in (n=10)
+Solved
+Resolution time 7.972s, 25914 Nodes
+
+data/in/generated/8_15.in (n=8)
+Solved
+Resolution time 2.600s, 12114 Nodes
+
+data/in/generated/8_27.in (n=8)
+Solved
+Resolution time 0.141s, 858 Nodes
+
+data/in/generated/9_44.in (n=9)
+Solved
+Resolution time 1.614s, 7305 Nodes
+
+data/in/generated/9_15.in (n=9)
+Solved
+Resolution time 16.181s, 64641 Nodes
+
+data/in/generated/9_52.in (n=9)
+Solved
+Resolution time 1.179s, 5744 Nodes
+
+data/in/generated/8_70.in (n=8)
+Solved
+Resolution time 0.105s, 492 Nodes
+
+data/in/generated/10_97.in (n=10)
+Solved
+Resolution time 18.200s, 66761 Nodes
+
+data/in/generated/8_45.in (n=8)
+Solved
+Resolution time 0.058s, 289 Nodes
+
+data/in/generated/9_89.in (n=9)
+Solved
+Resolution time 0.015s, 50 Nodes
+
+data/in/generated/10_35.in (n=10)
+Solved
+Resolution time 1.049s, 3401 Nodes
+
+data/in/generated/10_17.in (n=10)
+Solved
+Resolution time 1.205s, 3928 Nodes
+
+data/in/generated/10_75.in (n=10)
+Solved
+Resolution time 42.457s, 182118 Nodes
+
+data/in/generated/9_25.in (n=9)
+Solved
+Resolution time 0.164s, 1058 Nodes
+
+data/in/generated/10_7.in (n=10)
+Solved
+Resolution time 24.859s, 111265 Nodes
+
+data/in/generated/10_58.in (n=10)
+Solved
+Resolution time 0.091s, 364 Nodes
+
+data/in/generated/10_38.in (n=10)
+Solved
+Resolution time 0.766s, 2873 Nodes
+
+data/in/generated/9_36.in (n=9)
+Solved
+Resolution time 1.270s, 5344 Nodes
+
+data/in/generated/8_7.in (n=8)
+Solved
+Resolution time 0.111s, 615 Nodes
+
+data/in/generated/8_42.in (n=8)
+Solved
+Resolution time 0.020s, 90 Nodes
+
+data/in/generated/10_91.in (n=10)
+Solved
+Resolution time 13.263s, 57948 Nodes
+
+data/in/generated/9_97.in (n=9)
+Solved
+Resolution time 2.782s, 12661 Nodes
+
+data/in/generated/10_3.in (n=10)
+Solved
+Resolution time 16.893s, 60897 Nodes
+
+data/in/generated/9_10.in (n=9)
+Solved
+Resolution time 0.327s, 1650 Nodes
+
+data/in/generated/10_63.in (n=10)
+Solved
+Resolution time 0.334s, 1234 Nodes
+
+data/in/generated/9_88.in (n=9)
+Unsolved
+
+data/in/generated/8_41.in (n=8)
+Solved
+Resolution time 0.251s, 1711 Nodes
+
+data/in/generated/8_61.in (n=8)
+Solved
+Resolution time 0.019s, 135 Nodes
+
+data/in/generated/9_51.in (n=9)
+Solved
+Resolution time 0.581s, 3203 Nodes
+
+data/in/generated/9_17.in (n=9)
+Solved
+Resolution time 6.523s, 27374 Nodes
+
+data/in/generated/9_99.in (n=9)
+Solved
+Resolution time 21.217s, 83736 Nodes
+
+data/in/generated/9_57.in (n=9)
+Solved
+Resolution time 4.243s, 16534 Nodes
+
+data/in/generated/8_5.in (n=8)
+Solved
+Resolution time 0.007s, 33 Nodes
+
+data/in/generated/10_44.in (n=10)
+Solved
+Resolution time 0.173s, 551 Nodes
+
+data/in/generated/8_43.in (n=8)
+Solved
+Resolution time 0.234s, 1241 Nodes
+
+data/in/generated/10_43.in (n=10)
+Solved
+Resolution time 1.800s, 6971 Nodes
+
+data/in/generated/10_52.in (n=10)
+Solved
+Resolution time 59.822s, 279999 Nodes
+
+data/in/generated/8_58.in (n=8)
+Solved
+Resolution time 1.253s, 7959 Nodes
+
+data/in/generated/9_60.in (n=9)
+Solved
+Resolution time 13.472s, 70110 Nodes
+
+data/in/generated/9_66.in (n=9)
+Solved
+Resolution time 3.785s, 19548 Nodes
+
+data/in/generated/9_91.in (n=9)
+Solved
+Resolution time 0.333s, 1199 Nodes
+
+data/in/generated/10_82.in (n=10)
+Solved
+Resolution time 1.570s, 6444 Nodes
+
+data/in/generated/10_72.in (n=10)
+Solved
+Resolution time 3.544s, 25109 Nodes
+
+data/in/generated/9_94.in (n=9)
+Solved
+Resolution time 1.172s, 11157 Nodes
+
+data/in/generated/9_24.in (n=9)
+Solved
+Resolution time 2.191s, 22488 Nodes
+
+data/in/generated/9_47.in (n=9)
+Solved
+Resolution time 0.314s, 3096 Nodes
+
+data/in/generated/10_77.in (n=10)
+Solved
+Resolution time 0.011s, 80 Nodes
+
+data/in/generated/10_89.in (n=10)
+Solved
+Resolution time 2.631s, 22780 Nodes
+
+data/in/generated/10_84.in (n=10)
+Solved
+Resolution time 0.982s, 7564 Nodes
+
+data/in/generated/9_75.in (n=9)
+Solved
+Resolution time 0.039s, 305 Nodes
+
+data/in/generated/9_76.in (n=9)
+Solved
+Resolution time 1.735s, 14284 Nodes
+
+data/in/generated/10_54.in (n=10)
+Solved
+Resolution time 1.511s, 11682 Nodes
+
+data/in/generated/8_47.in (n=8)
+Solved
+Resolution time 0.503s, 5021 Nodes
+
+data/in/generated/8_88.in (n=8)
+Solved
+Resolution time 0.020s, 248 Nodes
+
+data/in/generated/9_5.in (n=9)
+Solved
+Resolution time 0.529s, 3966 Nodes
+
+data/in/generated/8_59.in (n=8)
+Solved
+Resolution time 0.014s, 87 Nodes
+
+data/in/generated/8_75.in (n=8)
+Solved
+Resolution time 0.152s, 1719 Nodes
+
+data/in/generated/8_19.in (n=8)
+Solved
+Resolution time 1.038s, 10560 Nodes
+
+data/in/generated/10_41.in (n=10)
+Solved
+Resolution time 1.850s, 14680 Nodes
+
+data/in/generated/10_93.in (n=10)
+Solved
+Resolution time 4.093s, 37490 Nodes
+
+data/in/generated/10_65.in (n=10)
+Solved
+Resolution time 5.456s, 42893 Nodes
+
+data/in/generated/10_29.in (n=10)
+Solved
+Resolution time 0.889s, 5963 Nodes
+
+data/in/generated/10_19.in (n=10)
+Solved
+Resolution time 0.669s, 5514 Nodes
+
+data/in/generated/8_20.in (n=8)
+Solved
+Resolution time 0.051s, 579 Nodes
+
+data/in/generated/8_77.in (n=8)
+Solved
+Resolution time 1.380s, 16418 Nodes
+
+data/in/generated/9_90.in (n=9)
+Solved
+Resolution time 3.893s, 36504 Nodes
+
+data/in/generated/10_57.in (n=10)
+Solved
+Resolution time 0.174s, 1462 Nodes
+
+data/in/generated/10_9.in (n=10)
+Solved
+Resolution time 0.015s, 102 Nodes
+
+data/in/generated/9_46.in (n=9)
+Solved
+Resolution time 0.743s, 7656 Nodes
+
+data/in/generated/10_85.in (n=10)
+Solved
+Resolution time 5.572s, 47997 Nodes
+
+data/in/generated/8_84.in (n=8)
+Solved
+Resolution time 0.377s, 4859 Nodes
+
+data/in/generated/8_82.in (n=8)
+Solved
+Resolution time 0.065s, 651 Nodes
+
+data/in/generated/9_9.in (n=9)
+Solved
+Resolution time 0.451s, 3541 Nodes
+
+data/in/generated/10_48.in (n=10)
+Solved
+Resolution time 1.321s, 10192 Nodes
+
+data/in/generated/9_82.in (n=9)
+Solved
+Resolution time 0.149s, 1396 Nodes
+
+data/in/generated/8_1.in (n=8)
+Solved
+Resolution time 0.070s, 947 Nodes
+
+data/in/generated/8_28.in (n=8)
+Solved
+Resolution time 0.204s, 2320 Nodes
+
+data/in/generated/8_98.in (n=8)
+Solved
+Resolution time 0.235s, 2776 Nodes
+
+data/in/generated/10_24.in (n=10)
+Solved
+Resolution time 6.601s, 49650 Nodes
+
+data/in/generated/8_94.in (n=8)
+Solved
+Resolution time 9.774s, 126065 Nodes
+
+data/in/generated/10_53.in (n=10)
+Solved
+Resolution time 0.245s, 2416 Nodes
+
+data/in/generated/10_21.in (n=10)
+Solved
+Resolution time 0.018s, 98 Nodes
+
+data/in/generated/10_55.in (n=10)
+Solved
+Resolution time 4.964s, 43765 Nodes
+
+data/in/generated/10_74.in (n=10)
+Solved
+Resolution time 4.599s, 39253 Nodes
+
+data/in/generated/9_49.in (n=9)
+Solved
+Resolution time 0.036s, 298 Nodes
+
+data/in/generated/10_70.in (n=10)
+Solved
+Resolution time 0.924s, 6202 Nodes
+
+data/in/generated/9_58.in (n=9)
+Solved
+Resolution time 1.636s, 14484 Nodes
+
+data/in/generated/8_25.in (n=8)
+Solved
+Resolution time 0.193s, 2046 Nodes
+
+data/in/generated/9_26.in (n=9)
+Solved
+Resolution time 14.817s, 160177 Nodes
+
+data/in/generated/8_65.in (n=8)
+Solved
+Resolution time 0.297s, 4082 Nodes
+
+data/in/generated/9_43.in (n=9)
+Solved
+Resolution time 5.574s, 57383 Nodes
+
+data/in/generated/9_4.in (n=9)
+Solved
+Resolution time 2.410s, 28102 Nodes
+
+data/in/generated/10_67.in (n=10)
+Solved
+Resolution time 2.180s, 19753 Nodes
+
+data/in/generated/8_8.in (n=8)
+Solved
+Resolution time 0.279s, 3945 Nodes
+
+data/in/generated/10_20.in (n=10)
+Solved
+Resolution time 4.034s, 43602 Nodes
+
+data/in/generated/9_13.in (n=9)
+Solved
+Resolution time 0.379s, 4414 Nodes
+
+data/in/generated/8_48.in (n=8)
+Solved
+Resolution time 0.139s, 1939 Nodes
+
+data/in/generated/10_32.in (n=10)
+Solved
+Resolution time 0.371s, 3196 Nodes
+
+data/in/generated/8_30.in (n=8)
+Solved
+Resolution time 1.548s, 21896 Nodes
+
+data/in/generated/10_37.in (n=10)
+Solved
+Resolution time 10.732s, 117604 Nodes
+
+data/in/generated/9_12.in (n=9)
+Solved
+Resolution time 0.220s, 2864 Nodes
+
+data/in/generated/8_22.in (n=8)
+Solved
+Resolution time 0.337s, 4171 Nodes
+
+data/in/generated/8_4.in (n=8)
+Solved
+Resolution time 0.350s, 5036 Nodes
+
+data/in/generated/10_90.in (n=10)
+Solved
+Resolution time 2.602s, 23828 Nodes
+
+data/in/generated/8_51.in (n=8)
+Solved
+Resolution time 0.404s, 5332 Nodes
+
+data/in/generated/10_61.in (n=10)
+Solved
+Resolution time 0.098s, 1036 Nodes
+
+data/in/generated/8_62.in (n=8)
+Solved
+Resolution time 0.123s, 1499 Nodes
+
+data/in/generated/10_0.in (n=10)
+Solved
+Resolution time 1.838s, 18792 Nodes
+
+data/in/generated/8_52.in (n=8)
+Solved
+Resolution time 0.197s, 2915 Nodes
+
+data/in/generated/8_60.in (n=8)
+Solved
+Resolution time 0.058s, 704 Nodes
+
+data/in/generated/8_36.in (n=8)
+Solved
+Resolution time 0.095s, 1384 Nodes
+
+data/in/generated/9_29.in (n=9)
+Solved
+Resolution time 4.917s, 63127 Nodes
+
+data/in/generated/10_47.in (n=10)
+Solved
+Resolution time 19.790s, 211754 Nodes
+
+data/in/generated/9_73.in (n=9)
+Solved
+Resolution time 0.444s, 5605 Nodes
+
+data/in/generated/10_92.in (n=10)
+Solved
+Resolution time 2.028s, 21307 Nodes
+
+data/in/generated/8_76.in (n=8)
+Solved
+Resolution time 0.012s, 148 Nodes
+
+data/in/generated/10_5.in (n=10)
+Solved
+Resolution time 10.843s, 127924 Nodes
+
+data/in/generated/9_78.in (n=9)
+Solved
+Resolution time 0.198s, 2834 Nodes
+
+data/in/generated/9_0.in (n=9)
+Solved
+Resolution time 0.105s, 1150 Nodes
+
+data/in/generated/9_48.in (n=9)
+Solved
+Resolution time 7.634s, 87943 Nodes
+
+data/in/generated/9_45.in (n=9)
+Solved
+Resolution time 0.279s, 3163 Nodes
+
+data/in/generated/9_63.in (n=9)
+Solved
+Resolution time 0.041s, 449 Nodes
+
+data/in/generated/9_74.in (n=9)
+Solved
+Resolution time 1.208s, 14477 Nodes
+
+data/in/generated/8_40.in (n=8)
+Solved
+Resolution time 0.878s, 12345 Nodes
+
+data/in/generated/10_46.in (n=10)
+Solved
+Resolution time 3.454s, 34030 Nodes
+
+data/in/generated/8_93.in (n=8)
+Solved
+Resolution time 0.412s, 5791 Nodes
+
+data/in/generated/9_3.in (n=9)
+Solved
+Resolution time 0.114s, 1206 Nodes
+
+data/in/generated/10_50.in (n=10)
+Solved
+Resolution time 0.880s, 8183 Nodes
+
+data/in/generated/8_23.in (n=8)
+Solved
+Resolution time 0.506s, 7065 Nodes
+
+data/in/generated/8_26.in (n=8)
+Solved
+Resolution time 1.747s, 25332 Nodes
+
+data/in/generated/9_27.in (n=9)
+Solved
+Resolution time 2.895s, 33978 Nodes
+
+data/in/generated/10_98.in (n=10)
+Solved
+Resolution time 11.896s, 118634 Nodes
+
+data/in/generated/8_50.in (n=8)
+Solved
+Resolution time 0.141s, 2085 Nodes
+
+data/in/generated/8_95.in (n=8)
+Solved
+Resolution time 0.018s, 226 Nodes
+
+data/in/generated/9_50.in (n=9)
+Solved
+Resolution time 0.514s, 5658 Nodes
+
+data/in/generated/9_79.in (n=9)
+Solved
+Resolution time 0.545s, 6070 Nodes
+
+data/in/generated/10_34.in (n=10)
+Solved
+Resolution time 1.154s, 13243 Nodes
+
+data/in/generated/8_21.in (n=8)
+Solved
+Resolution time 0.092s, 1218 Nodes
+
+data/in/generated/10_40.in (n=10)
+Solved
+Resolution time 2.547s, 23540 Nodes
+
+data/in/generated/8_64.in (n=8)
+Solved
+Resolution time 0.786s, 11397 Nodes
+
+data/in/generated/10_81.in (n=10)
+Solved
+Resolution time 5.198s, 55361 Nodes
+
+data/in/generated/9_14.in (n=9)
+Solved
+Resolution time 0.731s, 8559 Nodes
+
+data/in/generated/9_86.in (n=9)
+Solved
+Resolution time 22.817s, 289155 Nodes
+
+data/in/generated/10_2.in (n=10)
+Solved
+Resolution time 3.399s, 39402 Nodes
+
+data/in/generated/10_88.in (n=10)
+Solved
+Resolution time 9.714s, 100741 Nodes
+
+data/in/generated/10_68.in (n=10)
+Solved
+Resolution time 0.056s, 667 Nodes
+
+data/in/generated/10_71.in (n=10)
+Solved
+Resolution time 2.300s, 24735 Nodes
+
+data/in/generated/10_39.in (n=10)
+Solved
+Resolution time 16.224s, 176290 Nodes
+
+data/in/generated/10_12.in (n=10)
+Solved
+Resolution time 0.875s, 9107 Nodes
+
+data/in/generated/10_96.in (n=10)
+Solved
+Resolution time 0.069s, 494 Nodes
+
+data/in/generated/8_53.in (n=8)
+Solved
+Resolution time 0.477s, 6166 Nodes
+
+data/in/generated/10_30.in (n=10)
+Solved
+Resolution time 1.027s, 11986 Nodes
+
+data/in/generated/10_64.in (n=10)
+Solved
+Resolution time 0.016s, 176 Nodes
+
+data/in/generated/10_8.in (n=10)
+Solved
+Resolution time 1.171s, 11198 Nodes
+
+data/in/generated/9_98.in (n=9)
+Solved
+Resolution time 0.630s, 6737 Nodes
+
+data/in/generated/9_80.in (n=9)
+Solved
+Resolution time 0.027s, 327 Nodes
+
+data/in/generated/10_69.in (n=10)
+Solved
+Resolution time 1.473s, 17291 Nodes
+
+data/in/generated/8_90.in (n=8)
+Solved
+Resolution time 0.571s, 8513 Nodes
+
+data/in/generated/10_4.in (n=10)
+Solved
+Resolution time 5.473s, 56990 Nodes
+
+data/in/generated/10_78.in (n=10)
+Solved
+Resolution time 0.516s, 4326 Nodes
+
+data/in/generated/8_74.in (n=8)
+Solved
+Resolution time 0.481s, 6544 Nodes
+
+data/in/generated/9_71.in (n=9)
+Solved
+Resolution time 0.260s, 3119 Nodes
+
+data/in/generated/9_31.in (n=9)
+Solved
+Resolution time 0.092s, 1139 Nodes
+
+data/in/generated/8_97.in (n=8)
+Solved
+Resolution time 0.085s, 1151 Nodes
+
+data/in/generated/8_69.in (n=8)
+Solved
+Resolution time 0.010s, 58 Nodes
+
+data/in/generated/10_83.in (n=10)
+Solved
+Resolution time 1.769s, 18677 Nodes
+
+data/in/generated/10_60.in (n=10)
+Solved
+Resolution time 2.780s, 24968 Nodes
+
+data/in/generated/9_41.in (n=9)
+Solved
+Resolution time 0.347s, 3167 Nodes
+
+data/in/generated/9_34.in (n=9)
+Solved
+Resolution time 21.604s, 276202 Nodes
+
+data/in/generated/9_77.in (n=9)
+Solved
+Resolution time 7.780s, 98389 Nodes
+
+data/in/generated/9_30.in (n=9)
+Solved
+Resolution time 18.869s, 218968 Nodes
+
+data/in/generated/10_26.in (n=10)
+Solved
+Resolution time 4.827s, 56322 Nodes
+
+data/in/generated/9_11.in (n=9)
+Solved
+Resolution time 0.656s, 6471 Nodes
+
+data/in/generated/8_81.in (n=8)
+Solved
+Resolution time 0.116s, 1463 Nodes
+
+data/in/generated/8_34.in (n=8)
+Solved
+Resolution time 0.086s, 1105 Nodes
+
+data/in/generated/9_72.in (n=9)
+Solved
+Resolution time 0.272s, 2318 Nodes
+
+data/in/generated/8_33.in (n=8)
+Solved
+Resolution time 0.160s, 1952 Nodes
+
+data/in/generated/10_6.in (n=10)
+Solved
+Resolution time 2.549s, 26024 Nodes
+
+data/in/generated/9_53.in (n=9)
+Solved
+Resolution time 0.143s, 1635 Nodes
+
+data/in/generated/9_19.in (n=9)
+Solved
+Resolution time 8.227s, 109862 Nodes
+
+data/in/generated/9_95.in (n=9)
+Solved
+Resolution time 1.228s, 19545 Nodes
+
+data/in/generated/8_63.in (n=8)
+Solved
+Resolution time 2.404s, 50601 Nodes
+
+data/in/generated/8_73.in (n=8)
+Solved
+Resolution time 0.216s, 4197 Nodes
+
+data/in/generated/8_85.in (n=8)
+Solved
+Resolution time 0.027s, 462 Nodes
+
+data/in/generated/10_1.in (n=10)
+Solved
+Resolution time 0.077s, 1232 Nodes
+
+data/in/generated/10_49.in (n=10)
+Solved
+Resolution time 1.205s, 15120 Nodes
+
+data/in/generated/8_39.in (n=8)
+Solved
+Resolution time 0.253s, 4438 Nodes
+
+data/in/generated/10_62.in (n=10)
+Solved
+Resolution time 10.912s, 176805 Nodes
+
+data/in/generated/9_2.in (n=9)
+Solved
+Resolution time 0.558s, 9752 Nodes
+
+data/in/generated/8_83.in (n=8)
+Solved
+Resolution time 0.013s, 302 Nodes
+
+data/in/generated/9_21.in (n=9)
+Solved
+Resolution time 0.062s, 1163 Nodes
+
+data/in/generated/10_28.in (n=10)
+Solved
+Resolution time 2.259s, 29265 Nodes
+
+data/in/generated/8_18.in (n=8)
+Solved
+Resolution time 0.031s, 601 Nodes
+
+data/in/generated/10_59.in (n=10)
+Solved
+Resolution time 0.700s, 9659 Nodes
+
+data/in/generated/10_10.in (n=10)
+Solved
+Resolution time 1.414s, 18398 Nodes
+
+data/in/generated/8_37.in (n=8)
+Solved
+Resolution time 0.161s, 2892 Nodes
+
+data/in/generated/9_59.in (n=9)
+Solved
+Resolution time 0.951s, 16057 Nodes
+
+data/in/generated/8_9.in (n=8)
+Solved
+Resolution time 0.003s, 36 Nodes
+
+data/in/generated/8_44.in (n=8)
+Solved
+Resolution time 0.071s, 1446 Nodes
+
+data/in/generated/9_65.in (n=9)
+Solved
+Resolution time 0.147s, 1981 Nodes
+
+data/in/generated/8_80.in (n=8)
+Solved
+Resolution time 0.023s, 390 Nodes
+
+data/in/generated/10_80.in (n=10)
+Solved
+Resolution time 0.332s, 4812 Nodes
+
+data/in/generated/10_14.in (n=10)
+Solved
+Resolution time 0.058s, 881 Nodes
+
+data/in/generated/8_89.in (n=8)
+Solved
+Resolution time 0.444s, 7757 Nodes
+
+data/in/generated/9_40.in (n=9)
+Solved
+Resolution time 0.354s, 5184 Nodes
+
+data/in/generated/10_18.in (n=10)
+Solved
+Resolution time 1.375s, 22287 Nodes
+
+data/in/generated/9_68.in (n=9)
+Solved
+Resolution time 6.937s, 86216 Nodes
+
+data/in/generated/8_6.in (n=8)
+Solved
+Resolution time 0.033s, 476 Nodes
+
+data/in/generated/8_38.in (n=8)
+Solved
+Resolution time 0.028s, 587 Nodes
+
+data/in/generated/9_39.in (n=9)
+Solved
+Resolution time 6.165s, 99542 Nodes
+
+data/in/generated/10_95.in (n=10)
+Solved
+Resolution time 3.348s, 48538 Nodes
+
+data/in/generated/10_86.in (n=10)
+Solved
+Resolution time 1.684s, 25188 Nodes
+
+data/in/generated/8_56.in (n=8)
+Solved
+Resolution time 0.032s, 661 Nodes
+
+data/in/generated/10_15.in (n=10)
+Solved
+Resolution time 10.971s, 149606 Nodes
+
+data/in/generated/8_92.in (n=8)
+Solved
+Resolution time 0.040s, 648 Nodes
+
+data/in/generated/9_37.in (n=9)
+Solved
+Resolution time 0.041s, 729 Nodes
+
+data/in/generated/10_22.in (n=10)
+Solved
+Resolution time 4.271s, 66336 Nodes
+
+data/in/generated/9_87.in (n=9)
+Solved
+Resolution time 4.762s, 86852 Nodes
+
+data/in/generated/8_10.in (n=8)
+Solved
+Resolution time 0.127s, 2829 Nodes
+
+data/in/generated/8_11.in (n=8)
+Solved
+Resolution time 1.122s, 22630 Nodes
+
+data/in/generated/10_11.in (n=10)
+Solved
+Resolution time 0.382s, 5251 Nodes
+
+data/in/generated/9_56.in (n=9)
+Solved
+Resolution time 5.329s, 85427 Nodes
+
+data/in/generated/8_31.in (n=8)
+Solved
+Resolution time 0.135s, 2734 Nodes
+
+data/in/generated/10_16.in (n=10)
+Solved
+Resolution time 2.253s, 37302 Nodes
+
+data/in/generated/8_91.in (n=8)
+Solved
+Resolution time 0.045s, 904 Nodes
+
+data/in/generated/10_33.in (n=10)
+Solved
+Resolution time 0.968s, 12198 Nodes
+
+data/in/generated/9_84.in (n=9)
+Solved
+Resolution time 0.296s, 4447 Nodes
+
+data/in/generated/9_1.in (n=9)
+Solved
+Resolution time 3.573s, 59382 Nodes
+
+data/in/generated/8_46.in (n=8)
+Solved
+Resolution time 0.138s, 3227 Nodes
+
+data/in/generated/9_55.in (n=9)
+Solved
+Resolution time 1.566s, 26548 Nodes
+
+data/in/generated/9_18.in (n=9)
+Solved
+Resolution time 0.105s, 1814 Nodes
+
+data/in/generated/9_23.in (n=9)
+Solved
+Resolution time 0.139s, 2772 Nodes
+
+data/in/generated/10_31.in (n=10)
+Solved
+Resolution time 1.604s, 25242 Nodes
+
+data/in/generated/8_72.in (n=8)
+Solved
+Resolution time 0.002s, 34 Nodes
+
+data/in/generated/9_70.in (n=9)
+Solved
+Resolution time 0.945s, 14804 Nodes
+
+data/in/generated/8_79.in (n=8)
+Solved
+Resolution time 1.941s, 43661 Nodes
+
+data/in/generated/10_45.in (n=10)
+Solved
+Resolution time 27.574s, 433610 Nodes
+
+data/in/generated/9_64.in (n=9)
+Solved
+Resolution time 2.533s, 49753 Nodes
+
+data/in/generated/10_94.in (n=10)
+Solved
+Resolution time 0.070s, 893 Nodes
+
+data/in/generated/8_49.in (n=8)
+Solved
+Resolution time 0.068s, 1375 Nodes
+
+data/in/generated/9_85.in (n=9)
+Solved
+Resolution time 0.122s, 1952 Nodes
+
+data/in/generated/10_51.in (n=10)
+Solved
+Resolution time 18.008s, 262728 Nodes
+
+data/in/generated/9_69.in (n=9)
+Solved
+Resolution time 2.576s, 39760 Nodes
+
+data/in/generated/10_76.in (n=10)
+Solved
+Resolution time 0.259s, 3464 Nodes
+
+data/in/generated/8_24.in (n=8)
+Solved
+Resolution time 0.002s, 32 Nodes
+
+data/in/generated/9_33.in (n=9)
+Solved
+Resolution time 0.427s, 7745 Nodes
+
+data/in/generated/10_56.in (n=10)
+Solved
+Resolution time 9.014s, 141721 Nodes
+
+data/in/generated/8_12.in (n=8)
+Solved
+Resolution time 0.270s, 5182 Nodes
+
+data/in/generated/8_86.in (n=8)
+Solved
+Resolution time 0.108s, 2457 Nodes
+
+data/in/generated/9_42.in (n=9)
+Solved
+Resolution time 1.285s, 21602 Nodes
+
+data/in/generated/9_54.in (n=9)
+Solved
+Resolution time 0.047s, 779 Nodes
+
+data/in/generated/8_3.in (n=8)
+Solved
+Resolution time 0.013s, 273 Nodes
+
+data/in/generated/10_25.in (n=10)
+Solved
+Resolution time 0.277s, 4360 Nodes
+
+data/in/generated/8_16.in (n=8)
+Solved
+Resolution time 0.041s, 924 Nodes
+
+data/in/generated/8_13.in (n=8)
+Solved
+Resolution time 0.021s, 357 Nodes
+
+data/in/generated/9_8.in (n=9)
+Solved
+Resolution time 1.517s, 28215 Nodes
+
+data/in/generated/8_67.in (n=8)
+Solved
+Resolution time 0.798s, 17151 Nodes
+
+data/in/generated/9_7.in (n=9)
+Solved
+Resolution time 0.128s, 2514 Nodes
+
+data/in/generated/10_79.in (n=10)
+Solved
+Resolution time 13.659s, 212512 Nodes
+
+data/in/generated/9_32.in (n=9)
+Solved
+Resolution time 0.027s, 506 Nodes
+
+data/in/generated/9_61.in (n=9)
+Solved
+Resolution time 0.245s, 4013 Nodes
+
+data/in/generated/9_6.in (n=9)
+Solved
+Resolution time 0.453s, 6134 Nodes
+
+data/in/generated/9_35.in (n=9)
+Solved
+Resolution time 0.255s, 4075 Nodes
+
+data/in/generated/9_96.in (n=9)
+Solved
+Resolution time 0.129s, 2478 Nodes
+
+data/in/generated/9_38.in (n=9)
+Solved
+Resolution time 0.678s, 12192 Nodes
+
+data/in/generated/8_54.in (n=8)
+Solved
+Resolution time 0.103s, 2126 Nodes
+
+data/in/generated/8_99.in (n=8)
+Solved
+Resolution time 0.067s, 1496 Nodes
+
+data/in/generated/10_27.in (n=10)
+Solved
+Resolution time 0.064s, 822 Nodes
+
+data/in/generated/8_17.in (n=8)
+Solved
+Resolution time 0.125s, 2345 Nodes
+
+data/in/generated/10_66.in (n=10)
+Solved
+Resolution time 0.691s, 9771 Nodes
+
+data/in/generated/8_66.in (n=8)
+Solved
+Resolution time 0.307s, 6083 Nodes
+
+data/in/generated/8_87.in (n=8)
+Solved
+Resolution time 0.010s, 187 Nodes
+
+data/in/generated/8_57.in (n=8)
+Solved
+Resolution time 0.022s, 417 Nodes
+
+data/in/generated/8_0.in (n=8)
+Solved
+Resolution time 0.045s, 876 Nodes
+
+data/in/generated/8_32.in (n=8)
+Solved
+Resolution time 0.058s, 1262 Nodes
+
+data/in/generated/8_35.in (n=8)
+Solved
+Resolution time 0.009s, 172 Nodes
+
+data/in/generated/9_22.in (n=9)
+Solved
+Resolution time 0.511s, 8929 Nodes
+
+data/in/generated/9_16.in (n=9)
+Solved
+Resolution time 12.675s, 253257 Nodes
+
+data/in/generated/10_73.in (n=10)
+Solved
+Resolution time 2.747s, 39259 Nodes
+
+data/in/generated/8_68.in (n=8)
+Solved
+Resolution time 0.037s, 614 Nodes
+
+data/in/generated/8_14.in (n=8)
+Solved
+Resolution time 0.674s, 13821 Nodes
+
+data/in/generated/10_87.in (n=10)
+Solved
+Resolution time 4.329s, 64650 Nodes
+
+data/in/generated/10_36.in (n=10)
+Solved
+Resolution time 0.882s, 13087 Nodes
+
+data/in/generated/9_92.in (n=9)
+Solved
+Resolution time 1.916s, 36183 Nodes
+
+data/in/generated/8_2.in (n=8)
+Solved
+Resolution time 0.031s, 584 Nodes
+
+data/in/generated/9_67.in (n=9)
+Solved
+Resolution time 0.043s, 866 Nodes
+
+data/in/generated/8_29.in (n=8)
+Solved
+Resolution time 0.227s, 4590 Nodes
+

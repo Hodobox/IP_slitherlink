@@ -1,0 +1,1243 @@
+Model: SATModel
+Timelimit: 60
+data/in/manual/VIRT_OPT213.in (n=11)
+Solved
+Resolution time 15.818s, 48803 Nodes
+
+data/in/manual/VIRT_OPT071.in (n=11)
+Solved
+Resolution time 0.130s, 171 Nodes
+
+data/in/manual/VIRT_OPT133.in (n=11)
+Solved
+Resolution time 6.058s, 10320 Nodes
+
+data/in/manual/VIRT_OPT263.in (n=11)
+Solved
+Resolution time 19.381s, 38885 Nodes
+
+data/in/manual/VIRT_OPT234.in (n=11)
+Solved
+Resolution time 2.132s, 5676 Nodes
+
+data/in/manual/VIRT_OPT110.in (n=11)
+Solved
+Resolution time 0.120s, 251 Nodes
+
+data/in/manual/VIRT_OPT163.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT198.in (n=11)
+Solved
+Resolution time 0.076s, 278 Nodes
+
+data/in/manual/VIRT_OPT144.in (n=11)
+Solved
+Resolution time 21.913s, 43895 Nodes
+
+data/in/manual/VIRT_OPT107.in (n=11)
+Solved
+Resolution time 0.035s, 65 Nodes
+
+data/in/manual/VIRT_OPT115.in (n=11)
+Solved
+Resolution time 2.719s, 8548 Nodes
+
+data/in/manual/small.in (n=3)
+Solved
+Resolution time 0.001s, 6 Nodes
+
+data/in/manual/VIRT_OPT246.in (n=11)
+Solved
+Resolution time 4.008s, 9603 Nodes
+
+data/in/manual/VIRT_OPT098.in (n=11)
+Solved
+Resolution time 0.897s, 2345 Nodes
+
+data/in/manual/VIRT_OPT131.in (n=11)
+Solved
+Resolution time 3.610s, 11833 Nodes
+
+data/in/manual/VIRT_OPT038.in (n=8)
+Solved
+Resolution time 0.503s, 3176 Nodes
+
+data/in/manual/VIRT_OPT210.in (n=11)
+Solved
+Resolution time 14.313s, 57899 Nodes
+
+data/in/manual/VIRT_OPT193.in (n=11)
+Solved
+Resolution time 0.432s, 1175 Nodes
+
+data/in/manual/VIRT_OPT267.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT247.in (n=11)
+Solved
+Resolution time 7.687s, 13832 Nodes
+
+data/in/manual/VIRT_OPT088.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT290.in (n=18)
+Unsolved
+
+data/in/manual/VIRT_OPT243.in (n=11)
+Solved
+Resolution time 1.842s, 4941 Nodes
+
+data/in/manual/VIRT_OPT211.in (n=11)
+Solved
+Resolution time 9.034s, 32240 Nodes
+
+data/in/manual/virt_opt005.in (n=9)
+Solved
+Resolution time 0.025s, 67 Nodes
+
+data/in/manual/VIRT_OPT155.in (n=11)
+Solved
+Resolution time 0.950s, 2977 Nodes
+
+data/in/manual/VIRT_OPT238.in (n=11)
+Solved
+Resolution time 0.297s, 717 Nodes
+
+data/in/manual/VIRT_OPT119.in (n=11)
+Solved
+Resolution time 0.286s, 672 Nodes
+
+data/in/manual/VIRT_OPT029.in (n=7)
+Solved
+Resolution time 0.006s, 30 Nodes
+
+data/in/manual/VIRT_OPT222.in (n=11)
+Solved
+Resolution time 0.830s, 1545 Nodes
+
+data/in/manual/VIRT_OPT030.in (n=8)
+Solved
+Resolution time 0.019s, 87 Nodes
+
+data/in/manual/VIRT_OPT091.in (n=11)
+Solved
+Resolution time 0.425s, 1083 Nodes
+
+data/in/manual/virt_opt010.in (n=11)
+Unsolved
+
+data/in/manual/online.in (n=6)
+Solved
+Resolution time 0.007s, 18 Nodes
+
+data/in/manual/VIRT_OPT260.in (n=11)
+Solved
+Resolution time 21.913s, 52821 Nodes
+
+data/in/manual/VIRT_OPT259.in (n=11)
+Solved
+Resolution time 0.055s, 146 Nodes
+
+data/in/manual/VIRT_OPT221.in (n=11)
+Solved
+Resolution time 1.033s, 1370 Nodes
+
+data/in/manual/VIRT_OPT132.in (n=11)
+Solved
+Resolution time 18.847s, 72128 Nodes
+
+data/in/manual/VIRT_OPT250.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT067.in (n=11)
+Solved
+Resolution time 8.328s, 17293 Nodes
+
+data/in/manual/VIRT_OPT295.in (n=18)
+Unsolved
+
+data/in/manual/VIRT_OPT301.in (n=11)
+Solved
+Resolution time 20.431s, 32208 Nodes
+
+data/in/manual/incorrectSolution.in (n=6)
+Solved
+Resolution time 0.006s, 18 Nodes
+
+data/in/manual/VIRT_OPT057.in (n=10)
+Solved
+Resolution time 1.399s, 11499 Nodes
+
+data/in/manual/VIRT_OPT203.in (n=11)
+Solved
+Resolution time 23.891s, 91158 Nodes
+
+data/in/manual/VIRT_OPT167.in (n=11)
+Solved
+Resolution time 0.867s, 1562 Nodes
+
+data/in/manual/VIRT_OPT148.in (n=11)
+Unsolved
+
+data/in/manual/virt_opt000.in (n=6)
+Solved
+Resolution time 0.005s, 15 Nodes
+
+data/in/manual/VIRT_OPT116.in (n=11)
+Solved
+Resolution time 1.400s, 3189 Nodes
+
+data/in/manual/VIRT_OPT204.in (n=11)
+Solved
+Resolution time 1.907s, 4661 Nodes
+
+data/in/manual/VIRT_OPT025.in (n=7)
+Solved
+Resolution time 0.104s, 551 Nodes
+
+data/in/manual/VIRT_OPT041.in (n=9)
+Solved
+Resolution time 0.487s, 1273 Nodes
+
+data/in/manual/VIRT_OPT093.in (n=11)
+Solved
+Resolution time 0.110s, 178 Nodes
+
+data/in/manual/VIRT_OPT289.in (n=11)
+Solved
+Resolution time 18.561s, 44700 Nodes
+
+data/in/manual/VIRT_OPT184.in (n=11)
+Solved
+Resolution time 0.070s, 138 Nodes
+
+data/in/manual/VIRT_OPT145.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT112.in (n=11)
+Solved
+Resolution time 5.946s, 18679 Nodes
+
+data/in/manual/VIRT_OPT298.in (n=11)
+Solved
+Resolution time 0.977s, 3037 Nodes
+
+data/in/manual/VIRT_OPT023.in (n=7)
+Solved
+Resolution time 0.128s, 715 Nodes
+
+data/in/manual/VIRT_OPT051.in (n=10)
+Solved
+Resolution time 0.754s, 2146 Nodes
+
+data/in/manual/VIRT_OPT113.in (n=11)
+Solved
+Resolution time 0.252s, 463 Nodes
+
+data/in/manual/VIRT_OPT083.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT255.in (n=11)
+Solved
+Resolution time 0.055s, 110 Nodes
+
+data/in/manual/VIRT_OPT074.in (n=11)
+Solved
+Resolution time 0.097s, 248 Nodes
+
+data/in/manual/virt_opt006.in (n=9)
+Solved
+Resolution time 1.455s, 2537 Nodes
+
+data/in/manual/VIRT_OPT082.in (n=11)
+Solved
+Resolution time 0.670s, 2339 Nodes
+
+data/in/manual/VIRT_OPT228.in (n=11)
+Solved
+Resolution time 0.055s, 179 Nodes
+
+data/in/manual/VIRT_OPT160.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT153.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT090.in (n=11)
+Solved
+Resolution time 36.483s, 129695 Nodes
+
+data/in/manual/VIRT_OPT147.in (n=11)
+Solved
+Resolution time 0.368s, 901 Nodes
+
+data/in/manual/VIRT_OPT182.in (n=11)
+Solved
+Resolution time 0.070s, 147 Nodes
+
+data/in/manual/virt_opt011.in (n=16)
+Unsolved
+
+data/in/manual/VIRT_OPT271.in (n=11)
+Solved
+Resolution time 0.723s, 2013 Nodes
+
+data/in/manual/VIRT_OPT233.in (n=11)
+Solved
+Resolution time 0.858s, 2518 Nodes
+
+data/in/manual/VIRT_OPT039.in (n=8)
+Solved
+Resolution time 0.535s, 5739 Nodes
+
+data/in/manual/VIRT_OPT293.in (n=11)
+Solved
+Resolution time 1.859s, 4920 Nodes
+
+data/in/manual/VIRT_OPT111.in (n=11)
+Solved
+Resolution time 0.062s, 160 Nodes
+
+data/in/manual/VIRT_OPT012.in (n=6)
+Solved
+Resolution time 0.009s, 68 Nodes
+
+data/in/manual/VIRT_OPT056.in (n=10)
+Solved
+Resolution time 0.814s, 4110 Nodes
+
+data/in/manual/VIRT_OPT125.in (n=11)
+Solved
+Resolution time 0.630s, 2075 Nodes
+
+data/in/manual/VIRT_OPT235.in (n=11)
+Solved
+Resolution time 0.656s, 2245 Nodes
+
+data/in/manual/VIRT_OPT292.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT004.in (n=5)
+Solved
+Resolution time 0.004s, 11 Nodes
+
+data/in/manual/VIRT_OPT166.in (n=11)
+Solved
+Resolution time 4.831s, 9310 Nodes
+
+data/in/manual/VIRT_OPT101.in (n=11)
+Solved
+Resolution time 2.068s, 5714 Nodes
+
+data/in/manual/VIRT_OPT284.in (n=11)
+Solved
+Resolution time 1.799s, 2044 Nodes
+
+data/in/manual/VIRT_OPT239.in (n=11)
+Solved
+Resolution time 0.210s, 616 Nodes
+
+data/in/manual/VIRT_OPT008.in (n=5)
+Solved
+Resolution time 0.022s, 49 Nodes
+
+data/in/manual/VIRT_OPT054.in (n=10)
+Solved
+Resolution time 0.939s, 4437 Nodes
+
+data/in/manual/VIRT_OPT052.in (n=10)
+Solved
+Resolution time 0.238s, 1684 Nodes
+
+data/in/manual/VIRT_OPT253.in (n=11)
+Solved
+Resolution time 0.797s, 1666 Nodes
+
+data/in/manual/VIRT_OPT037.in (n=8)
+Solved
+Resolution time 0.115s, 729 Nodes
+
+data/in/manual/VIRT_OPT035.in (n=8)
+Solved
+Resolution time 0.033s, 127 Nodes
+
+data/in/manual/VIRT_OPT236.in (n=11)
+Solved
+Resolution time 1.881s, 5004 Nodes
+
+data/in/manual/VIRT_OPT158.in (n=11)
+Solved
+Resolution time 11.350s, 25784 Nodes
+
+data/in/manual/VIRT_OPT188.in (n=11)
+Solved
+Resolution time 0.218s, 387 Nodes
+
+data/in/manual/VIRT_OPT003.in (n=5)
+Solved
+Resolution time 0.002s, 13 Nodes
+
+data/in/manual/VIRT_OPT268.in (n=11)
+Solved
+Resolution time 33.420s, 93995 Nodes
+
+data/in/manual/VIRT_OPT183.in (n=11)
+Solved
+Resolution time 0.422s, 1059 Nodes
+
+data/in/manual/VIRT_OPT094.in (n=11)
+Solved
+Resolution time 0.127s, 405 Nodes
+
+data/in/manual/VIRT_OPT219.in (n=11)
+Solved
+Resolution time 10.037s, 45416 Nodes
+
+data/in/manual/VIRT_OPT186.in (n=11)
+Solved
+Resolution time 0.171s, 317 Nodes
+
+data/in/manual/VIRT_OPT237.in (n=11)
+Solved
+Resolution time 0.043s, 120 Nodes
+
+data/in/manual/VIRT_OPT205.in (n=11)
+Solved
+Resolution time 2.936s, 9191 Nodes
+
+data/in/manual/VIRT_OPT084.in (n=11)
+Solved
+Resolution time 18.649s, 38240 Nodes
+
+data/in/manual/VIRT_OPT168.in (n=11)
+Solved
+Resolution time 0.077s, 165 Nodes
+
+data/in/manual/VIRT_OPT063.in (n=11)
+Solved
+Resolution time 0.089s, 226 Nodes
+
+data/in/manual/VIRT_OPT294.in (n=18)
+Unsolved
+
+data/in/manual/VIRT_OPT120.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT043.in (n=9)
+Solved
+Resolution time 0.038s, 253 Nodes
+
+data/in/manual/VIRT_OPT028.in (n=7)
+Solved
+Resolution time 0.032s, 77 Nodes
+
+data/in/manual/VIRT_OPT105.in (n=11)
+Solved
+Resolution time 4.185s, 18848 Nodes
+
+data/in/manual/VIRT_OPT187.in (n=11)
+Solved
+Resolution time 1.524s, 4134 Nodes
+
+data/in/manual/VIRT_OPT232.in (n=11)
+Solved
+Resolution time 0.061s, 192 Nodes
+
+data/in/manual/VIRT_OPT174.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT212.in (n=11)
+Solved
+Resolution time 0.383s, 2044 Nodes
+
+data/in/manual/VIRT_OPT136.in (n=11)
+Solved
+Resolution time 3.614s, 8840 Nodes
+
+data/in/manual/VIRT_OPT123.in (n=11)
+Solved
+Resolution time 0.928s, 2394 Nodes
+
+data/in/manual/VIRT_OPT274.in (n=11)
+Solved
+Resolution time 10.314s, 21884 Nodes
+
+data/in/manual/VIRT_OPT261.in (n=11)
+Solved
+Resolution time 1.656s, 4545 Nodes
+
+data/in/manual/VIRT_OPT141.in (n=11)
+Solved
+Resolution time 24.262s, 51430 Nodes
+
+data/in/manual/virt_opt002.in (n=6)
+Solved
+Resolution time 0.003s, 15 Nodes
+
+data/in/manual/VIRT_OPT152.in (n=11)
+Solved
+Resolution time 0.041s, 93 Nodes
+
+data/in/manual/VIRT_OPT241.in (n=11)
+Solved
+Resolution time 11.473s, 26967 Nodes
+
+data/in/manual/VIRT_OPT280.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT208.in (n=11)
+Solved
+Resolution time 1.909s, 5439 Nodes
+
+data/in/manual/VIRT_OPT130.in (n=11)
+Solved
+Resolution time 0.986s, 2382 Nodes
+
+data/in/manual/VIRT_OPT016.in (n=6)
+Solved
+Resolution time 0.142s, 540 Nodes
+
+data/in/manual/VIRT_OPT058.in (n=10)
+Unsolved
+
+data/in/manual/VIRT_OPT097.in (n=11)
+Solved
+Resolution time 1.807s, 4532 Nodes
+
+data/in/manual/VIRT_OPT291.in (n=18)
+Unsolved
+
+data/in/manual/VIRT_OPT287.in (n=18)
+Unsolved
+
+data/in/manual/VIRT_OPT151.in (n=11)
+Solved
+Resolution time 0.336s, 578 Nodes
+
+data/in/manual/VIRT_OPT045.in (n=9)
+Unsolved
+
+data/in/manual/VIRT_OPT059.in (n=10)
+Solved
+Resolution time 8.759s, 32885 Nodes
+
+data/in/manual/VIRT_OPT299.in (n=11)
+Solved
+Resolution time 10.378s, 27290 Nodes
+
+data/in/manual/VIRT_OPT279.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT129.in (n=11)
+Solved
+Resolution time 5.247s, 18579 Nodes
+
+data/in/manual/VIRT_OPT258.in (n=11)
+Solved
+Resolution time 0.075s, 147 Nodes
+
+data/in/manual/VIRT_OPT171.in (n=11)
+Solved
+Resolution time 35.344s, 82599 Nodes
+
+data/in/manual/VIRT_OPT206.in (n=11)
+Solved
+Resolution time 0.514s, 984 Nodes
+
+data/in/manual/VIRT_OPT076.in (n=11)
+Solved
+Resolution time 0.612s, 1040 Nodes
+
+data/in/manual/VIRT_OPT109.in (n=11)
+Solved
+Resolution time 0.678s, 1699 Nodes
+
+data/in/manual/VIRT_OPT169.in (n=11)
+Solved
+Resolution time 17.622s, 41241 Nodes
+
+data/in/manual/VIRT_OPT254.in (n=11)
+Solved
+Resolution time 0.569s, 1240 Nodes
+
+data/in/manual/VIRT_OPT042.in (n=9)
+Solved
+Resolution time 10.988s, 40213 Nodes
+
+data/in/manual/VIRT_OPT070.in (n=11)
+Solved
+Resolution time 0.073s, 179 Nodes
+
+data/in/manual/VIRT_OPT297.in (n=11)
+Solved
+Resolution time 34.071s, 135715 Nodes
+
+data/in/manual/VIRT_OPT077.in (n=11)
+Solved
+Resolution time 0.624s, 1403 Nodes
+
+data/in/manual/VIRT_OPT180.in (n=11)
+Solved
+Resolution time 2.497s, 7602 Nodes
+
+data/in/manual/VIRT_OPT217.in (n=11)
+Solved
+Resolution time 0.088s, 319 Nodes
+
+data/in/manual/VIRT_OPT277.in (n=11)
+Solved
+Resolution time 1.418s, 3753 Nodes
+
+data/in/manual/VIRT_OPT285.in (n=11)
+Solved
+Resolution time 10.626s, 31501 Nodes
+
+data/in/manual/VIRT_OPT240.in (n=11)
+Solved
+Resolution time 0.754s, 2059 Nodes
+
+data/in/manual/VIRT_OPT005.in (n=5)
+Solved
+Resolution time 0.019s, 55 Nodes
+
+data/in/manual/virt_opt004.in (n=6)
+Solved
+Resolution time 0.028s, 95 Nodes
+
+data/in/manual/VIRT_OPT218.in (n=11)
+Solved
+Resolution time 2.325s, 6530 Nodes
+
+data/in/manual/VIRT_OPT229.in (n=11)
+Solved
+Resolution time 0.153s, 450 Nodes
+
+data/in/manual/sample.in (n=7)
+Solved
+Resolution time 0.199s, 1393 Nodes
+
+data/in/manual/VIRT_OPT207.in (n=11)
+Solved
+Resolution time 0.800s, 2354 Nodes
+
+data/in/manual/VIRT_OPT275.in (n=11)
+Solved
+Resolution time 1.087s, 2264 Nodes
+
+data/in/manual/VIRT_OPT027.in (n=7)
+Solved
+Resolution time 0.086s, 494 Nodes
+
+data/in/manual/VIRT_OPT048.in (n=9)
+Solved
+Resolution time 0.912s, 5212 Nodes
+
+data/in/manual/VIRT_OPT190.in (n=11)
+Solved
+Resolution time 0.058s, 98 Nodes
+
+data/in/manual/VIRT_OPT068.in (n=11)
+Solved
+Resolution time 0.268s, 520 Nodes
+
+data/in/manual/VIRT_OPT192.in (n=11)
+Solved
+Resolution time 0.047s, 102 Nodes
+
+data/in/manual/VIRT_OPT078.in (n=11)
+Solved
+Resolution time 0.223s, 471 Nodes
+
+data/in/manual/VIRT_OPT270.in (n=11)
+Solved
+Resolution time 5.592s, 17881 Nodes
+
+data/in/manual/virt_opt009.in (n=8)
+Solved
+Resolution time 0.038s, 90 Nodes
+
+data/in/manual/VIRT_OPT265.in (n=11)
+Solved
+Resolution time 0.035s, 94 Nodes
+
+data/in/manual/VIRT_OPT226.in (n=11)
+Solved
+Resolution time 0.168s, 303 Nodes
+
+data/in/manual/VIRT_OPT046.in (n=9)
+Solved
+Resolution time 0.181s, 837 Nodes
+
+data/in/manual/VIRT_OPT079.in (n=11)
+Solved
+Resolution time 0.446s, 1514 Nodes
+
+data/in/manual/VIRT_OPT009.in (n=5)
+Solved
+Resolution time 0.002s, 13 Nodes
+
+data/in/manual/VIRT_OPT060.in (n=11)
+Solved
+Resolution time 0.087s, 164 Nodes
+
+data/in/manual/VIRT_OPT300.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT044.in (n=9)
+Solved
+Resolution time 0.590s, 2061 Nodes
+
+data/in/manual/VIRT_OPT264.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT018.in (n=6)
+Solved
+Resolution time 0.005s, 25 Nodes
+
+data/in/manual/VIRT_OPT020.in (n=7)
+Solved
+Resolution time 0.926s, 5768 Nodes
+
+data/in/manual/VIRT_OPT096.in (n=11)
+Solved
+Resolution time 1.496s, 3366 Nodes
+
+data/in/manual/VIRT_OPT189.in (n=11)
+Solved
+Resolution time 0.105s, 302 Nodes
+
+data/in/manual/VIRT_OPT245.in (n=11)
+Solved
+Resolution time 0.195s, 718 Nodes
+
+data/in/manual/VIRT_OPT157.in (n=11)
+Solved
+Resolution time 14.702s, 31325 Nodes
+
+data/in/manual/VIRT_OPT215.in (n=11)
+Solved
+Resolution time 2.198s, 7431 Nodes
+
+data/in/manual/VIRT_OPT073.in (n=11)
+Solved
+Resolution time 0.062s, 171 Nodes
+
+data/in/manual/VIRT_OPT121.in (n=11)
+Solved
+Resolution time 0.613s, 1537 Nodes
+
+data/in/manual/VIRT_OPT164.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT085.in (n=11)
+Solved
+Resolution time 26.737s, 112367 Nodes
+
+data/in/manual/VIRT_OPT135.in (n=11)
+Solved
+Resolution time 8.122s, 20700 Nodes
+
+data/in/manual/VIRT_OPT072.in (n=11)
+Solved
+Resolution time 1.330s, 2538 Nodes
+
+data/in/manual/VIRT_OPT002.in (n=5)
+Solved
+Resolution time 0.011s, 86 Nodes
+
+data/in/manual/VIRT_OPT138.in (n=11)
+Solved
+Resolution time 8.403s, 24170 Nodes
+
+data/in/manual/VIRT_OPT142.in (n=11)
+Solved
+Resolution time 15.491s, 43024 Nodes
+
+data/in/manual/VIRT_OPT031.in (n=8)
+Solved
+Resolution time 0.013s, 29 Nodes
+
+data/in/manual/VIRT_OPT081.in (n=11)
+Solved
+Resolution time 0.735s, 2642 Nodes
+
+data/in/manual/VIRT_OPT139.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT181.in (n=11)
+Solved
+Resolution time 0.026s, 55 Nodes
+
+data/in/manual/VIRT_OPT209.in (n=11)
+Solved
+Resolution time 1.865s, 6462 Nodes
+
+data/in/manual/VIRT_OPT269.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT143.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT201.in (n=11)
+Solved
+Resolution time 2.566s, 7543 Nodes
+
+data/in/manual/VIRT_OPT010.in (n=6)
+Solved
+Resolution time 0.003s, 38 Nodes
+
+data/in/manual/VIRT_OPT179.in (n=11)
+Solved
+Resolution time 0.146s, 406 Nodes
+
+data/in/manual/VIRT_OPT197.in (n=11)
+Solved
+Resolution time 0.081s, 272 Nodes
+
+data/in/manual/VIRT_OPT140.in (n=11)
+Solved
+Resolution time 1.986s, 3843 Nodes
+
+data/in/manual/VIRT_OPT126.in (n=11)
+Solved
+Resolution time 9.315s, 27591 Nodes
+
+data/in/manual/VIRT_OPT061.in (n=11)
+Solved
+Resolution time 0.026s, 32 Nodes
+
+data/in/manual/VIRT_OPT273.in (n=11)
+Solved
+Resolution time 1.486s, 3890 Nodes
+
+data/in/manual/VIRT_OPT223.in (n=11)
+Solved
+Resolution time 0.991s, 2599 Nodes
+
+data/in/manual/VIRT_OPT224.in (n=11)
+Solved
+Resolution time 2.469s, 6183 Nodes
+
+data/in/manual/VIRT_OPT047.in (n=9)
+Solved
+Resolution time 4.039s, 16162 Nodes
+
+data/in/manual/VIRT_OPT022.in (n=7)
+Solved
+Resolution time 0.010s, 61 Nodes
+
+data/in/manual/VIRT_OPT001.in (n=5)
+Solved
+Resolution time 0.004s, 18 Nodes
+
+data/in/manual/VIRT_OPT117.in (n=11)
+Solved
+Resolution time 37.320s, 99842 Nodes
+
+data/in/manual/virt_opt001.in (n=6)
+Solved
+Resolution time 0.003s, 13 Nodes
+
+data/in/manual/VIRT_OPT227.in (n=11)
+Solved
+Resolution time 0.072s, 224 Nodes
+
+data/in/manual/VIRT_OPT282.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT175.in (n=11)
+Solved
+Resolution time 0.023s, 62 Nodes
+
+data/in/manual/VIRT_OPT202.in (n=11)
+Solved
+Resolution time 0.320s, 925 Nodes
+
+data/in/manual/VIRT_OPT017.in (n=6)
+Solved
+Resolution time 0.012s, 30 Nodes
+
+data/in/manual/VIRT_OPT015.in (n=6)
+Solved
+Resolution time 0.006s, 21 Nodes
+
+data/in/manual/VIRT_OPT069.in (n=11)
+Solved
+Resolution time 0.142s, 332 Nodes
+
+data/in/manual/VIRT_OPT106.in (n=11)
+Solved
+Resolution time 0.038s, 217 Nodes
+
+data/in/manual/VIRT_OPT040.in (n=9)
+Solved
+Resolution time 3.534s, 11039 Nodes
+
+data/in/manual/VIRT_OPT178.in (n=11)
+Solved
+Resolution time 0.019s, 27 Nodes
+
+data/in/manual/VIRT_OPT089.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT242.in (n=11)
+Solved
+Resolution time 0.494s, 1406 Nodes
+
+data/in/manual/VIRT_OPT146.in (n=16)
+Unsolved
+
+data/in/manual/carleton.in (n=11)
+Solved
+Resolution time 1.319s, 4005 Nodes
+
+data/in/manual/VIRT_OPT256.in (n=11)
+Solved
+Resolution time 0.085s, 191 Nodes
+
+data/in/manual/VIRT_OPT066.in (n=11)
+Solved
+Resolution time 13.384s, 34509 Nodes
+
+data/in/manual/VIRT_OPT150.in (n=11)
+Unsolved
+
+data/in/manual/virt_opt013.in (n=9)
+Solved
+Resolution time 0.024s, 67 Nodes
+
+data/in/manual/VIRT_OPT014.in (n=6)
+Solved
+Resolution time 0.004s, 26 Nodes
+
+data/in/manual/VIRT_OPT114.in (n=11)
+Solved
+Resolution time 2.470s, 10936 Nodes
+
+data/in/manual/VIRT_OPT064.in (n=11)
+Solved
+Resolution time 0.211s, 460 Nodes
+
+data/in/manual/VIRT_OPT034.in (n=8)
+Solved
+Resolution time 0.158s, 735 Nodes
+
+data/in/manual/VIRT_OPT196.in (n=11)
+Solved
+Resolution time 0.416s, 1300 Nodes
+
+data/in/manual/VIRT_OPT032.in (n=8)
+Solved
+Resolution time 1.015s, 2122 Nodes
+
+data/in/manual/VIRT_OPT162.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT251.in (n=11)
+Solved
+Resolution time 28.759s, 103863 Nodes
+
+data/in/manual/VIRT_OPT154.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT087.in (n=11)
+Solved
+Resolution time 8.161s, 30968 Nodes
+
+data/in/manual/VIRT_OPT149.in (n=11)
+Solved
+Resolution time 7.567s, 18754 Nodes
+
+data/in/manual/VIRT_OPT024.in (n=7)
+Solved
+Resolution time 0.089s, 397 Nodes
+
+data/in/manual/VIRT_OPT127.in (n=11)
+Solved
+Resolution time 0.098s, 207 Nodes
+
+data/in/manual/VIRT_OPT165.in (n=11)
+Solved
+Resolution time 15.610s, 37595 Nodes
+
+data/in/manual/8online.in (n=8)
+Solved
+Resolution time 0.819s, 1803 Nodes
+
+data/in/manual/VIRT_OPT156.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT257.in (n=11)
+Solved
+Resolution time 0.109s, 302 Nodes
+
+data/in/manual/VIRT_OPT252.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT108.in (n=11)
+Solved
+Resolution time 0.123s, 287 Nodes
+
+data/in/manual/virt_opt003.in (n=6)
+Solved
+Resolution time 0.028s, 54 Nodes
+
+data/in/manual/VIRT_OPT134.in (n=11)
+Solved
+Resolution time 2.160s, 6428 Nodes
+
+data/in/manual/VIRT_OPT185.in (n=11)
+Solved
+Resolution time 0.539s, 1240 Nodes
+
+data/in/manual/VIRT_OPT103.in (n=11)
+Solved
+Resolution time 1.128s, 6888 Nodes
+
+data/in/manual/VIRT_OPT286.in (n=18)
+Unsolved
+
+data/in/manual/VIRT_OPT100.in (n=11)
+Solved
+Resolution time 0.417s, 939 Nodes
+
+data/in/manual/VIRT_OPT249.in (n=11)
+Solved
+Resolution time 10.545s, 25031 Nodes
+
+data/in/manual/VIRT_OPT013.in (n=6)
+Solved
+Resolution time 0.042s, 134 Nodes
+
+data/in/manual/VIRT_OPT102.in (n=11)
+Solved
+Resolution time 0.146s, 638 Nodes
+
+data/in/manual/VIRT_OPT199.in (n=11)
+Solved
+Resolution time 0.019s, 65 Nodes
+
+data/in/manual/VIRT_OPT200.in (n=11)
+Solved
+Resolution time 0.054s, 213 Nodes
+
+data/in/manual/VIRT_OPT216.in (n=11)
+Solved
+Resolution time 7.889s, 32230 Nodes
+
+data/in/manual/VIRT_OPT173.in (n=11)
+Solved
+Resolution time 8.676s, 27086 Nodes
+
+data/in/manual/VIRT_OPT021.in (n=7)
+Solved
+Resolution time 0.044s, 169 Nodes
+
+data/in/manual/VIRT_OPT230.in (n=11)
+Solved
+Resolution time 0.032s, 78 Nodes
+
+data/in/manual/VIRT_OPT006.in (n=5)
+Solved
+Resolution time 0.002s, 11 Nodes
+
+data/in/manual/VIRT_OPT214.in (n=11)
+Solved
+Resolution time 9.281s, 66052 Nodes
+
+data/in/manual/VIRT_OPT195.in (n=11)
+Solved
+Resolution time 0.308s, 871 Nodes
+
+data/in/manual/VIRT_OPT296.in (n=11)
+Solved
+Resolution time 16.545s, 52917 Nodes
+
+data/in/manual/VIRT_OPT281.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT055.in (n=10)
+Solved
+Resolution time 1.874s, 5198 Nodes
+
+data/in/manual/VIRT_OPT266.in (n=11)
+Solved
+Resolution time 0.289s, 726 Nodes
+
+data/in/manual/VIRT_OPT124.in (n=11)
+Solved
+Resolution time 0.838s, 2117 Nodes
+
+data/in/manual/VIRT_OPT220.in (n=11)
+Solved
+Resolution time 0.040s, 107 Nodes
+
+data/in/manual/VIRT_OPT075.in (n=11)
+Solved
+Resolution time 0.176s, 623 Nodes
+
+data/in/manual/virt_opt007.in (n=11)
+Solved
+Resolution time 0.074s, 215 Nodes
+
+data/in/manual/VIRT_OPT049.in (n=9)
+Solved
+Resolution time 1.240s, 12302 Nodes
+
+data/in/manual/VIRT_OPT086.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT011.in (n=6)
+Solved
+Resolution time 0.011s, 31 Nodes
+
+data/in/manual/VIRT_OPT159.in (n=11)
+Solved
+Resolution time 5.757s, 10400 Nodes
+
+data/in/manual/VIRT_OPT137.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT288.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT033.in (n=8)
+Solved
+Resolution time 0.278s, 1417 Nodes
+
+data/in/manual/VIRT_OPT104.in (n=11)
+Solved
+Resolution time 0.338s, 1465 Nodes
+
+data/in/manual/VIRT_OPT191.in (n=11)
+Solved
+Resolution time 0.036s, 75 Nodes
+
+data/in/manual/VIRT_OPT019.in (n=6)
+Solved
+Resolution time 0.033s, 107 Nodes
+
+data/in/manual/VIRT_OPT278.in (n=11)
+Solved
+Resolution time 2.133s, 3933 Nodes
+
+data/in/manual/VIRT_OPT053.in (n=10)
+Solved
+Resolution time 1.861s, 9374 Nodes
+
+data/in/manual/VIRT_OPT026.in (n=7)
+Solved
+Resolution time 0.028s, 80 Nodes
+
+data/in/manual/virt_opt008.in (n=11)
+Solved
+Resolution time 0.466s, 1514 Nodes
+
+data/in/manual/VIRT_OPT172.in (n=11)
+Solved
+Resolution time 0.111s, 292 Nodes
+
+data/in/manual/VIRT_OPT176.in (n=11)
+Solved
+Resolution time 0.142s, 434 Nodes
+
+data/in/manual/VIRT_OPT122.in (n=11)
+Solved
+Resolution time 0.357s, 1138 Nodes
+
+data/in/manual/VIRT_OPT062.in (n=11)
+Solved
+Resolution time 0.101s, 260 Nodes
+
+data/in/manual/VIRT_OPT194.in (n=11)
+Solved
+Resolution time 7.704s, 23089 Nodes
+
+data/in/manual/VIRT_OPT244.in (n=11)
+Solved
+Resolution time 0.079s, 224 Nodes
+
+data/in/manual/VIRT_OPT248.in (n=11)
+Unsolved
+
+data/in/manual/VIRT_OPT272.in (n=11)
+Solved
+Resolution time 0.734s, 1554 Nodes
+
+data/in/manual/VIRT_OPT276.in (n=11)
+Solved
+Resolution time 0.182s, 424 Nodes
+
+data/in/manual/VIRT_OPT036.in (n=8)
+Solved
+Resolution time 0.041s, 237 Nodes
+
+data/in/manual/VIRT_OPT000.in (n=5)
+Solved
+Resolution time 0.008s, 47 Nodes
+
+data/in/manual/VIRT_OPT099.in (n=11)
+Solved
+Resolution time 0.021s, 73 Nodes
+
+data/in/manual/VIRT_OPT262.in (n=11)
+Solved
+Resolution time 3.312s, 7592 Nodes
+
+data/in/manual/VIRT_OPT118.in (n=11)
+Solved
+Resolution time 0.761s, 1913 Nodes
+
+data/in/manual/VIRT_OPT177.in (n=11)
+Solved
+Resolution time 0.189s, 367 Nodes
+
+data/in/manual/VIRT_OPT080.in (n=11)
+Solved
+Resolution time 1.308s, 4491 Nodes
+
+data/in/manual/VIRT_OPT231.in (n=11)
+Solved
+Resolution time 0.083s, 324 Nodes
+
+data/in/manual/VIRT_OPT007.in (n=5)
+Solved
+Resolution time 0.003s, 17 Nodes
+
+data/in/manual/virt_opt012.in (n=9)
+Solved
+Resolution time 0.171s, 714 Nodes
+
+data/in/manual/VIRT_OPT283.in (n=11)
+Solved
+Resolution time 13.227s, 26897 Nodes
+
+data/in/manual/VIRT_OPT225.in (n=11)
+Solved
+Resolution time 0.040s, 108 Nodes
+
+data/in/manual/VIRT_OPT065.in (n=11)
+Solved
+Resolution time 0.906s, 2083 Nodes
+
+data/in/manual/VIRT_OPT170.in (n=11)
+Solved
+Resolution time 9.539s, 18794 Nodes
+
+data/in/manual/VIRT_OPT050.in (n=10)
+Solved
+Resolution time 0.418s, 1216 Nodes
+
+data/in/manual/VIRT_OPT095.in (n=11)
+Solved
+Resolution time 0.585s, 1186 Nodes
+
+data/in/manual/VIRT_OPT161.in (n=11)
+Solved
+Resolution time 3.282s, 7657 Nodes
+
+data/in/manual/VIRT_OPT128.in (n=11)
+Solved
+Resolution time 1.177s, 3426 Nodes
+
