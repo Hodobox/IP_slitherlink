@@ -12,13 +12,15 @@ public class Tester {
 	
 	private static final SimpleDateFormat sdf = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss");
 	
-	public static void test(Class<? extends Slitherlink> modelClass, long timeLimit, String dir) throws IOException
+	public static void test(Class<? extends Slitherlink> modelClass, long timeLimit, String dir, String logName) throws IOException
 	{	
 		System.out.println("Using model: " + modelClass.getSimpleName());
 		System.out.println("Timelimit: " + timeLimit);
 		
 		Timestamp timestamp = new Timestamp(System.currentTimeMillis());
-		String logName = "logs/" + sdf.format(timestamp).replace('.', '-') + ".txt";
+		if(logName == null) logName = "logs/" + sdf.format(timestamp).replace('.', '-') + ".txt";
+		else logName = "logs/" + logName + ".txt";
+		
 		System.out.println("Logging to " + logName);
 		File logFile = new File(logName);
 		try {
