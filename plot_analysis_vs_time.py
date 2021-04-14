@@ -16,6 +16,7 @@ parser.add_argument('-L',type=int,help='axis limit')
 parser.add_argument('-s',type=str)
 parser.add_argument('-S',action='store_true')
 parser.add_argument('-a',type=float)
+parser.add_argument('-A',type=str,default='Slitherink/data/analysis/',help='directory with analysis files')
 
 args = parser.parse_args()
 
@@ -48,7 +49,7 @@ y = []
 for instance in times:
     try:
         data = {}
-        with open('Slitherink/data/analysis/' + instance + ".txt",'r') as stats:
+        with open(args.A + instance + ".txt",'r') as stats:
             lines = stats.readlines()
             for l in lines:
                 data[l.strip().split()[0]] = ' '.join(l.strip().split()[1:])
