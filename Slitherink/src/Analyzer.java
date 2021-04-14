@@ -77,6 +77,9 @@ public class Analyzer {
 		for(File input : files)
 		{ 
 			// attempt to find a solved instance
+			if(input.getPath().endsWith(".in") == false)
+				continue;
+			
 			Validator instance = getSolution(input);
 			if(instance == null)
 			{
